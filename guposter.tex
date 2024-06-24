@@ -6,86 +6,106 @@
 \setlist{noitemsep} 
 \usepackage{booktabs}
 \usepackage{caption}
+\usepackage{amssymb}
 
-\title{\parbox{\linewidth}{The typically very long title of your paper of whatever it is that you are making a poster about}}
-\author{First Author, Second Author and Possibly More}
-\institute{Your research group, your department, University of Gothenburg}
 
+\title{\parbox{\linewidth}{SweLL-UD: A Treebank of L2 Swedish Essays \includegraphics[width=0.05\textwidth]{images/syntax}}}
+\date{1st UniDive Training School, 8-12 July 2024, Technical University of Moldova}
+\author{Arianna Masciolini}
+\institute{Språkbanken Text, Department of Swedish, Multilingualism, Language Technology, University of Gothenburg, Sweden}
 
 \begin{document}
-\maketitle
+\maketitle 
 
-% Tip: for long titles, use \parbox{\linewidth}{text}
-
-\block{Abstract}{
-    Or anything else that you don't want to display in a two-column format.
-}
 
 \begin{columns}
 \column{0.5}
 
-\block{A block}{
 
-    Each block can contain:
-
+\block{UD Treebanks in SLA Research}{
+    Benefits of UD treebanks in corpus-based Second Language Acquisition research:
+    \vskip 0.5em
     \begin{itemize}
-        \item text
-        \item lists, like this one
-        \item tables (but put your \texttt{tabular}s inside \texttt{minipage}s, not \texttt{table}s!)
-        \item images, like the one in the block below
+        \item uniform morphosyntactic annotation layer allowing for \textbf{cross-lingual \newline comparisons}:
+        \begin{itemize}
+            \item between standard and learner language
+            \item between a learner's L1 and L2
+            \item between different L2s
+        \end{itemize}
+        \item possibility to carry out \textbf{grammatical error analysis} without explicit error tagging e.g. if learner sentences are paired with corrections (\textit{parallel L1-L2 treebank})
+        \item \textbf{semi-automatic annotation} through existing parsers
     \end{itemize}
 }
 
-\block{Another block with an image}{
-    \begin{center}
-        \includegraphics[width=0.25\textwidth]{images/logo}
-    \end{center}
-}
-
-\block{A third 1-column block with a tiny table}{
+\block{Existing L2 UD Treebanks}{
     \begin{minipage}{\linewidth}
         \centering
-        \resizebox{0.3\columnwidth}{!}{
-            \begin{tabular}{@{}ll@{}}
-                \toprule
-                Column 1 & Column 2 \\ \midrule
-                Cell 1A  & Cell 2A  \\
-                Cell 1B  & Cell 2B  \\
-            \end{tabular}
+        \resizebox{0.7\columnwidth}{!}{
+            \begin{tabular}{llclc}
+                \textbf{language} & \textbf{name} & \textbf{\# sentences} & \textbf{status} & \textbf{parallel} \\
+                \midrule
+                Chinese           & CFL           & 451                  & released        & no                \\
+                English           & ESL           & 5124                 & retired*         & yes               \\
+                Italian           & Valico        & 398                  & released        & yes               \\
+                Korean            & KSL           & 7530                 & released*       & no                \\
+                Russian           & ?             & 500                  & in progress     & yes               \\
+                \color{gublue}{Swedish}           & \color{gublue}{SweLL}         & \color{gublue}{\textasciitilde 5000}                & \color{gublue}{in progress}     & \color{gublue}{yes}              
+                \end{tabular}
         }
-        \captionof{table}{This is a caption}
     \end{minipage}
-}
+    \vskip 35pt  
+    * available through GitHub but not part of the latest UD release\newline
+    }
 
 \column{0.5}
 
-\block{A block with sub-blocks}{
-    Each block can contain however many inner blocks.
-
-    \innerblock{An inner block}{
-        This is the first inner block.
+\block{The SweLL-UD treebank}{
+    \innerblock{Objectives} {
+        \begin{itemize}
+            \item ultimate goal: building a \textbf{training-scale treebank} of L2 Swedish
+            \item within the next few months: releasing a high-quality \textbf{500-sentence test set}
+            \item at the training school: discussing \textbf{L2-specific guidelines} and \textbf{tooling}
+        \end{itemize}
     }
-
-    \innerblock{Another inner block}{
-        This is the second and last inner block.
+    \innerblock{Data}{
+        Source corpus: \textbf{SweLL-gold} (Swedish Learner Language corpus)
+        \begin{itemize}
+            \item \textbf{text type}: short essays
+            \item \textbf{learners}: adult L2 Swedish students with various language backgrounds and proficiency levels
+            \item \textbf{annotation}: manual correction + error tagging + pseudonymization
+            \item \textbf{size}: 502 essays, \textasciitilde 5000 parallel sentences
+            \item \textbf{license}: CLARIN-ID -PRIV \underline{-NORED} -BY (but the data can be and has been redistributed as long as it is not possible to reconstruct full essays)
+        \end{itemize}
     }
-}
-
-\block{}{
-    Blocks don't necessarily always have a title.
-}
-
-\begingroup
-\colorlet{framecolor}{gublue}
-\block{A block with a blue frame}{
-    This sticks out a little bit more.
-}
-\endgroup
-
-\block{The final block with credits}{
-    This template is largely based on the SINTEF poster template (see \texttt{www.overleaf.com/latex/templates/sintef-poster/hksprrptfntf}).
+    \innerblock{Project status and plan}{
+        \begin{enumerate}
+            \item \textbf{preprocessing}: sentence pair and metadata extraction, conversion to CoNNL-U, shuffling and creation of a train, development and test split \checkmark
+            \item \textbf{preliminary annotation experiments} with a small annotation team \checkmark
+            \item \textbf{L1 (corrections) annotation}:
+            \begin{enumerate}
+                \item automatic pre-annotation with an off-the-shelf parser\checkmark
+                \item manual validation with a larger annotation team (hopefully mixed L1 and L2 speakers, students and researchers)
+            \end{enumerate}
+            \item \textbf{L2 (originals) annotation}:
+            \begin{enumerate}
+                \item automatic pre-annotation with parser fine-tuned on the manually validated corrections $\uparrow$
+                \item manual validation with the same annotation team
+            \end{enumerate}
+        \end{enumerate}
+    }
 }
 
 \end{columns}
+
+\block{}{
+    TODO: example tree pair from SweLL, glossed
+}
+
+\block{Acknowledgement}{
+    TODO: financing for both annotation and summer school, other participants
+    TODO: nationella Språkbanken logo
+
+    \includegraphics[width=\linewidth]{images/mandatory_logos}
+}
 \end{document}
 

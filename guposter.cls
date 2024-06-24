@@ -51,7 +51,7 @@
   (bottomleft) rectangle (topright);
   \node[inner sep=0pt] (gu) at   
   (0.45\paperwidth-9cm,0.5\paperheight-7.5cm)
-      {\includegraphics[width=12cm]{images/logo}};
+      {\includegraphics[width=12cm]{images/gusbx}};
 }
 
 \definetitlestyle{gu}{
@@ -62,10 +62,13 @@ titletotopverticalspace=5cm, titletoblockverticalspace=2cm
 \renewcommand\TP@maketitle{%
     \begin{minipage}{0.8\titlewidth}
         \color{titlefgcolor}
+        \vspace*{-2em}
         {\Huge \textbf{\@title} \par}
-        \vspace*{2em}
-        {\textcolor{gublue}{\rule{4cm}{2mm}}\par}
+        \vspace*{1em}
+        {\huge \@date \par}
         \vspace*{1.5em}
+        {\textcolor{gublue}{\rule{4cm}{2mm}}\par}
+        \vspace*{1em}
         {\huge \@author \par}
         \vspace*{1em}
         {\Large \@institute}
