@@ -9,7 +9,7 @@
 \usepackage{amssymb}
 
 
-\title{\parbox{\linewidth}{SweLL-UD: A Treebank of L2 Swedish Essays \includegraphics[width=0.05\textwidth]{images/syntax}}}
+\title{\parbox{\linewidth}{SweLL-UD: A Treebank of L2 Swedish Essays \includegraphics[width=0.045\textwidth]{images/syntax}}}
 \date{1st UniDive Training School, 8-12 July 2024, Technical University of Moldova}
 \author{\textbf{Arianna Masciolini} with Maria Irena Szawerna and Elena Volodina}
 \institute{Språkbanken Text, Department of Swedish, Multilingualism, Language Technology, University of Gothenburg, Sweden}
@@ -76,28 +76,28 @@
     \innerblock{Data}{
         Source corpus: \textbf{SweLL-gold} (Swedish Learner Language corpus)
         \begin{itemize}
-            \item \textbf{text type}: short essays
+            \item \textbf{genre}: essays (various topics)
             \item \textbf{learners}: adult L2 Swedish students with various language backgrounds and proficiency levels
-            \item \textbf{annotation}: manual correction + error tagging + pseudonymization
-            \item \textbf{size}: 502 essays, \textasciitilde 5000 parallel sentences
-            \item \textbf{license}: CLARIN-ID -PRIV \underline{-NORED} -BY (but the data can be and has been redistributed as long as it is not possible to reconstruct full essays)
+            \item \textbf{annotation}: manual correction, error tagging and pseudonymization
+            \item \textbf{size}: 502 essays (5000+ parallel sentences)
+            \item \textbf{license}: CLARIN-ID -PRIV \underline{-NORED} -BY (but the data can and has been redistributed as long as it is impossible to reconstruct full essays)
         \end{itemize}
     }
     \vskip 5pt
     \innerblock{Project status and plan}{
         \begin{enumerate}
-            \item \textbf{preprocessing}: sentence pair and metadata extraction, conversion to CoNNL-U, shuffling and creation of a train, development and test split \checkmark
+            \item \textbf{preprocessing}: sentence pair and metadata extraction, CoNNL-U format conversion, shuffling and creation of train, development and test splits \checkmark
             \item \textbf{preliminary annotation experiments} with a small annotation team \checkmark
             \item \textbf{L1 (corrections) annotation}:
-            \begin{enumerate}
-                \item automatic pre-annotation with an off-the-shelf parser\checkmark
-                \item manual validation (larger annotation team including both L1 and L2 Swedish speakers)
-            \end{enumerate}
+            \begin{itemize}
+                \item automatic pre-annotation with a pretrained UDPipe model \checkmark
+                \item manual validation with a larger annotation team including both \newline L1 and L2 Swedish speakers
+            \end{itemize}
             \item \textbf{L2 (originals) annotation}:
-            \begin{enumerate}
-                \item automatic pre-annotation with a custom parser
+            \begin{itemize}
+                \item automatic pre-annotation with a custom (fine-tuned) model
                 \item manual validation with the larger annotation team
-            \end{enumerate}
+            \end{itemize}
         \end{enumerate}
     }
     \vskip 5pt
@@ -107,13 +107,13 @@
             \begin{itemize}
                 \item tree visualization
                 \item no installation required (as with Eevee)
-                \item parallel editing/viewing (as with STUnD)
+                \item parallel L1-L2 editing (or at least viewing, as with STUnD)
             \end{itemize}
             \item \textbf{L2-specific guidelines}:
             \begin{itemize}
-                \item to what extent to should take into account the syntactic annotation of a the correction when annotating an original sentence?
+                \item when annotating an original learner sentence, to what extent should the syntactic annotation of its correction be taken into account?
                 \item what is a good balance between the general principle of \textit{literal reading} and keeping the two trees as structurally similar as possible?
-                \item should the existing L1-specific guidelines be applied when annotating constructions the learner borrowed from their first language?
+                \item should the existing L1-specific guidelines be applied when annotating constructionsn that the learners borrow from their L1?
             \end{itemize}
         \end{itemize}
     }
@@ -452,8 +452,7 @@
 }
 
 \block{Acknowledgement}{
-    Participation to the training school is funded by UniDive. 
-    This annotation project is supported by the Swedish National Research Infrastructure Nationella Språkbanken, funded jointly by the Swedish Research Council (2018–2024, contact 2017-00626) and the ten participating partner institutions.
+    Participation to the training school is funded by UniDive, while the annotation project is supported by the Swedish National Research Infrastructure Nationella Språkbanken, funded jointly by the Swedish Research Council (2018–2024, contact 2017-00626) and the ten participating partner institutions.
 
     \vskip 30pt
 
