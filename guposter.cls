@@ -62,7 +62,7 @@ titletotopverticalspace=5cm, titletoblockverticalspace=2cm
 \renewcommand\TP@maketitle{%
     \begin{minipage}{0.8\titlewidth}
         \color{titlefgcolor}
-        \vspace*{-1.5em}
+        \vspace*{-2em}
         {\Huge \textbf{\@title} \par}
         \vspace*{1em}
         {\huge \@date \par}
