@@ -11,7 +11,7 @@
 
 \title{\parbox{\linewidth}{SweLL-UD: A Treebank of L2 Swedish Essays \includegraphics[width=0.05\textwidth]{images/syntax}}}
 \date{1st UniDive Training School, 8-12 July 2024, Technical University of Moldova}
-\author{\textbf{Arianna Masciolini}, Maria Irena Szawerna and Elena Volodina}
+\author{\textbf{Arianna Masciolini} with Maria Irena Szawerna and Elena Volodina}
 \institute{Språkbanken Text, Department of Swedish, Multilingualism, Language Technology, University of Gothenburg, Sweden}
 
 \begin{document}
@@ -23,21 +23,21 @@
 
 
 \block{UD Treebanks in SLA Research}{
-    Benefits of UD treebanks in corpus-based Second Language Acquisition research:
+    Advantages of UD treebanks in corpus-based Second Language Acquisition research:
     \vskip 0.5em
     \begin{itemize}
-        \item uniform morphosyntactic annotation layer allowing for \textbf{cross-lingual \newline comparisons}:
+        \item uniform morphosyntactic annotation layer allowing for qualitative and quantitative \textbf{cross-lingual comparisons}:
         \begin{itemize}
             \item between standard and learner language
             \item between a learner's L1 and L2
             \item between different L2s
         \end{itemize}
-        \item possibility to carry out \textbf{grammatical error analysis} without explicit error tagging e.g. if learner sentences are paired with corrections (\textbf{\textit{parallel L1-L2 treebank}})
-        \item \textbf{semi-automatic annotation} through existing parsers
+        \item possibility to carry out \textbf{grammatical error retrieval and analysis} and \textbf{automatic feedback generation} without explicit error tagging e.g. if learner sentences are paired with corrections (\textbf{\textit{parallel L1-L2 treebank}})
+        \item \textbf{semi-automatic annotation} with the help of the existing UD parsers
     \end{itemize}
 }
 
-\block{Existing L2 UD Treebanks}{
+\block{Existing Second Language UD Treebanks}{
     \begin{minipage}{\linewidth}
         \centering
         \resizebox{0.7\columnwidth}{!}{
@@ -53,20 +53,26 @@
                 \end{tabular}
         }
     \end{minipage}
-    \vskip 35pt  
-    * available through GitHub but not part of the latest UD release\newline
+    \vskip 25pt  
+    \small{* available through GitHub but not part of the latest UD release\newline}
     }
+
+
+\block{The SweLL-UD treebank}{
+    \vskip 10pt
+    \innerblock{Objectives} {
+        \begin{itemize}
+            \item end goal: building a \textbf{training-scale treebank} of L2 Swedish
+            \item within the next few months: releasing a high-quality \textbf{500-sentence test set}
+            \item at the training school: further experimenting with \textbf{annotation of L2 essays} and discussing \textbf{open questions}
+        \end{itemize}
+    }
+}
 
 \column{0.5}
 
-\block{The SweLL-UD treebank}{
-    \innerblock{Objectives} {
-        \begin{itemize}
-            \item ultimate goal: building a \textbf{training-scale treebank} of L2 Swedish
-            \item within the next few months: releasing a high-quality \textbf{500-sentence test set}
-            \item at the training school: discussing \textbf{L2-specific guidelines} and \textbf{tooling}
-        \end{itemize}
-    }
+\block{}{
+    \vskip -20pt
     \innerblock{Data}{
         Source corpus: \textbf{SweLL-gold} (Swedish Learner Language corpus)
         \begin{itemize}
@@ -77,6 +83,7 @@
             \item \textbf{license}: CLARIN-ID -PRIV \underline{-NORED} -BY (but the data can be and has been redistributed as long as it is not possible to reconstruct full essays)
         \end{itemize}
     }
+    \vskip 5pt
     \innerblock{Project status and plan}{
         \begin{enumerate}
             \item \textbf{preprocessing}: sentence pair and metadata extraction, conversion to CoNNL-U, shuffling and creation of a train, development and test split \checkmark
@@ -93,12 +100,29 @@
             \end{enumerate}
         \end{enumerate}
     }
+    \vskip 5pt
+    \innerblock{Open questions}{
+        \begin{itemize}
+            \item \textbf{tooling} - desiderata:
+            \begin{itemize}
+                \item tree visualization
+                \item no installation required (as with Eevee)
+                \item parallel editing/viewing (as with STUnD)
+            \end{itemize}
+            \item \textbf{L2-specific guidelines}:
+            \begin{itemize}
+                \item to what extent to should take into account the syntactic annotation of a the correction when annotating an original sentence?
+                \item what is a good balance between the general principle of \textit{literal reading} and keeping the two trees as structurally similar as possible?
+                \item should the existing L1-specific guidelines be applied when annotating constructions the learner borrowed from their first language?
+            \end{itemize}
+        \end{itemize}
+    }
 }
 
 \end{columns}
 
 \block{}{
-
+\innerblock{Original sentence from a learner essay (errors highlighted in bold)}{
 \setlength{\unitlength}{0.575mm}
 \begin{picture}(1505.0,170.0)
     \thicklines
@@ -245,68 +269,69 @@
     \put(656.5,133.0){{\tiny punct}}
     \put(98.0,170.0){\vector(0,-1){140.0}}
     \put(103.0,160.0){{\tiny root}}
-  \end{picture}
+  \end{picture}}
   
   \vskip 100pt
-    
+
+  \innerblock{Corresponding correction hypothesis}{
     \setlength{\unitlength}{0.468mm}
 \begin{picture}(1839.0,170.0)
     \thicklines
-  \put(0.0,0.0){Det}
-  \put(46.0,0.0){var}
-  \put(83.0,0.0){svårt}
-  \put(138.0,0.0){för}
-  \put(175.0,0.0){mig}
-  \put(221.0,0.0){först}
-  \put(276.0,0.0){på}
-  \put(313.0,0.0){grund}
-  \put(368.0,0.0){av}
-  \put(405.0,0.0){den}
-  \put(442.0,0.0){nya}
-  \put(479.0,0.0){kulturen}
-  \put(561.0,0.0){och}
-  \put(616.0,0.0){språket}
-  \put(689.0,0.0){och}
-  \put(744.0,0.0){att}
-  \put(799.0,0.0){jag}
-  \put(845.0,0.0){behövde}
-  \put(921.0,0.0){träffa}
-  \put(982.0,0.0){olika}
-  \put(1037.0,0.0){människor}
-  \put(1128.0,0.0){,}
-  \put(1183.0,0.0){men}
-  \put(1238.0,0.0){varje}
-  \put(1293.0,0.0){dag}
-  \put(1339.0,0.0){går}
-  \put(1385.0,0.0){det}
-  \put(1431.0,0.0){lättare}
-  \put(1504.0,0.0){.}
-  \put(7.0,-20.0){\textit{It}}
-  \put(46.0,-20.0){\textit{was}}
-  \put(83.0,-20.0){\textit{hard}}
-  \put(138.0,-20.0){\textit{for}}
-  \put(175.0,-20.0){\textit{me}}
-  \put(210.0,-20.0){\textit{at first}}
-  \put(282.0,-20.0){\textit{because of}}
-  \put(405.0,-20.0){\textit{the}}
-  \put(440.0,-20.0){\textit{new}}
-  \put(483.0,-20.0){\textit{culture}}
-  \put(560.0,-20.0){\textit{and}}
-  \put(604.0,-20.0){\textit{language}}
-  \put(689.0,-20.0){\textit{and}}
-  \put(739.0,-20.0){\textit{that}}
-  \put(805.0,-20.0){\textit{I}}
-  \put(845.0,-20.0){\textit{had to}}
-  \put(920.0,-20.0){\textit{meet}}
-  \put(982.0,-20.0){\textit{different}}
-  \put(1063.0,-20.0){\textit{people}}
-  \put(1128.0,-20.0){\textit{,}}
-  \put(1183.0,-20.0){\textit{but}}
-  \put(1236.0,-20.0){\textit{every}}
-  \put(1293.0,-20.0){\textit{day}}
-  \put(1347.0,-20.0){\textit{it gets}}
-  \put(1432.0,-20.0){\textit{easier}}
-  \put(1504.0,-20.0){\textit{.}}
+  \put(0.0,-2.0){Det}
+  \put(46.0,-2.0){var}
+  \put(83.0,-2.0){svårt}
+  \put(138.0,-2.0){för}
+  \put(175.0,-2.0){mig}
+  \put(221.0,-2.0){först}
+  \put(276.0,-2.0){på}
+  \put(313.0,-2.0){grund}
+  \put(368.0,-2.0){av}
+  \put(405.0,-2.0){den}
+  \put(442.0,-2.0){nya}
+  \put(479.0,-2.0){kulturen}
+  \put(561.0,-2.0){och}
+  \put(616.0,-2.0){språket}
+  \put(689.0,-2.0){och}
+  \put(744.0,-2.0){att}
+  \put(799.0,-2.0){jag}
+  \put(845.0,-2.0){behövde}
+  \put(921.0,-2.0){träffa}
+  \put(982.0,-2.0){olika}
+  \put(1037.0,-2.0){människor}
+  \put(1128.0,-2.0){,}
+  \put(1183.0,-2.0){men}
+  \put(1238.0,-2.0){varje}
+  \put(1293.0,-2.0){dag}
+  \put(1339.0,-2.0){går}
+  \put(1385.0,-2.0){det}
+  \put(1431.0,-2.0){lättare}
+  \put(1504.0,-2.0){.}
+  \put(7.0,-28.0){\textit{It}}
+  \put(46.0,-28.0){\textit{was}}
+  \put(83.0,-28.0){\textit{hard}}
+  \put(138.0,-28.0){\textit{for}}
+  \put(175.0,-28.0){\textit{me}}
+  \put(210.0,-28.0){\textit{at first}}
+  \put(282.0,-28.0){\textit{because of}}
+  \put(405.0,-28.0){\textit{the}}
+  \put(440.0,-28.0){\textit{new}}
+  \put(483.0,-28.0){\textit{culture}}
+  \put(560.0,-28.0){\textit{and}}
+  \put(604.0,-28.0){\textit{language}}
+  \put(689.0,-28.0){\textit{and}}
+  \put(739.0,-28.0){\textit{that}}
+  \put(805.0,-28.0){\textit{I}}
+  \put(845.0,-28.0){\textit{had to}}
+  \put(920.0,-28.0){\textit{meet}}
+  \put(982.0,-28.0){\textit{different}}
+  \put(1063.0,-28.0){\textit{people}}
+  \put(1128.0,-28.0){\textit{,}}
+  \put(1183.0,-28.0){\textit{but}}
+  \put(1236.0,-28.0){\textit{every}}
+  \put(1293.0,-28.0){\textit{day}}
+  \put(1347.0,-28.0){\textit{it gets}}
+  \put(1432.0,-28.0){\textit{easier}}
+  \put(1504.0,-28.0){\textit{.}}
   \put(0.0,15.0){{\tiny PRON}}
   \put(46.0,15.0){{\tiny AUX}}
   \put(83.0,15.0){{\tiny ADJ}}
@@ -422,7 +447,7 @@
   \put(798.5,133.0){{\tiny punct}}
   \put(98.0,170.0){\vector(0,-1){140.0}}
   \put(103.0,160.0){{\tiny root}}
-\end{picture}
+\end{picture}}
 
 }
 
