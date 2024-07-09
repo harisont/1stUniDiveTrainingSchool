@@ -35,5 +35,3 @@ MWE =
   - statistical
   - trad. ML-based
   - deep learning-based
-
-### PARSEME shared tasks
