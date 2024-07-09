@@ -1,0 +1,3321 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = swedish-talbanken-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Den bok jag nu sätter mig ner att skriva måste verka meningslös på många – om jag alls vågar tänka mig, att ”många” får läsa den – eftersom jag alldeles självmant, utan någons order, börjar ett sådant arbete och ändå inte själv är riktigt på det klara med vad avsikten är.
+1	Den	_	_	_	_	_	_	_	TokenRange=0:3
+2	bok	_	_	_	_	_	_	_	TokenRange=4:7
+3	jag	_	_	_	_	_	_	_	TokenRange=8:11
+4	nu	_	_	_	_	_	_	_	TokenRange=12:14
+5	sätter	_	_	_	_	_	_	_	TokenRange=15:21
+6	mig	_	_	_	_	_	_	_	TokenRange=22:25
+7	ner	_	_	_	_	_	_	_	TokenRange=26:29
+8	att	_	_	_	_	_	_	_	TokenRange=30:33
+9	skriva	_	_	_	_	_	_	_	TokenRange=34:40
+10	måste	_	_	_	_	_	_	_	TokenRange=41:46
+11	verka	_	_	_	_	_	_	_	TokenRange=47:52
+12	meningslös	_	_	_	_	_	_	_	TokenRange=53:63
+13	på	_	_	_	_	_	_	_	TokenRange=64:66
+14	många	_	_	_	_	_	_	_	TokenRange=67:72
+15	–	_	_	_	_	_	_	_	TokenRange=73:74
+16	om	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=75:77
+17	jag	_	_	_	_	_	_	_	TokenRange=79:82
+18	alls	_	_	_	_	_	_	_	TokenRange=83:87
+19	vågar	_	_	_	_	_	_	_	TokenRange=88:93
+20	tänka	_	_	_	_	_	_	_	TokenRange=94:99
+21	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=100:103
+22	,	_	_	_	_	_	_	_	TokenRange=103:104
+23	att	_	_	_	_	_	_	_	TokenRange=105:108
+24	”många”	_	_	_	_	_	_	_	TokenRange=109:116
+25	får	_	_	_	_	_	_	_	TokenRange=117:120
+26	läsa	_	_	_	_	_	_	_	TokenRange=121:125
+27	den	_	_	_	_	_	_	_	TokenRange=126:129
+28	–	_	_	_	_	_	_	_	TokenRange=130:131
+29	eftersom	_	_	_	_	_	_	_	TokenRange=132:140
+30	jag	_	_	_	_	_	_	_	TokenRange=141:144
+31	alldeles	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=145:153
+32	självmant	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=155:164
+33	,	_	_	_	_	_	_	_	TokenRange=164:165
+34	utan	_	_	_	_	_	_	_	TokenRange=166:170
+35	någons	_	_	_	_	_	_	_	TokenRange=171:177
+36	order	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=178:183
+37	,	_	_	_	_	_	_	_	TokenRange=183:184
+38	börjar	_	_	_	_	_	_	_	TokenRange=185:191
+39	ett	_	_	_	_	_	_	_	TokenRange=192:195
+40	sådant	_	_	_	_	_	_	_	TokenRange=196:202
+41	arbete	_	_	_	_	_	_	_	TokenRange=203:209
+42	och	_	_	_	_	_	_	_	TokenRange=210:213
+43	ändå	_	_	_	_	_	_	_	TokenRange=214:218
+44	inte	_	_	_	_	_	_	_	TokenRange=219:223
+45	själv	_	_	_	_	_	_	_	TokenRange=224:229
+46	är	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=230:232
+47	riktigt	_	_	_	_	_	_	_	TokenRange=234:241
+48	på	_	_	_	_	_	_	_	TokenRange=242:244
+49	det	_	_	_	_	_	_	_	TokenRange=245:248
+50	klara	_	_	_	_	_	_	_	TokenRange=249:254
+51	med	_	_	_	_	_	_	_	TokenRange=255:258
+52	vad	_	_	_	_	_	_	_	TokenRange=259:262
+53	avsikten	_	_	_	_	_	_	_	TokenRange=263:271
+54	är	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=272:274
+55	.	_	_	_	_	_	_	_	TokenRange=274:275
+
+# sent_id = 2
+# text = Jag vill och måste, det är alltsammans.
+1	Jag	_	_	_	_	_	_	_	TokenRange=276:279
+2	vill	_	_	_	_	_	_	_	TokenRange=280:284
+3	och	_	_	_	_	_	_	_	TokenRange=285:288
+4	måste	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=289:294
+5	,	_	_	_	_	_	_	_	TokenRange=294:295
+6	det	_	_	_	_	_	_	_	TokenRange=296:299
+7	är	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=300:302
+8	alltsammans	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=304:315
+9	.	_	_	_	_	_	_	_	TokenRange=315:316
+
+# sent_id = 3
+# text = Allt mer och mer obönhörligt frågar man efter avsikten och planmässigheten i vad som göres och säges, så att helst inte ett ord ska falla på måfå – det är bara författaren till den här boken som har tvingats gå motsatta vägen, ut i det ändamålslösa.
+1	Allt	_	_	_	_	_	_	_	TokenRange=317:321
+2	mer	_	_	_	_	_	_	_	TokenRange=322:325
+3	och	_	_	_	_	_	_	_	TokenRange=326:329
+4	mer	_	_	_	_	_	_	_	TokenRange=330:333
+5	obönhörligt	_	_	_	_	_	_	_	TokenRange=334:345
+6	frågar	_	_	_	_	_	_	_	TokenRange=346:352
+7	man	_	_	_	_	_	_	_	TokenRange=353:356
+8	efter	_	_	_	_	_	_	_	TokenRange=357:362
+9	avsikten	_	_	_	_	_	_	_	TokenRange=363:371
+10	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=372:375
+11	planmässigheten	_	_	_	_	_	_	_	TokenRange=377:392
+12	i	_	_	_	_	_	_	_	TokenRange=393:394
+13	vad	_	_	_	_	_	_	_	TokenRange=395:398
+14	som	_	_	_	_	_	_	_	TokenRange=399:402
+15	göres	_	_	_	_	_	_	_	TokenRange=403:408
+16	och	_	_	_	_	_	_	_	TokenRange=409:412
+17	säges	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=413:418
+18	,	_	_	_	_	_	_	_	TokenRange=418:419
+19	så	_	_	_	_	_	_	_	TokenRange=420:422
+20	att	_	_	_	_	_	_	_	TokenRange=423:426
+21	helst	_	_	_	_	_	_	_	TokenRange=427:432
+22	inte	_	_	_	_	_	_	_	TokenRange=433:437
+23	ett	_	_	_	_	_	_	_	TokenRange=438:441
+24	ord	_	_	_	_	_	_	_	TokenRange=442:445
+25	ska	_	_	_	_	_	_	_	TokenRange=446:449
+26	falla	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=450:455
+27	på	_	_	_	_	_	_	_	TokenRange=457:459
+28	måfå	_	_	_	_	_	_	_	TokenRange=460:464
+29	–	_	_	_	_	_	_	_	TokenRange=465:466
+30	det	_	_	_	_	_	_	_	TokenRange=467:470
+31	är	_	_	_	_	_	_	_	TokenRange=471:473
+32	bara	_	_	_	_	_	_	_	TokenRange=474:478
+33	författaren	_	_	_	_	_	_	_	TokenRange=479:490
+34	till	_	_	_	_	_	_	_	TokenRange=491:495
+35	den	_	_	_	_	_	_	_	TokenRange=496:499
+36	här	_	_	_	_	_	_	_	TokenRange=500:503
+37	boken	_	_	_	_	_	_	_	TokenRange=504:509
+38	som	_	_	_	_	_	_	_	TokenRange=510:513
+39	har	_	_	_	_	_	_	_	TokenRange=514:517
+40	tvingats	_	_	_	_	_	_	_	TokenRange=518:526
+41	gå	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=527:529
+42	motsatta	_	_	_	_	_	_	_	TokenRange=531:539
+43	vägen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=540:545
+44	,	_	_	_	_	_	_	_	TokenRange=545:546
+45	ut	_	_	_	_	_	_	_	TokenRange=547:549
+46	i	_	_	_	_	_	_	_	TokenRange=550:551
+47	det	_	_	_	_	_	_	_	TokenRange=552:555
+48	ändamålslösa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=556:568
+49	.	_	_	_	_	_	_	_	TokenRange=568:569
+
+# sent_id = 4
+# text = Ty fast mina år här som fånge och kemist – de måste vara över tjugu, tänker jag mig – har varit fulla nog ändå av arbete och brådska, måste det finnas något som inte tycker det är tillräckligt och som har lett och överblickat ett annat arbete inom mig, ett som jag själv inte hade någon möjlighet att överblicka och där jag ändå har varit djupt och nästan plågsamt medintresserad.
+1	Ty	_	_	_	_	_	_	_	TokenRange=570:572
+2	fast	_	_	_	_	_	_	_	TokenRange=573:577
+3	mina	_	_	_	_	_	_	_	TokenRange=578:582
+4	år	_	_	_	_	_	_	_	TokenRange=583:585
+5	här	_	_	_	_	_	_	_	TokenRange=586:589
+6	som	_	_	_	_	_	_	_	TokenRange=590:593
+7	fånge	_	_	_	_	_	_	_	TokenRange=594:599
+8	och	_	_	_	_	_	_	_	TokenRange=600:603
+9	kemist	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=604:610
+10	–	_	_	_	_	_	_	_	TokenRange=612:613
+11	de	_	_	_	_	_	_	_	TokenRange=614:616
+12	måste	_	_	_	_	_	_	_	TokenRange=617:622
+13	vara	_	_	_	_	_	_	_	TokenRange=623:627
+14	över	_	_	_	_	_	_	_	TokenRange=628:632
+15	tjugu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=633:638
+16	,	_	_	_	_	_	_	_	TokenRange=638:639
+17	tänker	_	_	_	_	_	_	_	TokenRange=640:646
+18	jag	_	_	_	_	_	_	_	TokenRange=647:650
+19	mig	_	_	_	_	_	_	_	TokenRange=651:654
+20	–	_	_	_	_	_	_	_	TokenRange=655:656
+21	har	_	_	_	_	_	_	_	TokenRange=657:660
+22	varit	_	_	_	_	_	_	_	TokenRange=661:666
+23	fulla	_	_	_	_	_	_	_	TokenRange=667:672
+24	nog	_	_	_	_	_	_	_	TokenRange=673:676
+25	ändå	_	_	_	_	_	_	_	TokenRange=677:681
+26	av	_	_	_	_	_	_	_	TokenRange=682:684
+27	arbete	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=685:691
+28	och	_	_	_	_	_	_	_	TokenRange=693:696
+29	brådska	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=697:704
+30	,	_	_	_	_	_	_	_	TokenRange=704:705
+31	måste	_	_	_	_	_	_	_	TokenRange=706:711
+32	det	_	_	_	_	_	_	_	TokenRange=712:715
+33	finnas	_	_	_	_	_	_	_	TokenRange=716:722
+34	något	_	_	_	_	_	_	_	TokenRange=723:728
+35	som	_	_	_	_	_	_	_	TokenRange=729:732
+36	inte	_	_	_	_	_	_	_	TokenRange=733:737
+37	tycker	_	_	_	_	_	_	_	TokenRange=738:744
+38	det	_	_	_	_	_	_	_	TokenRange=745:748
+39	är	_	_	_	_	_	_	_	TokenRange=749:751
+40	tillräckligt	_	_	_	_	_	_	_	TokenRange=752:764
+41	och	_	_	_	_	_	_	_	TokenRange=765:768
+42	som	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=769:772
+43	har	_	_	_	_	_	_	_	TokenRange=774:777
+44	lett	_	_	_	_	_	_	_	TokenRange=778:782
+45	och	_	_	_	_	_	_	_	TokenRange=783:786
+46	överblickat	_	_	_	_	_	_	_	TokenRange=787:798
+47	ett	_	_	_	_	_	_	_	TokenRange=799:802
+48	annat	_	_	_	_	_	_	_	TokenRange=803:808
+49	arbete	_	_	_	_	_	_	_	TokenRange=809:815
+50	inom	_	_	_	_	_	_	_	TokenRange=816:820
+51	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=821:824
+52	,	_	_	_	_	_	_	_	TokenRange=824:825
+53	ett	_	_	_	_	_	_	_	TokenRange=826:829
+54	som	_	_	_	_	_	_	_	TokenRange=830:833
+55	jag	_	_	_	_	_	_	_	TokenRange=834:837
+56	själv	_	_	_	_	_	_	_	TokenRange=838:843
+57	inte	_	_	_	_	_	_	_	TokenRange=844:848
+58	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=849:853
+59	någon	_	_	_	_	_	_	_	TokenRange=855:860
+60	möjlighet	_	_	_	_	_	_	_	TokenRange=861:870
+61	att	_	_	_	_	_	_	_	TokenRange=871:874
+62	överblicka	_	_	_	_	_	_	_	TokenRange=875:885
+63	och	_	_	_	_	_	_	_	TokenRange=886:889
+64	där	_	_	_	_	_	_	_	TokenRange=890:893
+65	jag	_	_	_	_	_	_	_	TokenRange=894:897
+66	ändå	_	_	_	_	_	_	_	TokenRange=898:902
+67	har	_	_	_	_	_	_	_	TokenRange=903:906
+68	varit	_	_	_	_	_	_	_	TokenRange=907:912
+69	djupt	_	_	_	_	_	_	_	TokenRange=913:918
+70	och	_	_	_	_	_	_	_	TokenRange=919:922
+71	nästan	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=923:929
+72	plågsamt	_	_	_	_	_	_	_	TokenRange=931:939
+73	medintresserad	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=940:954
+74	.	_	_	_	_	_	_	_	TokenRange=954:955
+
+# sent_id = 5
+# text = Det arbetet kommer att vara slutfört, när jag väl har skrivit ner min bok.
+1	Det	_	_	_	_	_	_	_	TokenRange=956:959
+2	arbetet	_	_	_	_	_	_	_	TokenRange=960:967
+3	kommer	_	_	_	_	_	_	_	TokenRange=968:974
+4	att	_	_	_	_	_	_	_	TokenRange=975:978
+5	vara	_	_	_	_	_	_	_	TokenRange=979:983
+6	slutfört	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=984:992
+7	,	_	_	_	_	_	_	_	TokenRange=992:993
+8	när	_	_	_	_	_	_	_	TokenRange=994:997
+9	jag	_	_	_	_	_	_	_	TokenRange=998:1001
+10	väl	_	_	_	_	_	_	_	TokenRange=1002:1005
+11	har	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1006:1009
+12	skrivit	_	_	_	_	_	_	_	TokenRange=1011:1018
+13	ner	_	_	_	_	_	_	_	TokenRange=1019:1022
+14	min	_	_	_	_	_	_	_	TokenRange=1023:1026
+15	bok	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1027:1030
+16	.	_	_	_	_	_	_	_	TokenRange=1030:1031
+
+# sent_id = 6
+# text = Jag inser alltså, hur förnuftsvidriga mina skriverier måste te sig inför allt rationellt och praktiskt tänkande, men jag skriver ändå.
+1	Jag	_	_	_	_	_	_	_	TokenRange=1032:1035
+2	inser	_	_	_	_	_	_	_	TokenRange=1036:1041
+3	alltså	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1042:1048
+4	,	_	_	_	_	_	_	_	TokenRange=1048:1049
+5	hur	_	_	_	_	_	_	_	TokenRange=1050:1053
+6	förnuftsvidriga	_	_	_	_	_	_	_	TokenRange=1054:1069
+7	mina	_	_	_	_	_	_	_	TokenRange=1070:1074
+8	skriverier	_	_	_	_	_	_	_	TokenRange=1075:1085
+9	måste	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1086:1091
+10	te	_	_	_	_	_	_	_	TokenRange=1093:1095
+11	sig	_	_	_	_	_	_	_	TokenRange=1096:1099
+12	inför	_	_	_	_	_	_	_	TokenRange=1100:1105
+13	allt	_	_	_	_	_	_	_	TokenRange=1106:1110
+14	rationellt	_	_	_	_	_	_	_	TokenRange=1111:1121
+15	och	_	_	_	_	_	_	_	TokenRange=1122:1125
+16	praktiskt	_	_	_	_	_	_	_	TokenRange=1126:1135
+17	tänkande	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1136:1144
+18	,	_	_	_	_	_	_	_	TokenRange=1144:1145
+19	men	_	_	_	_	_	_	_	TokenRange=1146:1149
+20	jag	_	_	_	_	_	_	_	TokenRange=1150:1153
+21	skriver	_	_	_	_	_	_	_	TokenRange=1154:1161
+22	ändå	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1162:1166
+23	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=1166:1167
+
+# newpar
+# sent_id = 7
+# text = Kanske jag inte skulle vågat det förr.
+1	Kanske	_	_	_	_	_	_	_	TokenRange=1171:1177
+2	jag	_	_	_	_	_	_	_	TokenRange=1178:1181
+3	inte	_	_	_	_	_	_	_	TokenRange=1182:1186
+4	skulle	_	_	_	_	_	_	_	TokenRange=1187:1193
+5	vågat	_	_	_	_	_	_	_	TokenRange=1194:1199
+6	det	_	_	_	_	_	_	_	TokenRange=1200:1203
+7	förr	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1204:1208
+8	.	_	_	_	_	_	_	_	TokenRange=1208:1209
+
+# sent_id = 8
+# text = Kanske det rentav är fångenskapen, som har gjort mig lättsinnig.
+1	Kanske	_	_	_	_	_	_	_	TokenRange=1210:1216
+2	det	_	_	_	_	_	_	_	TokenRange=1217:1220
+3	rentav	_	_	_	_	_	_	_	TokenRange=1221:1227
+4	är	_	_	_	_	_	_	_	TokenRange=1228:1230
+5	fångenskapen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1231:1243
+6	,	_	_	_	_	_	_	_	TokenRange=1243:1244
+7	som	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1245:1248
+8	har	_	_	_	_	_	_	_	TokenRange=1250:1253
+9	gjort	_	_	_	_	_	_	_	TokenRange=1254:1259
+10	mig	_	_	_	_	_	_	_	TokenRange=1260:1263
+11	lättsinnig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1264:1274
+12	.	_	_	_	_	_	_	_	TokenRange=1274:1275
+
+# sent_id = 9
+# text = Mina levnadsvillkor nu skiljer sig obetydligt från dem jag levde under som fri man.
+1	Mina	_	_	_	_	_	_	_	TokenRange=1276:1280
+2	levnadsvillkor	_	_	_	_	_	_	_	TokenRange=1281:1295
+3	nu	_	_	_	_	_	_	_	TokenRange=1296:1298
+4	skiljer	_	_	_	_	_	_	_	TokenRange=1299:1306
+5	sig	_	_	_	_	_	_	_	TokenRange=1307:1310
+6	obetydligt	_	_	_	_	_	_	_	TokenRange=1311:1321
+7	från	_	_	_	_	_	_	_	TokenRange=1322:1326
+8	dem	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1327:1330
+9	jag	_	_	_	_	_	_	_	TokenRange=1332:1335
+10	levde	_	_	_	_	_	_	_	TokenRange=1336:1341
+11	under	_	_	_	_	_	_	_	TokenRange=1342:1347
+12	som	_	_	_	_	_	_	_	TokenRange=1348:1351
+13	fri	_	_	_	_	_	_	_	TokenRange=1352:1355
+14	man	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1356:1359
+15	.	_	_	_	_	_	_	_	TokenRange=1359:1360
+
+# sent_id = 10
+# text = Maten visade sig vara knappt märkbart sämre här – det vande man sig vid.
+1	Maten	_	_	_	_	_	_	_	TokenRange=1361:1366
+2	visade	_	_	_	_	_	_	_	TokenRange=1367:1373
+3	sig	_	_	_	_	_	_	_	TokenRange=1374:1377
+4	vara	_	_	_	_	_	_	_	TokenRange=1378:1382
+5	knappt	_	_	_	_	_	_	_	TokenRange=1383:1389
+6	märkbart	_	_	_	_	_	_	_	TokenRange=1390:1398
+7	sämre	_	_	_	_	_	_	_	TokenRange=1399:1404
+8	här	_	_	_	_	_	_	_	TokenRange=1405:1408
+9	–	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1409:1410
+10	det	_	_	_	_	_	_	_	TokenRange=1412:1415
+11	vande	_	_	_	_	_	_	_	TokenRange=1416:1421
+12	man	_	_	_	_	_	_	_	TokenRange=1422:1425
+13	sig	_	_	_	_	_	_	_	TokenRange=1426:1429
+14	vid	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1430:1433
+15	.	_	_	_	_	_	_	_	TokenRange=1433:1434
+
+# sent_id = 11
+# text = Britsen visade sig vara något hårdare än min säng hemma i Kemistaden n:r 4 – det vande man sig vid.
+1	Britsen	_	_	_	_	_	_	_	TokenRange=1435:1442
+2	visade	_	_	_	_	_	_	_	TokenRange=1443:1449
+3	sig	_	_	_	_	_	_	_	TokenRange=1450:1453
+4	vara	_	_	_	_	_	_	_	TokenRange=1454:1458
+5	något	_	_	_	_	_	_	_	TokenRange=1459:1464
+6	hårdare	_	_	_	_	_	_	_	TokenRange=1465:1472
+7	än	_	_	_	_	_	_	_	TokenRange=1473:1475
+8	min	_	_	_	_	_	_	_	TokenRange=1476:1479
+9	säng	_	_	_	_	_	_	_	TokenRange=1480:1484
+10	hemma	_	_	_	_	_	_	_	TokenRange=1485:1490
+11	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1491:1492
+12	Kemistaden	_	_	_	_	_	_	_	TokenRange=1494:1504
+13	n:r	_	_	_	_	_	_	_	TokenRange=1505:1508
+14	4	_	_	_	_	_	_	_	TokenRange=1509:1510
+15	–	_	_	_	_	_	_	_	TokenRange=1511:1512
+16	det	_	_	_	_	_	_	_	TokenRange=1513:1516
+17	vande	_	_	_	_	_	_	_	TokenRange=1517:1522
+18	man	_	_	_	_	_	_	_	TokenRange=1523:1526
+19	sig	_	_	_	_	_	_	_	TokenRange=1527:1530
+20	vid	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1531:1534
+21	.	_	_	_	_	_	_	_	TokenRange=1534:1535
+
+# sent_id = 12
+# text = Jag kom något mera sällan ut i fria luften – det vande man sig också vid.
+1	Jag	_	_	_	_	_	_	_	TokenRange=1536:1539
+2	kom	_	_	_	_	_	_	_	TokenRange=1540:1543
+3	något	_	_	_	_	_	_	_	TokenRange=1544:1549
+4	mera	_	_	_	_	_	_	_	TokenRange=1550:1554
+5	sällan	_	_	_	_	_	_	_	TokenRange=1555:1561
+6	ut	_	_	_	_	_	_	_	TokenRange=1562:1564
+7	i	_	_	_	_	_	_	_	TokenRange=1565:1566
+8	fria	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1567:1571
+9	luften	_	_	_	_	_	_	_	TokenRange=1573:1579
+10	–	_	_	_	_	_	_	_	TokenRange=1580:1581
+11	det	_	_	_	_	_	_	_	TokenRange=1582:1585
+12	vande	_	_	_	_	_	_	_	TokenRange=1586:1591
+13	man	_	_	_	_	_	_	_	TokenRange=1592:1595
+14	sig	_	_	_	_	_	_	_	TokenRange=1596:1599
+15	också	_	_	_	_	_	_	_	TokenRange=1600:1605
+16	vid	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1606:1609
+17	.	_	_	_	_	_	_	_	TokenRange=1609:1610
+
+# sent_id = 13
+# text = Värst var skilsmässan från min hustru och mina barn, särskilt som jag ingenting visste eller vet om deras öde; det gjorde mina första år i fångenskapen fulla av oro och ångest.
+1	Värst	_	_	_	_	_	_	_	TokenRange=1611:1616
+2	var	_	_	_	_	_	_	_	TokenRange=1617:1620
+3	skilsmässan	_	_	_	_	_	_	_	TokenRange=1621:1632
+4	från	_	_	_	_	_	_	_	TokenRange=1633:1637
+5	min	_	_	_	_	_	_	_	TokenRange=1638:1641
+6	hustru	_	_	_	_	_	_	_	TokenRange=1642:1648
+7	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1649:1652
+8	mina	_	_	_	_	_	_	_	TokenRange=1654:1658
+9	barn	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1659:1663
+10	,	_	_	_	_	_	_	_	TokenRange=1663:1664
+11	särskilt	_	_	_	_	_	_	_	TokenRange=1665:1673
+12	som	_	_	_	_	_	_	_	TokenRange=1674:1677
+13	jag	_	_	_	_	_	_	_	TokenRange=1678:1681
+14	ingenting	_	_	_	_	_	_	_	TokenRange=1682:1691
+15	visste	_	_	_	_	_	_	_	TokenRange=1692:1698
+16	eller	_	_	_	_	_	_	_	TokenRange=1699:1704
+17	vet	_	_	_	_	_	_	_	TokenRange=1705:1708
+18	om	_	_	_	_	_	_	_	TokenRange=1709:1711
+19	deras	_	_	_	_	_	_	_	TokenRange=1712:1717
+20	öde	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1718:1721
+21	;	_	_	_	_	_	_	_	TokenRange=1721:1722
+22	det	_	_	_	_	_	_	_	TokenRange=1723:1726
+23	gjorde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1727:1733
+24	mina	_	_	_	_	_	_	_	TokenRange=1735:1739
+25	första	_	_	_	_	_	_	_	TokenRange=1740:1746
+26	år	_	_	_	_	_	_	_	TokenRange=1747:1749
+27	i	_	_	_	_	_	_	_	TokenRange=1750:1751
+28	fångenskapen	_	_	_	_	_	_	_	TokenRange=1752:1764
+29	fulla	_	_	_	_	_	_	_	TokenRange=1765:1770
+30	av	_	_	_	_	_	_	_	TokenRange=1771:1773
+31	oro	_	_	_	_	_	_	_	TokenRange=1774:1777
+32	och	_	_	_	_	_	_	_	TokenRange=1778:1781
+33	ångest	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1782:1788
+34	.	_	_	_	_	_	_	_	TokenRange=1788:1789
+
+# sent_id = 14
+# text = Men allteftersom tiden led, började jag känna mig lugnare än förr och till och med trivas mer och mer med min tillvaro.
+1	Men	_	_	_	_	_	_	_	TokenRange=1790:1793
+2	allteftersom	_	_	_	_	_	_	_	TokenRange=1794:1806
+3	tiden	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1807:1812
+4	led	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1814:1817
+5	,	_	_	_	_	_	_	_	TokenRange=1817:1818
+6	började	_	_	_	_	_	_	_	TokenRange=1819:1826
+7	jag	_	_	_	_	_	_	_	TokenRange=1827:1830
+8	känna	_	_	_	_	_	_	_	TokenRange=1831:1836
+9	mig	_	_	_	_	_	_	_	TokenRange=1837:1840
+10	lugnare	_	_	_	_	_	_	_	TokenRange=1841:1848
+11	än	_	_	_	_	_	_	_	TokenRange=1849:1851
+12	förr	_	_	_	_	_	_	_	TokenRange=1852:1856
+13	och	_	_	_	_	_	_	_	TokenRange=1857:1860
+14	till	_	_	_	_	_	_	_	TokenRange=1861:1865
+15	och	_	_	_	_	_	_	_	TokenRange=1866:1869
+16	med	_	_	_	_	_	_	_	TokenRange=1870:1873
+17	trivas	_	_	_	_	_	_	_	TokenRange=1874:1880
+18	mer	_	_	_	_	_	_	_	TokenRange=1881:1884
+19	och	_	_	_	_	_	_	_	TokenRange=1885:1888
+20	mer	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1889:1892
+21	med	_	_	_	_	_	_	_	TokenRange=1894:1897
+22	min	_	_	_	_	_	_	_	TokenRange=1898:1901
+23	tillvaro	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1902:1910
+24	.	_	_	_	_	_	_	_	TokenRange=1910:1911
+
+# sent_id = 15
+# text = Här hade jag ingenting att vara ängslig för.
+1	Här	_	_	_	_	_	_	_	TokenRange=1912:1915
+2	hade	_	_	_	_	_	_	_	TokenRange=1916:1920
+3	jag	_	_	_	_	_	_	_	TokenRange=1921:1924
+4	ingenting	_	_	_	_	_	_	_	TokenRange=1925:1934
+5	att	_	_	_	_	_	_	_	TokenRange=1935:1938
+6	vara	_	_	_	_	_	_	_	TokenRange=1939:1943
+7	ängslig	_	_	_	_	_	_	_	TokenRange=1944:1951
+8	för	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1952:1955
+9	.	_	_	_	_	_	_	_	TokenRange=1955:1956
+
+# sent_id = 16
+# text = Jag hade varken underordnade eller chefer – så när som på fängelsevakterna, som sällan störde mitt arbete och bara bekymrade sig om att jag efterlevde ordningsreglerna.
+1	Jag	_	_	_	_	_	_	_	TokenRange=1957:1960
+2	hade	_	_	_	_	_	_	_	TokenRange=1961:1965
+3	varken	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1966:1972
+4	underordnade	_	_	_	_	_	_	_	TokenRange=1974:1986
+5	eller	_	_	_	_	_	_	_	TokenRange=1987:1992
+6	chefer	_	_	_	_	_	_	_	TokenRange=1993:1999
+7	–	_	_	_	_	_	_	_	TokenRange=2000:2001
+8	så	_	_	_	_	_	_	_	TokenRange=2002:2004
+9	när	_	_	_	_	_	_	_	TokenRange=2005:2008
+10	som	_	_	_	_	_	_	_	TokenRange=2009:2012
+11	på	_	_	_	_	_	_	_	TokenRange=2013:2015
+12	fängelsevakterna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2016:2032
+13	,	_	_	_	_	_	_	_	TokenRange=2032:2033
+14	som	_	_	_	_	_	_	_	TokenRange=2034:2037
+15	sällan	_	_	_	_	_	_	_	TokenRange=2038:2044
+16	störde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2045:2051
+17	mitt	_	_	_	_	_	_	_	TokenRange=2053:2057
+18	arbete	_	_	_	_	_	_	_	TokenRange=2058:2064
+19	och	_	_	_	_	_	_	_	TokenRange=2065:2068
+20	bara	_	_	_	_	_	_	_	TokenRange=2069:2073
+21	bekymrade	_	_	_	_	_	_	_	TokenRange=2074:2083
+22	sig	_	_	_	_	_	_	_	TokenRange=2084:2087
+23	om	_	_	_	_	_	_	_	TokenRange=2088:2090
+24	att	_	_	_	_	_	_	_	TokenRange=2091:2094
+25	jag	_	_	_	_	_	_	_	TokenRange=2095:2098
+26	efterlevde	_	_	_	_	_	_	_	TokenRange=2099:2109
+27	ordningsreglerna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2110:2126
+28	.	_	_	_	_	_	_	_	TokenRange=2126:2127
+
+# sent_id = 17
+# text = Jag hade varken beskyddare eller medtävlare.
+1	Jag	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2128:2131
+2	hade	_	_	_	_	_	_	_	TokenRange=2133:2137
+3	varken	_	_	_	_	_	_	_	TokenRange=2138:2144
+4	beskyddare	_	_	_	_	_	_	_	TokenRange=2145:2155
+5	eller	_	_	_	_	_	_	_	TokenRange=2156:2161
+6	medtävlare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2162:2172
+7	.	_	_	_	_	_	_	_	TokenRange=2172:2173
+
+# sent_id = 18
+# text = De vetenskapsmän jag ibland sammanfördes med för att kunna följa med nya rön på kemins område, behandlade mig hövligt och sakligt, om än något nedlåtande för min främmande nationalitets skull.
+1	De	_	_	_	_	_	_	_	TokenRange=2174:2176
+2	vetenskapsmän	_	_	_	_	_	_	_	TokenRange=2177:2190
+3	jag	_	_	_	_	_	_	_	TokenRange=2191:2194
+4	ibland	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2195:2201
+5	sammanfördes	_	_	_	_	_	_	_	TokenRange=2203:2215
+6	med	_	_	_	_	_	_	_	TokenRange=2216:2219
+7	för	_	_	_	_	_	_	_	TokenRange=2220:2223
+8	att	_	_	_	_	_	_	_	TokenRange=2224:2227
+9	kunna	_	_	_	_	_	_	_	TokenRange=2228:2233
+10	följa	_	_	_	_	_	_	_	TokenRange=2234:2239
+11	med	_	_	_	_	_	_	_	TokenRange=2240:2243
+12	nya	_	_	_	_	_	_	_	TokenRange=2244:2247
+13	rön	_	_	_	_	_	_	_	TokenRange=2248:2251
+14	på	_	_	_	_	_	_	_	TokenRange=2252:2254
+15	kemins	_	_	_	_	_	_	_	TokenRange=2255:2261
+16	område	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2262:2268
+17	,	_	_	_	_	_	_	_	TokenRange=2268:2269
+18	behandlade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2270:2280
+19	mig	_	_	_	_	_	_	_	TokenRange=2282:2285
+20	hövligt	_	_	_	_	_	_	_	TokenRange=2286:2293
+21	och	_	_	_	_	_	_	_	TokenRange=2294:2297
+22	sakligt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2298:2305
+23	,	_	_	_	_	_	_	_	TokenRange=2305:2306
+24	om	_	_	_	_	_	_	_	TokenRange=2307:2309
+25	än	_	_	_	_	_	_	_	TokenRange=2310:2312
+26	något	_	_	_	_	_	_	_	TokenRange=2313:2318
+27	nedlåtande	_	_	_	_	_	_	_	TokenRange=2319:2329
+28	för	_	_	_	_	_	_	_	TokenRange=2330:2333
+29	min	_	_	_	_	_	_	_	TokenRange=2334:2337
+30	främmande	_	_	_	_	_	_	_	TokenRange=2338:2347
+31	nationalitets	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2348:2361
+32	skull	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2363:2368
+33	.	_	_	_	_	_	_	_	TokenRange=2368:2369
+
+# sent_id = 19
+# text = Jag visste, att ingen ansåg sig ha skäl att avundas mig.
+1	Jag	_	_	_	_	_	_	_	TokenRange=2370:2373
+2	visste	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2374:2380
+3	,	_	_	_	_	_	_	_	TokenRange=2380:2381
+4	att	_	_	_	_	_	_	_	TokenRange=2382:2385
+5	ingen	_	_	_	_	_	_	_	TokenRange=2386:2391
+6	ansåg	_	_	_	_	_	_	_	TokenRange=2392:2397
+7	sig	_	_	_	_	_	_	_	TokenRange=2398:2401
+8	ha	_	_	_	_	_	_	_	TokenRange=2402:2404
+9	skäl	_	_	_	_	_	_	_	TokenRange=2405:2409
+10	att	_	_	_	_	_	_	_	TokenRange=2410:2413
+11	avundas	_	_	_	_	_	_	_	TokenRange=2414:2421
+12	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2422:2425
+13	.	_	_	_	_	_	_	_	TokenRange=2425:2426
+
+# sent_id = 20
+# text = Kort sagt: på sätt och vis kunde jag känna mig friare än i friheten.
+1	Kort	_	_	_	_	_	_	_	TokenRange=2427:2431
+2	sagt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2432:2436
+3	:	_	_	_	_	_	_	_	TokenRange=2436:2437
+4	på	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2438:2440
+5	sätt	_	_	_	_	_	_	_	TokenRange=2442:2446
+6	och	_	_	_	_	_	_	_	TokenRange=2447:2450
+7	vis	_	_	_	_	_	_	_	TokenRange=2451:2454
+8	kunde	_	_	_	_	_	_	_	TokenRange=2455:2460
+9	jag	_	_	_	_	_	_	_	TokenRange=2461:2464
+10	känna	_	_	_	_	_	_	_	TokenRange=2465:2470
+11	mig	_	_	_	_	_	_	_	TokenRange=2471:2474
+12	friare	_	_	_	_	_	_	_	TokenRange=2475:2481
+13	än	_	_	_	_	_	_	_	TokenRange=2482:2484
+14	i	_	_	_	_	_	_	_	TokenRange=2485:2486
+15	friheten	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2487:2495
+16	.	_	_	_	_	_	_	_	TokenRange=2495:2496
+
+# sent_id = 21
+# text = Men på samma gång som lugnet växte också detta underliga arbete med det förflutna inom mig, och nu får jag ingen ro förrän jag har skrivit ner mina minnen från en viss innehållsrik tid i mitt liv.
+1	Men	_	_	_	_	_	_	_	TokenRange=2497:2500
+2	på	_	_	_	_	_	_	_	TokenRange=2501:2503
+3	samma	_	_	_	_	_	_	_	TokenRange=2504:2509
+4	gång	_	_	_	_	_	_	_	TokenRange=2510:2514
+5	som	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2515:2518
+6	lugnet	_	_	_	_	_	_	_	TokenRange=2520:2526
+7	växte	_	_	_	_	_	_	_	TokenRange=2527:2532
+8	också	_	_	_	_	_	_	_	TokenRange=2533:2538
+9	detta	_	_	_	_	_	_	_	TokenRange=2539:2544
+10	underliga	_	_	_	_	_	_	_	TokenRange=2545:2554
+11	arbete	_	_	_	_	_	_	_	TokenRange=2555:2561
+12	med	_	_	_	_	_	_	_	TokenRange=2562:2565
+13	det	_	_	_	_	_	_	_	TokenRange=2566:2569
+14	förflutna	_	_	_	_	_	_	_	TokenRange=2570:2579
+15	inom	_	_	_	_	_	_	_	TokenRange=2580:2584
+16	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2585:2588
+17	,	_	_	_	_	_	_	_	TokenRange=2588:2589
+18	och	_	_	_	_	_	_	_	TokenRange=2590:2593
+19	nu	_	_	_	_	_	_	_	TokenRange=2594:2596
+20	får	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2597:2600
+21	jag	_	_	_	_	_	_	_	TokenRange=2602:2605
+22	ingen	_	_	_	_	_	_	_	TokenRange=2606:2611
+23	ro	_	_	_	_	_	_	_	TokenRange=2612:2614
+24	förrän	_	_	_	_	_	_	_	TokenRange=2615:2621
+25	jag	_	_	_	_	_	_	_	TokenRange=2622:2625
+26	har	_	_	_	_	_	_	_	TokenRange=2626:2629
+27	skrivit	_	_	_	_	_	_	_	TokenRange=2630:2637
+28	ner	_	_	_	_	_	_	_	TokenRange=2638:2641
+29	mina	_	_	_	_	_	_	_	TokenRange=2642:2646
+30	minnen	_	_	_	_	_	_	_	TokenRange=2647:2653
+31	från	_	_	_	_	_	_	_	TokenRange=2654:2658
+32	en	_	_	_	_	_	_	_	TokenRange=2659:2661
+33	viss	_	_	_	_	_	_	_	TokenRange=2662:2666
+34	innehållsrik	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2667:2679
+35	tid	_	_	_	_	_	_	_	TokenRange=2681:2684
+36	i	_	_	_	_	_	_	_	TokenRange=2685:2686
+37	mitt	_	_	_	_	_	_	_	TokenRange=2687:2691
+38	liv	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2692:2695
+39	.	_	_	_	_	_	_	_	TokenRange=2695:2696
+
+# sent_id = 22
+# text = Möjlighet att skriva har man givit mig för mitt vetenskapliga arbetes skull, och kontroll utövas först i det ögonblick jag lämnar ett färdigt arbete ifrån mig.
+1	Möjlighet	_	_	_	_	_	_	_	TokenRange=2697:2706
+2	att	_	_	_	_	_	_	_	TokenRange=2707:2710
+3	skriva	_	_	_	_	_	_	_	TokenRange=2711:2717
+4	har	_	_	_	_	_	_	_	TokenRange=2718:2721
+5	man	_	_	_	_	_	_	_	TokenRange=2722:2725
+6	givit	_	_	_	_	_	_	_	TokenRange=2726:2731
+7	mig	_	_	_	_	_	_	_	TokenRange=2732:2735
+8	för	_	_	_	_	_	_	_	TokenRange=2736:2739
+9	mitt	_	_	_	_	_	_	_	TokenRange=2740:2744
+10	vetenskapliga	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2745:2758
+11	arbetes	_	_	_	_	_	_	_	TokenRange=2760:2767
+12	skull	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2768:2773
+13	,	_	_	_	_	_	_	_	TokenRange=2773:2774
+14	och	_	_	_	_	_	_	_	TokenRange=2775:2778
+15	kontroll	_	_	_	_	_	_	_	TokenRange=2779:2787
+16	utövas	_	_	_	_	_	_	_	TokenRange=2788:2794
+17	först	_	_	_	_	_	_	_	TokenRange=2795:2800
+18	i	_	_	_	_	_	_	_	TokenRange=2801:2802
+19	det	_	_	_	_	_	_	_	TokenRange=2803:2806
+20	ögonblick	_	_	_	_	_	_	_	TokenRange=2807:2816
+21	jag	_	_	_	_	_	_	_	TokenRange=2817:2820
+22	lämnar	_	_	_	_	_	_	_	TokenRange=2821:2827
+23	ett	_	_	_	_	_	_	_	TokenRange=2828:2831
+24	färdigt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2832:2839
+25	arbete	_	_	_	_	_	_	_	TokenRange=2841:2847
+26	ifrån	_	_	_	_	_	_	_	TokenRange=2848:2853
+27	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2854:2857
+28	.	_	_	_	_	_	_	_	TokenRange=2857:2858
+
+# sent_id = 23
+# text = Jag kan alltså kosta på mig detta enda nöje, även om det skulle bli det sista jag fick tillfälle till.
+1	Jag	_	_	_	_	_	_	_	TokenRange=2859:2862
+2	kan	_	_	_	_	_	_	_	TokenRange=2863:2866
+3	alltså	_	_	_	_	_	_	_	TokenRange=2867:2873
+4	kosta	_	_	_	_	_	_	_	TokenRange=2874:2879
+5	på	_	_	_	_	_	_	_	TokenRange=2880:2882
+6	mig	_	_	_	_	_	_	_	TokenRange=2883:2886
+7	detta	_	_	_	_	_	_	_	TokenRange=2887:2892
+8	enda	_	_	_	_	_	_	_	TokenRange=2893:2897
+9	nöje	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2898:2902
+10	,	_	_	_	_	_	_	_	TokenRange=2902:2903
+11	även	_	_	_	_	_	_	_	TokenRange=2904:2908
+12	om	_	_	_	_	_	_	_	TokenRange=2909:2911
+13	det	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2912:2915
+14	skulle	_	_	_	_	_	_	_	TokenRange=2917:2923
+15	bli	_	_	_	_	_	_	_	TokenRange=2924:2927
+16	det	_	_	_	_	_	_	_	TokenRange=2928:2931
+17	sista	_	_	_	_	_	_	_	TokenRange=2932:2937
+18	jag	_	_	_	_	_	_	_	TokenRange=2938:2941
+19	fick	_	_	_	_	_	_	_	TokenRange=2942:2946
+20	tillfälle	_	_	_	_	_	_	_	TokenRange=2947:2956
+21	till	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2957:2961
+22	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=2961:2962
+
+# newpar
+# sent_id = 24
+# text = Vid den tid då min berättelse börjar närmade jag mig de fyrti.
+1	Vid	_	_	_	_	_	_	_	TokenRange=2966:2969
+2	den	_	_	_	_	_	_	_	TokenRange=2970:2973
+3	tid	_	_	_	_	_	_	_	TokenRange=2974:2977
+4	då	_	_	_	_	_	_	_	TokenRange=2978:2980
+5	min	_	_	_	_	_	_	_	TokenRange=2981:2984
+6	berättelse	_	_	_	_	_	_	_	TokenRange=2985:2995
+7	börjar	_	_	_	_	_	_	_	TokenRange=2996:3002
+8	närmade	_	_	_	_	_	_	_	TokenRange=3003:3010
+9	jag	_	_	_	_	_	_	_	TokenRange=3011:3014
+10	mig	_	_	_	_	_	_	_	TokenRange=3015:3018
+11	de	_	_	_	_	_	_	_	TokenRange=3019:3021
+12	fyrti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3022:3027
+13	.	_	_	_	_	_	_	_	TokenRange=3027:3028
+
+# sent_id = 25
+# text = Om jag för övrigt bör presentera mig, kan jag kanske tala om under vilken bild jag tänkte mig livet.
+1	Om	_	_	_	_	_	_	_	TokenRange=3029:3031
+2	jag	_	_	_	_	_	_	_	TokenRange=3032:3035
+3	för	_	_	_	_	_	_	_	TokenRange=3036:3039
+4	övrigt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3040:3046
+5	bör	_	_	_	_	_	_	_	TokenRange=3048:3051
+6	presentera	_	_	_	_	_	_	_	TokenRange=3052:3062
+7	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3063:3066
+8	,	_	_	_	_	_	_	_	TokenRange=3066:3067
+9	kan	_	_	_	_	_	_	_	TokenRange=3068:3071
+10	jag	_	_	_	_	_	_	_	TokenRange=3072:3075
+11	kanske	_	_	_	_	_	_	_	TokenRange=3076:3082
+12	tala	_	_	_	_	_	_	_	TokenRange=3083:3087
+13	om	_	_	_	_	_	_	_	TokenRange=3088:3090
+14	under	_	_	_	_	_	_	_	TokenRange=3091:3096
+15	vilken	_	_	_	_	_	_	_	TokenRange=3097:3103
+16	bild	_	_	_	_	_	_	_	TokenRange=3104:3108
+17	jag	_	_	_	_	_	_	_	TokenRange=3109:3112
+18	tänkte	_	_	_	_	_	_	_	TokenRange=3113:3119
+19	mig	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3120:3123
+20	livet	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3125:3130
+21	.	_	_	_	_	_	_	_	TokenRange=3130:3131
+
+# sent_id = 26
+# text = Det finns få saker som säger mer om en människa än hennes bild av livet: om hon ser det som en väg, ett fältslag, ett växande träd eller ett rullande hav.
+1	Det	_	_	_	_	_	_	_	TokenRange=3132:3135
+2	finns	_	_	_	_	_	_	_	TokenRange=3136:3141
+3	få	_	_	_	_	_	_	_	TokenRange=3142:3144
+4	saker	_	_	_	_	_	_	_	TokenRange=3145:3150
+5	som	_	_	_	_	_	_	_	TokenRange=3151:3154
+6	säger	_	_	_	_	_	_	_	TokenRange=3155:3160
+7	mer	_	_	_	_	_	_	_	TokenRange=3161:3164
+8	om	_	_	_	_	_	_	_	TokenRange=3165:3167
+9	en	_	_	_	_	_	_	_	TokenRange=3168:3170
+10	människa	_	_	_	_	_	_	_	TokenRange=3171:3179
+11	än	_	_	_	_	_	_	_	TokenRange=3180:3182
+12	hennes	_	_	_	_	_	_	_	TokenRange=3183:3189
+13	bild	_	_	_	_	_	_	_	TokenRange=3190:3194
+14	av	_	_	_	_	_	_	_	TokenRange=3195:3197
+15	livet	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3198:3203
+16	:	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3203:3204
+17	om	_	_	_	_	_	_	_	TokenRange=3206:3208
+18	hon	_	_	_	_	_	_	_	TokenRange=3209:3212
+19	ser	_	_	_	_	_	_	_	TokenRange=3213:3216
+20	det	_	_	_	_	_	_	_	TokenRange=3217:3220
+21	som	_	_	_	_	_	_	_	TokenRange=3221:3224
+22	en	_	_	_	_	_	_	_	TokenRange=3225:3227
+23	väg	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3228:3231
+24	,	_	_	_	_	_	_	_	TokenRange=3231:3232
+25	ett	_	_	_	_	_	_	_	TokenRange=3233:3236
+26	fältslag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3237:3245
+27	,	_	_	_	_	_	_	_	TokenRange=3245:3246
+28	ett	_	_	_	_	_	_	_	TokenRange=3247:3250
+29	växande	_	_	_	_	_	_	_	TokenRange=3251:3258
+30	träd	_	_	_	_	_	_	_	TokenRange=3259:3263
+31	eller	_	_	_	_	_	_	_	TokenRange=3264:3269
+32	ett	_	_	_	_	_	_	_	TokenRange=3270:3273
+33	rullande	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3274:3282
+34	hav	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3284:3287
+35	.	_	_	_	_	_	_	_	TokenRange=3287:3288
+
+# sent_id = 27
+# text = För min del såg jag det med en snäll skolgosses ögon som en trappa, där man 2% skyndade från avsats till avsats så fort man kunde, med flämtande andetag och medtävlaren i hälarna.
+1	För	_	_	_	_	_	_	_	TokenRange=3289:3292
+2	min	_	_	_	_	_	_	_	TokenRange=3293:3296
+3	del	_	_	_	_	_	_	_	TokenRange=3297:3300
+4	såg	_	_	_	_	_	_	_	TokenRange=3301:3304
+5	jag	_	_	_	_	_	_	_	TokenRange=3305:3308
+6	det	_	_	_	_	_	_	_	TokenRange=3309:3312
+7	med	_	_	_	_	_	_	_	TokenRange=3313:3316
+8	en	_	_	_	_	_	_	_	TokenRange=3317:3319
+9	snäll	_	_	_	_	_	_	_	TokenRange=3320:3325
+10	skolgosses	_	_	_	_	_	_	_	TokenRange=3326:3336
+11	ögon	_	_	_	_	_	_	_	TokenRange=3337:3341
+12	som	_	_	_	_	_	_	_	TokenRange=3342:3345
+13	en	_	_	_	_	_	_	_	TokenRange=3346:3348
+14	trappa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3349:3355
+15	,	_	_	_	_	_	_	_	TokenRange=3355:3356
+16	där	_	_	_	_	_	_	_	TokenRange=3357:3360
+17	man	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=3361:3364
+18	2%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3416:3418
+19	skyndade	_	_	_	_	_	_	_	TokenRange=3420:3428
+20	från	_	_	_	_	_	_	_	TokenRange=3429:3433
+21	avsats	_	_	_	_	_	_	_	TokenRange=3434:3440
+22	till	_	_	_	_	_	_	_	TokenRange=3441:3445
+23	avsats	_	_	_	_	_	_	_	TokenRange=3446:3452
+24	så	_	_	_	_	_	_	_	TokenRange=3453:3455
+25	fort	_	_	_	_	_	_	_	TokenRange=3456:3460
+26	man	_	_	_	_	_	_	_	TokenRange=3461:3464
+27	kunde	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3465:3470
+28	,	_	_	_	_	_	_	_	TokenRange=3470:3471
+29	med	_	_	_	_	_	_	_	TokenRange=3472:3475
+30	flämtande	_	_	_	_	_	_	_	TokenRange=3476:3485
+31	andetag	_	_	_	_	_	_	_	TokenRange=3486:3493
+32	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3494:3497
+33	medtävlaren	_	_	_	_	_	_	_	TokenRange=3499:3510
+34	i	_	_	_	_	_	_	_	TokenRange=3511:3512
+35	hälarna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3513:3520
+36	.	_	_	_	_	_	_	_	TokenRange=3520:3521
+
+# sent_id = 28
+# text = I själva verket hade jag inte många medtävlare.
+1	I	_	_	_	_	_	_	_	TokenRange=3522:3523
+2	själva	_	_	_	_	_	_	_	TokenRange=3524:3530
+3	verket	_	_	_	_	_	_	_	TokenRange=3531:3537
+4	hade	_	_	_	_	_	_	_	TokenRange=3538:3542
+5	jag	_	_	_	_	_	_	_	TokenRange=3543:3546
+6	inte	_	_	_	_	_	_	_	TokenRange=3547:3551
+7	många	_	_	_	_	_	_	_	TokenRange=3552:3557
+8	medtävlare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3558:3568
+9	.	_	_	_	_	_	_	_	TokenRange=3568:3569
+
+# sent_id = 29
+# text = De flesta av mina arbetskamrater på laboratoriet hade förlagt hela sin ärelystnad till det militära och ansåg dagens arbete som ett tråkigt men nödvändigt avbrott i kvällarnas militärtjänstgöring.
+1	De	_	_	_	_	_	_	_	TokenRange=3570:3572
+2	flesta	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3573:3579
+3	av	_	_	_	_	_	_	_	TokenRange=3581:3583
+4	mina	_	_	_	_	_	_	_	TokenRange=3584:3588
+5	arbetskamrater	_	_	_	_	_	_	_	TokenRange=3589:3603
+6	på	_	_	_	_	_	_	_	TokenRange=3604:3606
+7	laboratoriet	_	_	_	_	_	_	_	TokenRange=3607:3619
+8	hade	_	_	_	_	_	_	_	TokenRange=3620:3624
+9	förlagt	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=3625:3632
+10	hela	_	_	_	_	_	_	_	TokenRange=3634:3638
+11	sin	_	_	_	_	_	_	_	TokenRange=3639:3642
+12	ärelystnad	_	_	_	_	_	_	_	TokenRange=3643:3653
+13	till	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3654:3658
+14	det	_	_	_	_	_	_	_	TokenRange=3660:3663
+15	militära	_	_	_	_	_	_	_	TokenRange=3664:3672
+16	och	_	_	_	_	_	_	_	TokenRange=3673:3676
+17	ansåg	_	_	_	_	_	_	_	TokenRange=3677:3682
+18	dagens	_	_	_	_	_	_	_	TokenRange=3683:3689
+19	arbete	_	_	_	_	_	_	_	TokenRange=3690:3696
+20	som	_	_	_	_	_	_	_	TokenRange=3697:3700
+21	ett	_	_	_	_	_	_	_	TokenRange=3701:3704
+22	tråkigt	_	_	_	_	_	_	_	TokenRange=3705:3712
+23	men	_	_	_	_	_	_	_	TokenRange=3713:3716
+24	nödvändigt	_	_	_	_	_	_	_	TokenRange=3717:3727
+25	avbrott	_	_	_	_	_	_	_	TokenRange=3728:3735
+26	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3736:3737
+27	kvällarnas	_	_	_	_	_	_	_	TokenRange=3739:3749
+28	militärtjänstgöring	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3750:3769
+29	.	_	_	_	_	_	_	_	TokenRange=3769:3770
+
+# sent_id = 30
+# text = Själv skulle jag väl knappast velat tillstå för någon av dem, hur mycket mer intresserad jag var av min kemi än av min militärtjänst, fast jag visst inte var någon dålig soldat.
+1	Själv	_	_	_	_	_	_	_	TokenRange=3771:3776
+2	skulle	_	_	_	_	_	_	_	TokenRange=3777:3783
+3	jag	_	_	_	_	_	_	_	TokenRange=3784:3787
+4	väl	_	_	_	_	_	_	_	TokenRange=3788:3791
+5	knappast	_	_	_	_	_	_	_	TokenRange=3792:3800
+6	velat	_	_	_	_	_	_	_	TokenRange=3801:3806
+7	tillstå	_	_	_	_	_	_	_	TokenRange=3807:3814
+8	för	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3815:3818
+9	någon	_	_	_	_	_	_	_	TokenRange=3820:3825
+10	av	_	_	_	_	_	_	_	TokenRange=3826:3828
+11	dem	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3829:3832
+12	,	_	_	_	_	_	_	_	TokenRange=3832:3833
+13	hur	_	_	_	_	_	_	_	TokenRange=3834:3837
+14	mycket	_	_	_	_	_	_	_	TokenRange=3838:3844
+15	mer	_	_	_	_	_	_	_	TokenRange=3845:3848
+16	intresserad	_	_	_	_	_	_	_	TokenRange=3849:3860
+17	jag	_	_	_	_	_	_	_	TokenRange=3861:3864
+18	var	_	_	_	_	_	_	_	TokenRange=3865:3868
+19	av	_	_	_	_	_	_	_	TokenRange=3869:3871
+20	min	_	_	_	_	_	_	_	TokenRange=3872:3875
+21	kemi	_	_	_	_	_	_	_	TokenRange=3876:3880
+22	än	_	_	_	_	_	_	_	TokenRange=3881:3883
+23	av	_	_	_	_	_	_	_	TokenRange=3884:3886
+24	min	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3887:3890
+25	militärtjänst	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3892:3905
+26	,	_	_	_	_	_	_	_	TokenRange=3905:3906
+27	fast	_	_	_	_	_	_	_	TokenRange=3907:3911
+28	jag	_	_	_	_	_	_	_	TokenRange=3912:3915
+29	visst	_	_	_	_	_	_	_	TokenRange=3916:3921
+30	inte	_	_	_	_	_	_	_	TokenRange=3922:3926
+31	var	_	_	_	_	_	_	_	TokenRange=3927:3930
+32	någon	_	_	_	_	_	_	_	TokenRange=3931:3936
+33	dålig	_	_	_	_	_	_	_	TokenRange=3937:3942
+34	soldat	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3943:3949
+35	.	_	_	_	_	_	_	_	TokenRange=3949:3950
+
+# sent_id = 31
+# text = I alla fall jagade jag fram i min trappa.
+1	I	_	_	_	_	_	_	_	TokenRange=3951:3952
+2	alla	_	_	_	_	_	_	_	TokenRange=3953:3957
+3	fall	_	_	_	_	_	_	_	TokenRange=3958:3962
+4	jagade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3963:3969
+5	jag	_	_	_	_	_	_	_	TokenRange=3971:3974
+6	fram	_	_	_	_	_	_	_	TokenRange=3975:3979
+7	i	_	_	_	_	_	_	_	TokenRange=3980:3981
+8	min	_	_	_	_	_	_	_	TokenRange=3982:3985
+9	trappa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3986:3992
+10	.	_	_	_	_	_	_	_	TokenRange=3992:3993
+
+# sent_id = 32
+# text = Hur många trappsteg man egentligen hade att lägga bakom sig, hade jag aldrig funderat över, inte heller vad det månde finnas för härligheter på vinden.
+1	Hur	_	_	_	_	_	_	_	TokenRange=3994:3997
+2	många	_	_	_	_	_	_	_	TokenRange=3998:4003
+3	trappsteg	_	_	_	_	_	_	_	TokenRange=4004:4013
+4	man	_	_	_	_	_	_	_	TokenRange=4014:4017
+5	egentligen	_	_	_	_	_	_	_	TokenRange=4018:4028
+6	hade	_	_	_	_	_	_	_	TokenRange=4029:4033
+7	att	_	_	_	_	_	_	_	TokenRange=4034:4037
+8	lägga	_	_	_	_	_	_	_	TokenRange=4038:4043
+9	bakom	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4044:4049
+10	sig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4051:4054
+11	,	_	_	_	_	_	_	_	TokenRange=4054:4055
+12	hade	_	_	_	_	_	_	_	TokenRange=4056:4060
+13	jag	_	_	_	_	_	_	_	TokenRange=4061:4064
+14	aldrig	_	_	_	_	_	_	_	TokenRange=4065:4071
+15	funderat	_	_	_	_	_	_	_	TokenRange=4072:4080
+16	över	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4081:4085
+17	,	_	_	_	_	_	_	_	TokenRange=4085:4086
+18	inte	_	_	_	_	_	_	_	TokenRange=4087:4091
+19	heller	_	_	_	_	_	_	_	TokenRange=4092:4098
+20	vad	_	_	_	_	_	_	_	TokenRange=4099:4102
+21	det	_	_	_	_	_	_	_	TokenRange=4103:4106
+22	månde	_	_	_	_	_	_	_	TokenRange=4107:4112
+23	finnas	_	_	_	_	_	_	_	TokenRange=4113:4119
+24	för	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4120:4123
+25	härligheter	_	_	_	_	_	_	_	TokenRange=4125:4136
+26	på	_	_	_	_	_	_	_	TokenRange=4137:4139
+27	vinden	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4140:4146
+28	.	_	_	_	_	_	_	_	TokenRange=4146:4147
+
+# sent_id = 33
+# text = Kanske jag dimmigt föreställde mig livets hus som ett av våra vanliga stadshus, där man steg upp ur jordens innandömen och till sist kom ut på takterrassen, i fria luften, i vind och dagsljus.
+1	Kanske	_	_	_	_	_	_	_	TokenRange=4148:4154
+2	jag	_	_	_	_	_	_	_	TokenRange=4155:4158
+3	dimmigt	_	_	_	_	_	_	_	TokenRange=4159:4166
+4	föreställde	_	_	_	_	_	_	_	TokenRange=4167:4178
+5	mig	_	_	_	_	_	_	_	TokenRange=4179:4182
+6	livets	_	_	_	_	_	_	_	TokenRange=4183:4189
+7	hus	_	_	_	_	_	_	_	TokenRange=4190:4193
+8	som	_	_	_	_	_	_	_	TokenRange=4194:4197
+9	ett	_	_	_	_	_	_	_	TokenRange=4198:4201
+10	av	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4202:4204
+11	våra	_	_	_	_	_	_	_	TokenRange=4206:4210
+12	vanliga	_	_	_	_	_	_	_	TokenRange=4211:4218
+13	stadshus	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4219:4227
+14	,	_	_	_	_	_	_	_	TokenRange=4227:4228
+15	där	_	_	_	_	_	_	_	TokenRange=4229:4232
+16	man	_	_	_	_	_	_	_	TokenRange=4233:4236
+17	steg	_	_	_	_	_	_	_	TokenRange=4237:4241
+18	upp	_	_	_	_	_	_	_	TokenRange=4242:4245
+19	ur	_	_	_	_	_	_	_	TokenRange=4246:4248
+20	jordens	_	_	_	_	_	_	_	TokenRange=4249:4256
+21	innandömen	_	_	_	_	_	_	_	TokenRange=4257:4267
+22	och	_	_	_	_	_	_	_	TokenRange=4268:4271
+23	till	_	_	_	_	_	_	_	TokenRange=4272:4276
+24	sist	_	_	_	_	_	_	_	TokenRange=4277:4281
+25	kom	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4282:4285
+26	ut	_	_	_	_	_	_	_	TokenRange=4287:4289
+27	på	_	_	_	_	_	_	_	TokenRange=4290:4292
+28	takterrassen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4293:4305
+29	,	_	_	_	_	_	_	_	TokenRange=4305:4306
+30	i	_	_	_	_	_	_	_	TokenRange=4307:4308
+31	fria	_	_	_	_	_	_	_	TokenRange=4309:4313
+32	luften	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4314:4320
+33	,	_	_	_	_	_	_	_	TokenRange=4320:4321
+34	i	_	_	_	_	_	_	_	TokenRange=4322:4323
+35	vind	_	_	_	_	_	_	_	TokenRange=4324:4328
+36	och	_	_	_	_	_	_	_	TokenRange=4329:4332
+37	dagsljus	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4333:4341
+38	.	_	_	_	_	_	_	_	TokenRange=4341:4342
+
+# sent_id = 34
+# text = Vad vinden och dagsljuset skulle motsvaras av i min livsvandring, hade jag inte klart för mig.
+1	Vad	_	_	_	_	_	_	_	TokenRange=4343:4346
+2	vinden	_	_	_	_	_	_	_	TokenRange=4347:4353
+3	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4354:4357
+4	dagsljuset	_	_	_	_	_	_	_	TokenRange=4359:4369
+5	skulle	_	_	_	_	_	_	_	TokenRange=4370:4376
+6	motsvaras	_	_	_	_	_	_	_	TokenRange=4377:4386
+7	av	_	_	_	_	_	_	_	TokenRange=4387:4389
+8	i	_	_	_	_	_	_	_	TokenRange=4390:4391
+9	min	_	_	_	_	_	_	_	TokenRange=4392:4395
+10	livsvandring	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4396:4408
+11	,	_	_	_	_	_	_	_	TokenRange=4408:4409
+12	hade	_	_	_	_	_	_	_	TokenRange=4410:4414
+13	jag	_	_	_	_	_	_	_	TokenRange=4415:4418
+14	inte	_	_	_	_	_	_	_	TokenRange=4419:4423
+15	klart	_	_	_	_	_	_	_	TokenRange=4424:4429
+16	för	_	_	_	_	_	_	_	TokenRange=4430:4433
+17	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4434:4437
+18	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4437:4438
+
+# sent_id = 35
+# text = Men säkert var, att varje ny trappavsats betecknades av korta officiella meddelanden från högre ort: om en genomgången examen, ett godkänt prov, en förflyttning till ett mera betydande verksamhetsfält.
+1	Men	_	_	_	_	_	_	_	TokenRange=4440:4443
+2	säkert	_	_	_	_	_	_	_	TokenRange=4444:4450
+3	var	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4451:4454
+4	,	_	_	_	_	_	_	_	TokenRange=4454:4455
+5	att	_	_	_	_	_	_	_	TokenRange=4456:4459
+6	varje	_	_	_	_	_	_	_	TokenRange=4460:4465
+7	ny	_	_	_	_	_	_	_	TokenRange=4466:4468
+8	trappavsats	_	_	_	_	_	_	_	TokenRange=4469:4480
+9	betecknades	_	_	_	_	_	_	_	TokenRange=4481:4492
+10	av	_	_	_	_	_	_	_	TokenRange=4493:4495
+11	korta	_	_	_	_	_	_	_	TokenRange=4496:4501
+12	officiella	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4502:4512
+13	meddelanden	_	_	_	_	_	_	_	TokenRange=4514:4525
+14	från	_	_	_	_	_	_	_	TokenRange=4526:4530
+15	högre	_	_	_	_	_	_	_	TokenRange=4531:4536
+16	ort	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4537:4540
+17	:	_	_	_	_	_	_	_	TokenRange=4540:4541
+18	om	_	_	_	_	_	_	_	TokenRange=4542:4544
+19	en	_	_	_	_	_	_	_	TokenRange=4545:4547
+20	genomgången	_	_	_	_	_	_	_	TokenRange=4548:4559
+21	examen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4560:4566
+22	,	_	_	_	_	_	_	_	TokenRange=4566:4567
+23	ett	_	_	_	_	_	_	_	TokenRange=4568:4571
+24	godkänt	_	_	_	_	_	_	_	TokenRange=4572:4579
+25	prov	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4580:4584
+26	,	_	_	_	_	_	_	_	TokenRange=4584:4585
+27	en	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4586:4588
+28	förflyttning	_	_	_	_	_	_	_	TokenRange=4590:4602
+29	till	_	_	_	_	_	_	_	TokenRange=4603:4607
+30	ett	_	_	_	_	_	_	_	TokenRange=4608:4611
+31	mera	_	_	_	_	_	_	_	TokenRange=4612:4616
+32	betydande	_	_	_	_	_	_	_	TokenRange=4617:4626
+33	verksamhetsfält	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4627:4642
+34	.	_	_	_	_	_	_	_	TokenRange=4642:4643
+
+# sent_id = 36
+# text = Jag hade också en hel rad sådana livsviktiga slut- och begynnelsepunkter bakom mig, dock inte så många att en ny skulle blekna i betydelse.
+1	Jag	_	_	_	_	_	_	_	TokenRange=4644:4647
+2	hade	_	_	_	_	_	_	_	TokenRange=4648:4652
+3	också	_	_	_	_	_	_	_	TokenRange=4653:4658
+4	en	_	_	_	_	_	_	_	TokenRange=4659:4661
+5	hel	_	_	_	_	_	_	_	TokenRange=4662:4665
+6	rad	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4666:4669
+7	sådana	_	_	_	_	_	_	_	TokenRange=4671:4677
+8	livsviktiga	_	_	_	_	_	_	_	TokenRange=4678:4689
+9	slut-	_	_	_	_	_	_	_	TokenRange=4690:4695
+10	och	_	_	_	_	_	_	_	TokenRange=4696:4699
+11	begynnelsepunkter	_	_	_	_	_	_	_	TokenRange=4700:4717
+12	bakom	_	_	_	_	_	_	_	TokenRange=4718:4723
+13	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4724:4727
+14	,	_	_	_	_	_	_	_	TokenRange=4727:4728
+15	dock	_	_	_	_	_	_	_	TokenRange=4729:4733
+16	inte	_	_	_	_	_	_	_	TokenRange=4734:4738
+17	så	_	_	_	_	_	_	_	TokenRange=4739:4741
+18	många	_	_	_	_	_	_	_	TokenRange=4742:4747
+19	att	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4748:4751
+20	en	_	_	_	_	_	_	_	TokenRange=4753:4755
+21	ny	_	_	_	_	_	_	_	TokenRange=4756:4758
+22	skulle	_	_	_	_	_	_	_	TokenRange=4759:4765
+23	blekna	_	_	_	_	_	_	_	TokenRange=4766:4772
+24	i	_	_	_	_	_	_	_	TokenRange=4773:4774
+25	betydelse	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4775:4784
+26	.	_	_	_	_	_	_	_	TokenRange=4784:4785
+
+# sent_id = 37
+# text = Det var därför med ett stänk av feber i blodet jag kom tillbaka från det korta telefonsamtal, som meddelade att jag kunde vänta min kontrollchef dagen därpå och alltså fick börja experimentera med mänsklig materiel.
+1	Det	_	_	_	_	_	_	_	TokenRange=4786:4789
+2	var	_	_	_	_	_	_	_	TokenRange=4790:4793
+3	därför	_	_	_	_	_	_	_	TokenRange=4794:4800
+4	med	_	_	_	_	_	_	_	TokenRange=4801:4804
+5	ett	_	_	_	_	_	_	_	TokenRange=4805:4808
+6	stänk	_	_	_	_	_	_	_	TokenRange=4809:4814
+7	av	_	_	_	_	_	_	_	TokenRange=4815:4817
+8	feber	_	_	_	_	_	_	_	TokenRange=4818:4823
+9	i	_	_	_	_	_	_	_	TokenRange=4824:4825
+10	blodet	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4826:4832
+11	jag	_	_	_	_	_	_	_	TokenRange=4834:4837
+12	kom	_	_	_	_	_	_	_	TokenRange=4838:4841
+13	tillbaka	_	_	_	_	_	_	_	TokenRange=4842:4850
+14	från	_	_	_	_	_	_	_	TokenRange=4851:4855
+15	det	_	_	_	_	_	_	_	TokenRange=4856:4859
+16	korta	_	_	_	_	_	_	_	TokenRange=4860:4865
+17	telefonsamtal	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4866:4879
+18	,	_	_	_	_	_	_	_	TokenRange=4879:4880
+19	som	_	_	_	_	_	_	_	TokenRange=4881:4884
+20	meddelade	_	_	_	_	_	_	_	TokenRange=4885:4894
+21	att	_	_	_	_	_	_	_	TokenRange=4895:4898
+22	jag	_	_	_	_	_	_	_	TokenRange=4899:4902
+23	kunde	_	_	_	_	_	_	_	TokenRange=4903:4908
+24	vänta	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4909:4914
+25	min	_	_	_	_	_	_	_	TokenRange=4916:4919
+26	kontrollchef	_	_	_	_	_	_	_	TokenRange=4920:4932
+27	dagen	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=4933:4938
+28	därpå	_	_	_	_	_	_	_	TokenRange=4940:4945
+29	och	_	_	_	_	_	_	_	TokenRange=4946:4949
+30	alltså	_	_	_	_	_	_	_	TokenRange=4950:4956
+31	fick	_	_	_	_	_	_	_	TokenRange=4957:4961
+32	börja	_	_	_	_	_	_	_	TokenRange=4962:4967
+33	experimentera	_	_	_	_	_	_	_	TokenRange=4968:4981
+34	med	_	_	_	_	_	_	_	TokenRange=4982:4985
+35	mänsklig	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4986:4994
+36	materiel	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4996:5004
+37	.	_	_	_	_	_	_	_	TokenRange=5004:5005
+
+# sent_id = 38
+# text = I morgon således kom det slutliga eldprovet för min hittills största uppfinning.
+1	I	_	_	_	_	_	_	_	TokenRange=5006:5007
+2	morgon	_	_	_	_	_	_	_	TokenRange=5008:5014
+3	således	_	_	_	_	_	_	_	TokenRange=5015:5022
+4	kom	_	_	_	_	_	_	_	TokenRange=5023:5026
+5	det	_	_	_	_	_	_	_	TokenRange=5027:5030
+6	slutliga	_	_	_	_	_	_	_	TokenRange=5031:5039
+7	eldprovet	_	_	_	_	_	_	_	TokenRange=5040:5049
+8	för	_	_	_	_	_	_	_	TokenRange=5050:5053
+9	min	_	_	_	_	_	_	_	TokenRange=5054:5057
+10	hittills	_	_	_	_	_	_	_	TokenRange=5058:5066
+11	största	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5067:5074
+12	uppfinning	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5076:5086
+13	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=5086:5087
+
+# newpar
+# sent_id = 39
+# text = Jag var så uppspelt, att det föll sig svårt för mig att börja något nytt under de tio minuter som ännu återstod av arbetstiden.
+1	Jag	_	_	_	_	_	_	_	TokenRange=5091:5094
+2	var	_	_	_	_	_	_	_	TokenRange=5095:5098
+3	så	_	_	_	_	_	_	_	TokenRange=5099:5101
+4	uppspelt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5102:5110
+5	,	_	_	_	_	_	_	_	TokenRange=5110:5111
+6	att	_	_	_	_	_	_	_	TokenRange=5112:5115
+7	det	_	_	_	_	_	_	_	TokenRange=5116:5119
+8	föll	_	_	_	_	_	_	_	TokenRange=5120:5124
+9	sig	_	_	_	_	_	_	_	TokenRange=5125:5128
+10	svårt	_	_	_	_	_	_	_	TokenRange=5129:5134
+11	för	_	_	_	_	_	_	_	TokenRange=5135:5138
+12	mig	_	_	_	_	_	_	_	TokenRange=5139:5142
+13	att	_	_	_	_	_	_	_	TokenRange=5143:5146
+14	börja	_	_	_	_	_	_	_	TokenRange=5147:5152
+15	något	_	_	_	_	_	_	_	TokenRange=5153:5158
+16	nytt	_	_	_	_	_	_	_	TokenRange=5159:5163
+17	under	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5164:5169
+18	de	_	_	_	_	_	_	_	TokenRange=5171:5173
+19	tio	_	_	_	_	_	_	_	TokenRange=5174:5177
+20	minuter	_	_	_	_	_	_	_	TokenRange=5178:5185
+21	som	_	_	_	_	_	_	_	TokenRange=5186:5189
+22	ännu	_	_	_	_	_	_	_	TokenRange=5190:5194
+23	återstod	_	_	_	_	_	_	_	TokenRange=5195:5203
+24	av	_	_	_	_	_	_	_	TokenRange=5204:5206
+25	arbetstiden	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5207:5218
+26	.	_	_	_	_	_	_	_	TokenRange=5218:5219
+
+# sent_id = 40
+# text = I stället fuskade jag en smula – jag tror nästan för första gången i mitt liv – och började ställa bort apparaterna i förtid, långsamt och försiktigt, medan jag sneglade genom glasväggarna åt båda sidor för att se om någon gav akt på mig.
+1	I	_	_	_	_	_	_	_	TokenRange=5220:5221
+2	stället	_	_	_	_	_	_	_	TokenRange=5222:5229
+3	fuskade	_	_	_	_	_	_	_	TokenRange=5230:5237
+4	jag	_	_	_	_	_	_	_	TokenRange=5238:5241
+5	en	_	_	_	_	_	_	_	TokenRange=5242:5244
+6	smula	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5245:5250
+7	–	_	_	_	_	_	_	_	TokenRange=5252:5253
+8	jag	_	_	_	_	_	_	_	TokenRange=5254:5257
+9	tror	_	_	_	_	_	_	_	TokenRange=5258:5262
+10	nästan	_	_	_	_	_	_	_	TokenRange=5263:5269
+11	för	_	_	_	_	_	_	_	TokenRange=5270:5273
+12	första	_	_	_	_	_	_	_	TokenRange=5274:5280
+13	gången	_	_	_	_	_	_	_	TokenRange=5281:5287
+14	i	_	_	_	_	_	_	_	TokenRange=5288:5289
+15	mitt	_	_	_	_	_	_	_	TokenRange=5290:5294
+16	liv	_	_	_	_	_	_	_	TokenRange=5295:5298
+17	–	_	_	_	_	_	_	_	TokenRange=5299:5300
+18	och	_	_	_	_	_	_	_	TokenRange=5301:5304
+19	började	_	_	_	_	_	_	_	TokenRange=5305:5312
+20	ställa	_	_	_	_	_	_	_	TokenRange=5313:5319
+21	bort	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5320:5324
+22	apparaterna	_	_	_	_	_	_	_	TokenRange=5326:5337
+23	i	_	_	_	_	_	_	_	TokenRange=5338:5339
+24	förtid	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5340:5346
+25	,	_	_	_	_	_	_	_	TokenRange=5346:5347
+26	långsamt	_	_	_	_	_	_	_	TokenRange=5348:5356
+27	och	_	_	_	_	_	_	_	TokenRange=5357:5360
+28	försiktigt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5361:5371
+29	,	_	_	_	_	_	_	_	TokenRange=5371:5372
+30	medan	_	_	_	_	_	_	_	TokenRange=5373:5378
+31	jag	_	_	_	_	_	_	_	TokenRange=5379:5382
+32	sneglade	_	_	_	_	_	_	_	TokenRange=5383:5391
+33	genom	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5392:5397
+34	glasväggarna	_	_	_	_	_	_	_	TokenRange=5399:5411
+35	åt	_	_	_	_	_	_	_	TokenRange=5412:5414
+36	båda	_	_	_	_	_	_	_	TokenRange=5415:5419
+37	sidor	_	_	_	_	_	_	_	TokenRange=5420:5425
+38	för	_	_	_	_	_	_	_	TokenRange=5426:5429
+39	att	_	_	_	_	_	_	_	TokenRange=5430:5433
+40	se	_	_	_	_	_	_	_	TokenRange=5434:5436
+41	om	_	_	_	_	_	_	_	TokenRange=5437:5439
+42	någon	_	_	_	_	_	_	_	TokenRange=5440:5445
+43	gav	_	_	_	_	_	_	_	TokenRange=5446:5449
+44	akt	_	_	_	_	_	_	_	TokenRange=5450:5453
+45	på	_	_	_	_	_	_	_	TokenRange=5454:5456
+46	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5457:5460
+47	.	_	_	_	_	_	_	_	TokenRange=5460:5461
+
+# sent_id = 41
+# text = Så fort signalklockan förkunnade att arbetet var slut för dagen, skyndade jag ut genom de långa laboratoriekorridorerna som en av de första i strömmen.
+1	Så	_	_	_	_	_	_	_	TokenRange=5462:5464
+2	fort	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5465:5469
+3	signalklockan	_	_	_	_	_	_	_	TokenRange=5471:5484
+4	förkunnade	_	_	_	_	_	_	_	TokenRange=5485:5495
+5	att	_	_	_	_	_	_	_	TokenRange=5496:5499
+6	arbetet	_	_	_	_	_	_	_	TokenRange=5500:5507
+7	var	_	_	_	_	_	_	_	TokenRange=5508:5511
+8	slut	_	_	_	_	_	_	_	TokenRange=5512:5516
+9	för	_	_	_	_	_	_	_	TokenRange=5517:5520
+10	dagen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5521:5526
+11	,	_	_	_	_	_	_	_	TokenRange=5526:5527
+12	skyndade	_	_	_	_	_	_	_	TokenRange=5528:5536
+13	jag	_	_	_	_	_	_	_	TokenRange=5537:5540
+14	ut	_	_	_	_	_	_	_	TokenRange=5541:5543
+15	genom	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5544:5549
+16	de	_	_	_	_	_	_	_	TokenRange=5551:5553
+17	långa	_	_	_	_	_	_	_	TokenRange=5554:5559
+18	laboratoriekorridorerna	_	_	_	_	_	_	_	TokenRange=5560:5583
+19	som	_	_	_	_	_	_	_	TokenRange=5584:5587
+20	en	_	_	_	_	_	_	_	TokenRange=5588:5590
+21	av	_	_	_	_	_	_	_	TokenRange=5591:5593
+22	de	_	_	_	_	_	_	_	TokenRange=5594:5596
+23	första	_	_	_	_	_	_	_	TokenRange=5597:5603
+24	i	_	_	_	_	_	_	_	TokenRange=5604:5605
+25	strömmen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5606:5614
+26	.	_	_	_	_	_	_	_	TokenRange=5614:5615
+
+# sent_id = 42
+# text = Hastigt duschade jag, bytte arbetskläderna mot fritidsuniformen, sprang in i paternosterhissen och stod efter några ögonblick uppe på gatan.
+1	Hastigt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5616:5623
+2	duschade	_	_	_	_	_	_	_	TokenRange=5625:5633
+3	jag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5634:5637
+4	,	_	_	_	_	_	_	_	TokenRange=5637:5638
+5	bytte	_	_	_	_	_	_	_	TokenRange=5639:5644
+6	arbetskläderna	_	_	_	_	_	_	_	TokenRange=5645:5659
+7	mot	_	_	_	_	_	_	_	TokenRange=5660:5663
+8	fritidsuniformen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5664:5680
+9	,	_	_	_	_	_	_	_	TokenRange=5680:5681
+10	sprang	_	_	_	_	_	_	_	TokenRange=5682:5688
+11	in	_	_	_	_	_	_	_	TokenRange=5689:5691
+12	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5692:5693
+13	paternosterhissen	_	_	_	_	_	_	_	TokenRange=5695:5712
+14	och	_	_	_	_	_	_	_	TokenRange=5713:5716
+15	stod	_	_	_	_	_	_	_	TokenRange=5717:5721
+16	efter	_	_	_	_	_	_	_	TokenRange=5722:5727
+17	några	_	_	_	_	_	_	_	TokenRange=5728:5733
+18	ögonblick	_	_	_	_	_	_	_	TokenRange=5734:5743
+19	uppe	_	_	_	_	_	_	_	TokenRange=5744:5748
+20	på	_	_	_	_	_	_	_	TokenRange=5749:5751
+21	gatan	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5752:5757
+22	.	_	_	_	_	_	_	_	TokenRange=5757:5758
+
+# sent_id = 43
+# text = Eftersom vi fått vår bostad i mitt arbetsdistrikt, hade vi nämligen ovanjordslicens där, och jag njöt alltid av att sträcka på mig i det fria.
+1	Eftersom	_	_	_	_	_	_	_	TokenRange=5759:5767
+2	vi	_	_	_	_	_	_	_	TokenRange=5768:5770
+3	fått	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5771:5775
+4	vår	_	_	_	_	_	_	_	TokenRange=5777:5780
+5	bostad	_	_	_	_	_	_	_	TokenRange=5781:5787
+6	i	_	_	_	_	_	_	_	TokenRange=5788:5789
+7	mitt	_	_	_	_	_	_	_	TokenRange=5790:5794
+8	arbetsdistrikt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5795:5809
+9	,	_	_	_	_	_	_	_	TokenRange=5809:5810
+10	hade	_	_	_	_	_	_	_	TokenRange=5811:5815
+11	vi	_	_	_	_	_	_	_	TokenRange=5816:5818
+12	nämligen	_	_	_	_	_	_	_	TokenRange=5819:5827
+13	ovanjordslicens	_	_	_	_	_	_	_	TokenRange=5828:5843
+14	där	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5844:5847
+15	,	_	_	_	_	_	_	_	TokenRange=5847:5848
+16	och	_	_	_	_	_	_	_	TokenRange=5849:5852
+17	jag	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5853:5856
+18	njöt	_	_	_	_	_	_	_	TokenRange=5858:5862
+19	alltid	_	_	_	_	_	_	_	TokenRange=5863:5869
+20	av	_	_	_	_	_	_	_	TokenRange=5870:5872
+21	att	_	_	_	_	_	_	_	TokenRange=5873:5876
+22	sträcka	_	_	_	_	_	_	_	TokenRange=5877:5884
+23	på	_	_	_	_	_	_	_	TokenRange=5885:5887
+24	mig	_	_	_	_	_	_	_	TokenRange=5888:5891
+25	i	_	_	_	_	_	_	_	TokenRange=5892:5893
+26	det	_	_	_	_	_	_	_	TokenRange=5894:5897
+27	fria	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5898:5902
+28	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=5902:5903
+
+# newpar
+# sent_id = 44
+# text = Då jag kom förbi metrostationen, föll det mig in att jag kunde vänta på Linda.
+1	Då	_	_	_	_	_	_	_	TokenRange=5907:5909
+2	jag	_	_	_	_	_	_	_	TokenRange=5910:5913
+3	kom	_	_	_	_	_	_	_	TokenRange=5914:5917
+4	förbi	_	_	_	_	_	_	_	TokenRange=5918:5923
+5	metrostationen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5924:5938
+6	,	_	_	_	_	_	_	_	TokenRange=5938:5939
+7	föll	_	_	_	_	_	_	_	TokenRange=5940:5944
+8	det	_	_	_	_	_	_	_	TokenRange=5945:5948
+9	mig	_	_	_	_	_	_	_	TokenRange=5949:5952
+10	in	_	_	_	_	_	_	_	TokenRange=5953:5955
+11	att	_	_	_	_	_	_	_	TokenRange=5956:5959
+12	jag	_	_	_	_	_	_	_	TokenRange=5960:5963
+13	kunde	_	_	_	_	_	_	_	TokenRange=5964:5969
+14	vänta	_	_	_	_	_	_	_	TokenRange=5970:5975
+15	på	_	_	_	_	_	_	_	TokenRange=5976:5978
+16	Linda	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5979:5984
+17	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5984:5985
+
+# sent_id = 45
+# text = Eftersom jag var så tidig, hade hon säkert inte hunnit hem än från sin livsmedelsfabrik drygt tjugu minuters metroväg därifrån.
+1	Eftersom	_	_	_	_	_	_	_	TokenRange=5987:5995
+2	jag	_	_	_	_	_	_	_	TokenRange=5996:5999
+3	var	_	_	_	_	_	_	_	TokenRange=6000:6003
+4	så	_	_	_	_	_	_	_	TokenRange=6004:6006
+5	tidig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6007:6012
+6	,	_	_	_	_	_	_	_	TokenRange=6012:6013
+7	hade	_	_	_	_	_	_	_	TokenRange=6014:6018
+8	hon	_	_	_	_	_	_	_	TokenRange=6019:6022
+9	säkert	_	_	_	_	_	_	_	TokenRange=6023:6029
+10	inte	_	_	_	_	_	_	_	TokenRange=6030:6034
+11	hunnit	_	_	_	_	_	_	_	TokenRange=6035:6041
+12	hem	_	_	_	_	_	_	_	TokenRange=6042:6045
+13	än	_	_	_	_	_	_	_	TokenRange=6046:6048
+14	från	_	_	_	_	_	_	_	TokenRange=6049:6053
+15	sin	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6054:6057
+16	livsmedelsfabrik	_	_	_	_	_	_	_	TokenRange=6059:6075
+17	drygt	_	_	_	_	_	_	_	TokenRange=6076:6081
+18	tjugu	_	_	_	_	_	_	_	TokenRange=6082:6087
+19	minuters	_	_	_	_	_	_	_	TokenRange=6088:6096
+20	metroväg	_	_	_	_	_	_	_	TokenRange=6097:6105
+21	därifrån	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6106:6114
+22	.	_	_	_	_	_	_	_	TokenRange=6114:6115
+
+# sent_id = 46
+# text = Ett tåg hade nyss kommit, och en flod av människor vällde upp ur jorden, pressades genom spärren, där ovanjordslicenserna kontrollerades, och sipprade ut över gatorna runtomkring.
+1	Ett	_	_	_	_	_	_	_	TokenRange=6116:6119
+2	tåg	_	_	_	_	_	_	_	TokenRange=6120:6123
+3	hade	_	_	_	_	_	_	_	TokenRange=6124:6128
+4	nyss	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6129:6133
+5	kommit	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6135:6141
+6	,	_	_	_	_	_	_	_	TokenRange=6141:6142
+7	och	_	_	_	_	_	_	_	TokenRange=6143:6146
+8	en	_	_	_	_	_	_	_	TokenRange=6147:6149
+9	flod	_	_	_	_	_	_	_	TokenRange=6150:6154
+10	av	_	_	_	_	_	_	_	TokenRange=6155:6157
+11	människor	_	_	_	_	_	_	_	TokenRange=6158:6167
+12	vällde	_	_	_	_	_	_	_	TokenRange=6168:6174
+13	upp	_	_	_	_	_	_	_	TokenRange=6175:6178
+14	ur	_	_	_	_	_	_	_	TokenRange=6179:6181
+15	jorden	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6182:6188
+16	,	_	_	_	_	_	_	_	TokenRange=6188:6189
+17	pressades	_	_	_	_	_	_	_	TokenRange=6190:6199
+18	genom	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=6200:6205
+19	spärren	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6207:6214
+20	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6214:6215
+21	där	_	_	_	_	_	_	_	TokenRange=6217:6220
+22	ovanjordslicenserna	_	_	_	_	_	_	_	TokenRange=6221:6240
+23	kontrollerades	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6241:6255
+24	,	_	_	_	_	_	_	_	TokenRange=6255:6256
+25	och	_	_	_	_	_	_	_	TokenRange=6257:6260
+26	sipprade	_	_	_	_	_	_	_	TokenRange=6261:6269
+27	ut	_	_	_	_	_	_	_	TokenRange=6270:6272
+28	över	_	_	_	_	_	_	_	TokenRange=6273:6277
+29	gatorna	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6278:6285
+30	runtomkring	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6287:6298
+31	.	_	_	_	_	_	_	_	TokenRange=6298:6299
+
+# sent_id = 47
+# text = Över de nu tomma takterrasserna, över alla de hoprullade bergsgråa och ängsgröna presenningarna, som på tio minuter kunde göra staden osynlig från luften, betraktade jag hela den myllrande skaran av hemvändande medsoldater i fritidsuniform, och det slog mig plötsligt, att kanske alla dessa bar på samma dröm som jag: drömmen om uppåtvägen. 3%
+1	Över	_	_	_	_	_	_	_	TokenRange=6300:6304
+2	de	_	_	_	_	_	_	_	TokenRange=6305:6307
+3	nu	_	_	_	_	_	_	_	TokenRange=6308:6310
+4	tomma	_	_	_	_	_	_	_	TokenRange=6311:6316
+5	takterrasserna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6317:6331
+6	,	_	_	_	_	_	_	_	TokenRange=6331:6332
+7	över	_	_	_	_	_	_	_	TokenRange=6333:6337
+8	alla	_	_	_	_	_	_	_	TokenRange=6338:6342
+9	de	_	_	_	_	_	_	_	TokenRange=6343:6345
+10	hoprullade	_	_	_	_	_	_	_	TokenRange=6346:6356
+11	bergsgråa	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6357:6366
+12	och	_	_	_	_	_	_	_	TokenRange=6368:6371
+13	ängsgröna	_	_	_	_	_	_	_	TokenRange=6372:6381
+14	presenningarna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6382:6396
+15	,	_	_	_	_	_	_	_	TokenRange=6396:6397
+16	som	_	_	_	_	_	_	_	TokenRange=6398:6401
+17	på	_	_	_	_	_	_	_	TokenRange=6402:6404
+18	tio	_	_	_	_	_	_	_	TokenRange=6405:6408
+19	minuter	_	_	_	_	_	_	_	TokenRange=6409:6416
+20	kunde	_	_	_	_	_	_	_	TokenRange=6417:6422
+21	göra	_	_	_	_	_	_	_	TokenRange=6423:6427
+22	staden	_	_	_	_	_	_	_	TokenRange=6428:6434
+23	osynlig	_	_	_	_	_	_	_	TokenRange=6435:6442
+24	från	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6443:6447
+25	luften	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6449:6455
+26	,	_	_	_	_	_	_	_	TokenRange=6455:6456
+27	betraktade	_	_	_	_	_	_	_	TokenRange=6457:6467
+28	jag	_	_	_	_	_	_	_	TokenRange=6468:6471
+29	hela	_	_	_	_	_	_	_	TokenRange=6472:6476
+30	den	_	_	_	_	_	_	_	TokenRange=6477:6480
+31	myllrande	_	_	_	_	_	_	_	TokenRange=6481:6490
+32	skaran	_	_	_	_	_	_	_	TokenRange=6491:6497
+33	av	_	_	_	_	_	_	_	TokenRange=6498:6500
+34	hemvändande	_	_	_	_	_	_	_	TokenRange=6501:6512
+35	medsoldater	_	_	_	_	_	_	_	TokenRange=6513:6524
+36	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6525:6526
+37	fritidsuniform	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6528:6542
+38	,	_	_	_	_	_	_	_	TokenRange=6542:6543
+39	och	_	_	_	_	_	_	_	TokenRange=6544:6547
+40	det	_	_	_	_	_	_	_	TokenRange=6548:6551
+41	slog	_	_	_	_	_	_	_	TokenRange=6552:6556
+42	mig	_	_	_	_	_	_	_	TokenRange=6557:6560
+43	plötsligt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6561:6570
+44	,	_	_	_	_	_	_	_	TokenRange=6570:6571
+45	att	_	_	_	_	_	_	_	TokenRange=6572:6575
+46	kanske	_	_	_	_	_	_	_	TokenRange=6576:6582
+47	alla	_	_	_	_	_	_	_	TokenRange=6583:6587
+48	dessa	_	_	_	_	_	_	_	TokenRange=6588:6593
+49	bar	_	_	_	_	_	_	_	TokenRange=6594:6597
+50	på	_	_	_	_	_	_	_	TokenRange=6598:6600
+51	samma	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6601:6606
+52	dröm	_	_	_	_	_	_	_	TokenRange=6608:6612
+53	som	_	_	_	_	_	_	_	TokenRange=6613:6616
+54	jag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6617:6620
+55	:	_	_	_	_	_	_	_	TokenRange=6620:6621
+56	drömmen	_	_	_	_	_	_	_	TokenRange=6622:6629
+57	om	_	_	_	_	_	_	_	TokenRange=6630:6632
+58	uppåtvägen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6633:6643
+59	.	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=6643:6644
+60	3%	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6740:6742
+
+# newpar
+# sent_id = 48
+# text = Tanken grep mig.
+1	Tanken	_	_	_	_	_	_	_	TokenRange=6746:6752
+2	grep	_	_	_	_	_	_	_	TokenRange=6753:6757
+3	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6758:6761
+4	.	_	_	_	_	_	_	_	TokenRange=6761:6762
+
+# sent_id = 49
+# text = Jag visste, att förr, under den civilistiska epoken, hade människorna måst lockas till arbete och ansträngning genom hopp om rymligare bostäder, läckrare mat och vackrare kläder.
+1	Jag	_	_	_	_	_	_	_	TokenRange=6763:6766
+2	visste	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6767:6773
+3	,	_	_	_	_	_	_	_	TokenRange=6773:6774
+4	att	_	_	_	_	_	_	_	TokenRange=6775:6778
+5	förr	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6779:6783
+6	,	_	_	_	_	_	_	_	TokenRange=6783:6784
+7	under	_	_	_	_	_	_	_	TokenRange=6785:6790
+8	den	_	_	_	_	_	_	_	TokenRange=6791:6794
+9	civilistiska	_	_	_	_	_	_	_	TokenRange=6795:6807
+10	epoken	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6808:6814
+11	,	_	_	_	_	_	_	_	TokenRange=6814:6815
+12	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6816:6820
+13	människorna	_	_	_	_	_	_	_	TokenRange=6822:6833
+14	måst	_	_	_	_	_	_	_	TokenRange=6834:6838
+15	lockas	_	_	_	_	_	_	_	TokenRange=6839:6845
+16	till	_	_	_	_	_	_	_	TokenRange=6846:6850
+17	arbete	_	_	_	_	_	_	_	TokenRange=6851:6857
+18	och	_	_	_	_	_	_	_	TokenRange=6858:6861
+19	ansträngning	_	_	_	_	_	_	_	TokenRange=6862:6874
+20	genom	_	_	_	_	_	_	_	TokenRange=6875:6880
+21	hopp	_	_	_	_	_	_	_	TokenRange=6881:6885
+22	om	_	_	_	_	_	_	_	TokenRange=6886:6888
+23	rymligare	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6889:6898
+24	bostäder	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6900:6908
+25	,	_	_	_	_	_	_	_	TokenRange=6908:6909
+26	läckrare	_	_	_	_	_	_	_	TokenRange=6910:6918
+27	mat	_	_	_	_	_	_	_	TokenRange=6919:6922
+28	och	_	_	_	_	_	_	_	TokenRange=6923:6926
+29	vackrare	_	_	_	_	_	_	_	TokenRange=6927:6935
+30	kläder	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6936:6942
+31	.	_	_	_	_	_	_	_	TokenRange=6942:6943
+
+# sent_id = 50
+# text = Numera behövdes ingenting sådant.
+1	Numera	_	_	_	_	_	_	_	TokenRange=6944:6950
+2	behövdes	_	_	_	_	_	_	_	TokenRange=6951:6959
+3	ingenting	_	_	_	_	_	_	_	TokenRange=6960:6969
+4	sådant	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6970:6976
+5	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6976:6977
+
+# sent_id = 51
+# text = Standardvåningen – ett rum för de ogifta, två för familj – räckte gott åt alla, från de ringaste till de mest förtjänta.
+1	Standardvåningen	_	_	_	_	_	_	_	TokenRange=6979:6995
+2	–	_	_	_	_	_	_	_	TokenRange=6996:6997
+3	ett	_	_	_	_	_	_	_	TokenRange=6998:7001
+4	rum	_	_	_	_	_	_	_	TokenRange=7002:7005
+5	för	_	_	_	_	_	_	_	TokenRange=7006:7009
+6	de	_	_	_	_	_	_	_	TokenRange=7010:7012
+7	ogifta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7013:7019
+8	,	_	_	_	_	_	_	_	TokenRange=7019:7020
+9	två	_	_	_	_	_	_	_	TokenRange=7021:7024
+10	för	_	_	_	_	_	_	_	TokenRange=7025:7028
+11	familj	_	_	_	_	_	_	_	TokenRange=7029:7035
+12	–	_	_	_	_	_	_	_	TokenRange=7036:7037
+13	räckte	_	_	_	_	_	_	_	TokenRange=7038:7044
+14	gott	_	_	_	_	_	_	_	TokenRange=7045:7049
+15	åt	_	_	_	_	_	_	_	TokenRange=7050:7052
+16	alla	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7053:7057
+17	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7057:7058
+18	från	_	_	_	_	_	_	_	TokenRange=7060:7064
+19	de	_	_	_	_	_	_	_	TokenRange=7065:7067
+20	ringaste	_	_	_	_	_	_	_	TokenRange=7068:7076
+21	till	_	_	_	_	_	_	_	TokenRange=7077:7081
+22	de	_	_	_	_	_	_	_	TokenRange=7082:7084
+23	mest	_	_	_	_	_	_	_	TokenRange=7085:7089
+24	förtjänta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7090:7099
+25	.	_	_	_	_	_	_	_	TokenRange=7099:7100
+
+# sent_id = 52
+# text = Huskökets mat gav mättnad åt generalen likaväl som åt den menige.
+1	Huskökets	_	_	_	_	_	_	_	TokenRange=7101:7110
+2	mat	_	_	_	_	_	_	_	TokenRange=7111:7114
+3	gav	_	_	_	_	_	_	_	TokenRange=7115:7118
+4	mättnad	_	_	_	_	_	_	_	TokenRange=7119:7126
+5	åt	_	_	_	_	_	_	_	TokenRange=7127:7129
+6	generalen	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7130:7139
+7	likaväl	_	_	_	_	_	_	_	TokenRange=7141:7148
+8	som	_	_	_	_	_	_	_	TokenRange=7149:7152
+9	åt	_	_	_	_	_	_	_	TokenRange=7153:7155
+10	den	_	_	_	_	_	_	_	TokenRange=7156:7159
+11	menige	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7160:7166
+12	.	_	_	_	_	_	_	_	TokenRange=7166:7167
+
+# sent_id = 53
+# text = Den allmänna uniformen – en för arbetet, en för fritiden och en för militär- och polistjänsten – var lika för alla, för man och kvinna, och för hög och låg sånär som på gradbeteckningen.
+1	Den	_	_	_	_	_	_	_	TokenRange=7168:7171
+2	allmänna	_	_	_	_	_	_	_	TokenRange=7172:7180
+3	uniformen	_	_	_	_	_	_	_	TokenRange=7181:7190
+4	–	_	_	_	_	_	_	_	TokenRange=7191:7192
+5	en	_	_	_	_	_	_	_	TokenRange=7193:7195
+6	för	_	_	_	_	_	_	_	TokenRange=7196:7199
+7	arbetet	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7200:7207
+8	,	_	_	_	_	_	_	_	TokenRange=7207:7208
+9	en	_	_	_	_	_	_	_	TokenRange=7209:7211
+10	för	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7212:7215
+11	fritiden	_	_	_	_	_	_	_	TokenRange=7217:7225
+12	och	_	_	_	_	_	_	_	TokenRange=7226:7229
+13	en	_	_	_	_	_	_	_	TokenRange=7230:7232
+14	för	_	_	_	_	_	_	_	TokenRange=7233:7236
+15	militär-	_	_	_	_	_	_	_	TokenRange=7237:7245
+16	och	_	_	_	_	_	_	_	TokenRange=7246:7249
+17	polistjänsten	_	_	_	_	_	_	_	TokenRange=7250:7263
+18	–	_	_	_	_	_	_	_	TokenRange=7264:7265
+19	var	_	_	_	_	_	_	_	TokenRange=7266:7269
+20	lika	_	_	_	_	_	_	_	TokenRange=7270:7274
+21	för	_	_	_	_	_	_	_	TokenRange=7275:7278
+22	alla	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7279:7283
+23	,	_	_	_	_	_	_	_	TokenRange=7283:7284
+24	för	_	_	_	_	_	_	_	TokenRange=7285:7288
+25	man	_	_	_	_	_	_	_	TokenRange=7289:7292
+26	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7293:7296
+27	kvinna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7298:7304
+28	,	_	_	_	_	_	_	_	TokenRange=7304:7305
+29	och	_	_	_	_	_	_	_	TokenRange=7306:7309
+30	för	_	_	_	_	_	_	_	TokenRange=7310:7313
+31	hög	_	_	_	_	_	_	_	TokenRange=7314:7317
+32	och	_	_	_	_	_	_	_	TokenRange=7318:7321
+33	låg	_	_	_	_	_	_	_	TokenRange=7322:7325
+34	sånär	_	_	_	_	_	_	_	TokenRange=7326:7331
+35	som	_	_	_	_	_	_	_	TokenRange=7332:7335
+36	på	_	_	_	_	_	_	_	TokenRange=7336:7338
+37	gradbeteckningen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7339:7355
+38	.	_	_	_	_	_	_	_	TokenRange=7355:7356
+
+# sent_id = 54
+# text = Till och med den senare var egentligen inte grannare för den ene än för den andre.
+1	Till	_	_	_	_	_	_	_	TokenRange=7357:7361
+2	och	_	_	_	_	_	_	_	TokenRange=7362:7365
+3	med	_	_	_	_	_	_	_	TokenRange=7366:7369
+4	den	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7370:7373
+5	senare	_	_	_	_	_	_	_	TokenRange=7375:7381
+6	var	_	_	_	_	_	_	_	TokenRange=7382:7385
+7	egentligen	_	_	_	_	_	_	_	TokenRange=7386:7396
+8	inte	_	_	_	_	_	_	_	TokenRange=7397:7401
+9	grannare	_	_	_	_	_	_	_	TokenRange=7402:7410
+10	för	_	_	_	_	_	_	_	TokenRange=7411:7414
+11	den	_	_	_	_	_	_	_	TokenRange=7415:7418
+12	ene	_	_	_	_	_	_	_	TokenRange=7419:7422
+13	än	_	_	_	_	_	_	_	TokenRange=7423:7425
+14	för	_	_	_	_	_	_	_	TokenRange=7426:7429
+15	den	_	_	_	_	_	_	_	TokenRange=7430:7433
+16	andre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7434:7439
+17	.	_	_	_	_	_	_	_	TokenRange=7439:7440
+
+# sent_id = 55
+# text = Det eftersträvansvärda i en högre chefsbeteckning låg enbart i vad den symboliserade.
+1	Det	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7441:7444
+2	eftersträvansvärda	_	_	_	_	_	_	_	TokenRange=7446:7464
+3	i	_	_	_	_	_	_	_	TokenRange=7465:7466
+4	en	_	_	_	_	_	_	_	TokenRange=7467:7469
+5	högre	_	_	_	_	_	_	_	TokenRange=7470:7475
+6	chefsbeteckning	_	_	_	_	_	_	_	TokenRange=7476:7491
+7	låg	_	_	_	_	_	_	_	TokenRange=7492:7495
+8	enbart	_	_	_	_	_	_	_	TokenRange=7496:7502
+9	i	_	_	_	_	_	_	_	TokenRange=7503:7504
+10	vad	_	_	_	_	_	_	_	TokenRange=7505:7508
+11	den	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7509:7512
+12	symboliserade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7514:7527
+13	.	_	_	_	_	_	_	_	TokenRange=7527:7528
+
+# sent_id = 56
+# text = Så högt förandligad, tänkte jag lycklig, är faktiskt varenda medsoldat i Världsstaten, att det han anar som livets högsta värde knappast har någon mera konkret form för honom än tre svarta slingor på ärmen – tre svarta slingor, som är honom en pant både på egen självaktning och aktning från andras sida.
+1	Så	_	_	_	_	_	_	_	TokenRange=7529:7531
+2	högt	_	_	_	_	_	_	_	TokenRange=7532:7536
+3	förandligad	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7537:7548
+4	,	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=7548:7549
+5	tänkte	_	_	_	_	_	_	_	TokenRange=7551:7557
+6	jag	_	_	_	_	_	_	_	TokenRange=7558:7561
+7	lycklig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7562:7569
+8	,	_	_	_	_	_	_	_	TokenRange=7569:7570
+9	är	_	_	_	_	_	_	_	TokenRange=7571:7573
+10	faktiskt	_	_	_	_	_	_	_	TokenRange=7574:7582
+11	varenda	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7583:7590
+12	medsoldat	_	_	_	_	_	_	_	TokenRange=7592:7601
+13	i	_	_	_	_	_	_	_	TokenRange=7602:7603
+14	Världsstaten	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7604:7616
+15	,	_	_	_	_	_	_	_	TokenRange=7616:7617
+16	att	_	_	_	_	_	_	_	TokenRange=7618:7621
+17	det	_	_	_	_	_	_	_	TokenRange=7622:7625
+18	han	_	_	_	_	_	_	_	TokenRange=7626:7629
+19	anar	_	_	_	_	_	_	_	TokenRange=7630:7634
+20	som	_	_	_	_	_	_	_	TokenRange=7635:7638
+21	livets	_	_	_	_	_	_	_	TokenRange=7639:7645
+22	högsta	_	_	_	_	_	_	_	TokenRange=7646:7652
+23	värde	_	_	_	_	_	_	_	TokenRange=7653:7658
+24	knappast	_	_	_	_	_	_	_	TokenRange=7659:7667
+25	har	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7668:7671
+26	någon	_	_	_	_	_	_	_	TokenRange=7673:7678
+27	mera	_	_	_	_	_	_	_	TokenRange=7679:7683
+28	konkret	_	_	_	_	_	_	_	TokenRange=7684:7691
+29	form	_	_	_	_	_	_	_	TokenRange=7692:7696
+30	för	_	_	_	_	_	_	_	TokenRange=7697:7700
+31	honom	_	_	_	_	_	_	_	TokenRange=7701:7706
+32	än	_	_	_	_	_	_	_	TokenRange=7707:7709
+33	tre	_	_	_	_	_	_	_	TokenRange=7710:7713
+34	svarta	_	_	_	_	_	_	_	TokenRange=7714:7720
+35	slingor	_	_	_	_	_	_	_	TokenRange=7721:7728
+36	på	_	_	_	_	_	_	_	TokenRange=7729:7731
+37	ärmen	_	_	_	_	_	_	_	TokenRange=7732:7737
+38	–	_	_	_	_	_	_	_	TokenRange=7738:7739
+39	tre	_	_	_	_	_	_	_	TokenRange=7740:7743
+40	svarta	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7744:7750
+41	slingor	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7752:7759
+42	,	_	_	_	_	_	_	_	TokenRange=7759:7760
+43	som	_	_	_	_	_	_	_	TokenRange=7761:7764
+44	är	_	_	_	_	_	_	_	TokenRange=7765:7767
+45	honom	_	_	_	_	_	_	_	TokenRange=7768:7773
+46	en	_	_	_	_	_	_	_	TokenRange=7774:7776
+47	pant	_	_	_	_	_	_	_	TokenRange=7777:7781
+48	både	_	_	_	_	_	_	_	TokenRange=7782:7786
+49	på	_	_	_	_	_	_	_	TokenRange=7787:7789
+50	egen	_	_	_	_	_	_	_	TokenRange=7790:7794
+51	självaktning	_	_	_	_	_	_	_	TokenRange=7795:7807
+52	och	_	_	_	_	_	_	_	TokenRange=7808:7811
+53	aktning	_	_	_	_	_	_	_	TokenRange=7812:7819
+54	från	_	_	_	_	_	_	_	TokenRange=7820:7824
+55	andras	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7825:7831
+56	sida	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7833:7837
+57	.	_	_	_	_	_	_	_	TokenRange=7837:7838
+
+# sent_id = 57
+# text = Av materiella njutningar kan man säkert få nog och mer än nog – just därför misstänker jag att de gamla civilistiska kapitalisternas tolvrumsvåningar knappt heller var mer än en symbol – men detta subtilaste av allt, som man jagar under formen av gradbeteckningar, det gör ingen övermätt.
+1	Av	_	_	_	_	_	_	_	TokenRange=7839:7841
+2	materiella	_	_	_	_	_	_	_	TokenRange=7842:7852
+3	njutningar	_	_	_	_	_	_	_	TokenRange=7853:7863
+4	kan	_	_	_	_	_	_	_	TokenRange=7864:7867
+5	man	_	_	_	_	_	_	_	TokenRange=7868:7871
+6	säkert	_	_	_	_	_	_	_	TokenRange=7872:7878
+7	få	_	_	_	_	_	_	_	TokenRange=7879:7881
+8	nog	_	_	_	_	_	_	_	TokenRange=7882:7885
+9	och	_	_	_	_	_	_	_	TokenRange=7886:7889
+10	mer	_	_	_	_	_	_	_	TokenRange=7890:7893
+11	än	_	_	_	_	_	_	_	TokenRange=7894:7896
+12	nog	_	_	_	_	_	_	_	TokenRange=7897:7900
+13	–	_	_	_	_	_	_	_	TokenRange=7901:7902
+14	just	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7903:7907
+15	därför	_	_	_	_	_	_	_	TokenRange=7909:7915
+16	misstänker	_	_	_	_	_	_	_	TokenRange=7916:7926
+17	jag	_	_	_	_	_	_	_	TokenRange=7927:7930
+18	att	_	_	_	_	_	_	_	TokenRange=7931:7934
+19	de	_	_	_	_	_	_	_	TokenRange=7935:7937
+20	gamla	_	_	_	_	_	_	_	TokenRange=7938:7943
+21	civilistiska	_	_	_	_	_	_	_	TokenRange=7944:7956
+22	kapitalisternas	_	_	_	_	_	_	_	TokenRange=7957:7972
+23	tolvrumsvåningar	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7973:7989
+24	knappt	_	_	_	_	_	_	_	TokenRange=7991:7997
+25	heller	_	_	_	_	_	_	_	TokenRange=7998:8004
+26	var	_	_	_	_	_	_	_	TokenRange=8005:8008
+27	mer	_	_	_	_	_	_	_	TokenRange=8009:8012
+28	än	_	_	_	_	_	_	_	TokenRange=8013:8015
+29	en	_	_	_	_	_	_	_	TokenRange=8016:8018
+30	symbol	_	_	_	_	_	_	_	TokenRange=8019:8025
+31	–	_	_	_	_	_	_	_	TokenRange=8026:8027
+32	men	_	_	_	_	_	_	_	TokenRange=8028:8031
+33	detta	_	_	_	_	_	_	_	TokenRange=8032:8037
+34	subtilaste	_	_	_	_	_	_	_	TokenRange=8038:8048
+35	av	_	_	_	_	_	_	_	TokenRange=8049:8051
+36	allt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8052:8056
+37	,	_	_	_	_	_	_	_	TokenRange=8056:8057
+38	som	_	_	_	_	_	_	_	TokenRange=8058:8061
+39	man	_	_	_	_	_	_	_	TokenRange=8062:8065
+40	jagar	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8066:8071
+41	under	_	_	_	_	_	_	_	TokenRange=8073:8078
+42	formen	_	_	_	_	_	_	_	TokenRange=8079:8085
+43	av	_	_	_	_	_	_	_	TokenRange=8086:8088
+44	gradbeteckningar	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8089:8105
+45	,	_	_	_	_	_	_	_	TokenRange=8105:8106
+46	det	_	_	_	_	_	_	_	TokenRange=8107:8110
+47	gör	_	_	_	_	_	_	_	TokenRange=8111:8114
+48	ingen	_	_	_	_	_	_	_	TokenRange=8115:8120
+49	övermätt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8121:8129
+50	.	_	_	_	_	_	_	_	TokenRange=8129:8130
+
+# sent_id = 58
+# text = Ingen kan ha så mycket aktning och så mycket självaktning, att han inte vill ha mer.
+1	Ingen	_	_	_	_	_	_	_	TokenRange=8131:8136
+2	kan	_	_	_	_	_	_	_	TokenRange=8137:8140
+3	ha	_	_	_	_	_	_	_	TokenRange=8141:8143
+4	så	_	_	_	_	_	_	_	TokenRange=8144:8146
+5	mycket	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8147:8153
+6	aktning	_	_	_	_	_	_	_	TokenRange=8155:8162
+7	och	_	_	_	_	_	_	_	TokenRange=8163:8166
+8	så	_	_	_	_	_	_	_	TokenRange=8167:8169
+9	mycket	_	_	_	_	_	_	_	TokenRange=8170:8176
+10	självaktning	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8177:8189
+11	,	_	_	_	_	_	_	_	TokenRange=8189:8190
+12	att	_	_	_	_	_	_	_	TokenRange=8191:8194
+13	han	_	_	_	_	_	_	_	TokenRange=8195:8198
+14	inte	_	_	_	_	_	_	_	TokenRange=8199:8203
+15	vill	_	_	_	_	_	_	_	TokenRange=8204:8208
+16	ha	_	_	_	_	_	_	_	TokenRange=8209:8211
+17	mer	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8212:8215
+18	.	_	_	_	_	_	_	_	TokenRange=8215:8216
+
+# sent_id = 59
+# text = På det mest förandligade, det mest luftiga och ouppnåeliga av allt vilar vår fasta samhällsordning trygg för alla tider.
+1	På	_	_	_	_	_	_	_	TokenRange=8217:8219
+2	det	_	_	_	_	_	_	_	TokenRange=8220:8223
+3	mest	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8224:8228
+4	förandligade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8230:8242
+5	,	_	_	_	_	_	_	_	TokenRange=8242:8243
+6	det	_	_	_	_	_	_	_	TokenRange=8244:8247
+7	mest	_	_	_	_	_	_	_	TokenRange=8248:8252
+8	luftiga	_	_	_	_	_	_	_	TokenRange=8253:8260
+9	och	_	_	_	_	_	_	_	TokenRange=8261:8264
+10	ouppnåeliga	_	_	_	_	_	_	_	TokenRange=8265:8276
+11	av	_	_	_	_	_	_	_	TokenRange=8277:8279
+12	allt	_	_	_	_	_	_	_	TokenRange=8280:8284
+13	vilar	_	_	_	_	_	_	_	TokenRange=8285:8290
+14	vår	_	_	_	_	_	_	_	TokenRange=8291:8294
+15	fasta	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8295:8300
+16	samhällsordning	_	_	_	_	_	_	_	TokenRange=8302:8317
+17	trygg	_	_	_	_	_	_	_	TokenRange=8318:8323
+18	för	_	_	_	_	_	_	_	TokenRange=8324:8327
+19	alla	_	_	_	_	_	_	_	TokenRange=8328:8332
+20	tider	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8333:8338
+21	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=8338:8339
+
+# newpar
+# sent_id = 60
+# text = Så stod jag i funderingar vid metrons uppgång och såg som i en dröm vakten gå fram och tillbaka längs den taggtrådskrönta distriktsmuren.
+1	Så	_	_	_	_	_	_	_	TokenRange=8343:8345
+2	stod	_	_	_	_	_	_	_	TokenRange=8346:8350
+3	jag	_	_	_	_	_	_	_	TokenRange=8351:8354
+4	i	_	_	_	_	_	_	_	TokenRange=8355:8356
+5	funderingar	_	_	_	_	_	_	_	TokenRange=8357:8368
+6	vid	_	_	_	_	_	_	_	TokenRange=8369:8372
+7	metrons	_	_	_	_	_	_	_	TokenRange=8373:8380
+8	uppgång	_	_	_	_	_	_	_	TokenRange=8381:8388
+9	och	_	_	_	_	_	_	_	TokenRange=8389:8392
+10	såg	_	_	_	_	_	_	_	TokenRange=8393:8396
+11	som	_	_	_	_	_	_	_	TokenRange=8397:8400
+12	i	_	_	_	_	_	_	_	TokenRange=8401:8402
+13	en	_	_	_	_	_	_	_	TokenRange=8403:8405
+14	dröm	_	_	_	_	_	_	_	TokenRange=8406:8410
+15	vakten	_	_	_	_	_	_	_	TokenRange=8411:8417
+16	gå	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8418:8420
+17	fram	_	_	_	_	_	_	_	TokenRange=8422:8426
+18	och	_	_	_	_	_	_	_	TokenRange=8427:8430
+19	tillbaka	_	_	_	_	_	_	_	TokenRange=8431:8439
+20	längs	_	_	_	_	_	_	_	TokenRange=8440:8445
+21	den	_	_	_	_	_	_	_	TokenRange=8446:8449
+22	taggtrådskrönta	_	_	_	_	_	_	_	TokenRange=8450:8465
+23	distriktsmuren	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8466:8480
+24	.	_	_	_	_	_	_	_	TokenRange=8480:8481
+
+# sent_id = 61
+# text = Fyra tåg hade kommit, fyra gånger hade skarorna strömmat upp i dagsljuset, då äntligen Linda passerade spärren.
+1	Fyra	_	_	_	_	_	_	_	TokenRange=8482:8486
+2	tåg	_	_	_	_	_	_	_	TokenRange=8487:8490
+3	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8491:8495
+4	kommit	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8497:8503
+5	,	_	_	_	_	_	_	_	TokenRange=8503:8504
+6	fyra	_	_	_	_	_	_	_	TokenRange=8505:8509
+7	gånger	_	_	_	_	_	_	_	TokenRange=8510:8516
+8	hade	_	_	_	_	_	_	_	TokenRange=8517:8521
+9	skarorna	_	_	_	_	_	_	_	TokenRange=8522:8530
+10	strömmat	_	_	_	_	_	_	_	TokenRange=8531:8539
+11	upp	_	_	_	_	_	_	_	TokenRange=8540:8543
+12	i	_	_	_	_	_	_	_	TokenRange=8544:8545
+13	dagsljuset	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8546:8556
+14	,	_	_	_	_	_	_	_	TokenRange=8556:8557
+15	då	_	_	_	_	_	_	_	TokenRange=8558:8560
+16	äntligen	_	_	_	_	_	_	_	TokenRange=8561:8569
+17	Linda	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8570:8575
+18	passerade	_	_	_	_	_	_	_	TokenRange=8577:8586
+19	spärren	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8587:8594
+20	.	_	_	_	_	_	_	_	TokenRange=8594:8595
+
+# sent_id = 62
+# text = Jag skyndade fram till henne och vi fortsatte sida vid sida.
+1	Jag	_	_	_	_	_	_	_	TokenRange=8596:8599
+2	skyndade	_	_	_	_	_	_	_	TokenRange=8600:8608
+3	fram	_	_	_	_	_	_	_	TokenRange=8609:8613
+4	till	_	_	_	_	_	_	_	TokenRange=8614:8618
+5	henne	_	_	_	_	_	_	_	TokenRange=8619:8624
+6	och	_	_	_	_	_	_	_	TokenRange=8625:8628
+7	vi	_	_	_	_	_	_	_	TokenRange=8629:8631
+8	fortsatte	_	_	_	_	_	_	_	TokenRange=8632:8641
+9	sida	_	_	_	_	_	_	_	TokenRange=8642:8646
+10	vid	_	_	_	_	_	_	_	TokenRange=8647:8650
+11	sida	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8651:8655
+12	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=8655:8656
+
+# newpar
+# sent_id = 63
+# text = Tala kunde vi naturligtvis inte för luftflottans övningar, som varken dag eller natt tillät något samtal att föras utomhus.
+1	Tala	_	_	_	_	_	_	_	TokenRange=8660:8664
+2	kunde	_	_	_	_	_	_	_	TokenRange=8665:8670
+3	vi	_	_	_	_	_	_	_	TokenRange=8671:8673
+4	naturligtvis	_	_	_	_	_	_	_	TokenRange=8674:8686
+5	inte	_	_	_	_	_	_	_	TokenRange=8687:8691
+6	för	_	_	_	_	_	_	_	TokenRange=8692:8695
+7	luftflottans	_	_	_	_	_	_	_	TokenRange=8696:8708
+8	övningar	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8709:8717
+9	,	_	_	_	_	_	_	_	TokenRange=8717:8718
+10	som	_	_	_	_	_	_	_	TokenRange=8719:8722
+11	varken	_	_	_	_	_	_	_	TokenRange=8723:8729
+12	dag	_	_	_	_	_	_	_	TokenRange=8730:8733
+13	eller	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8734:8739
+14	natt	_	_	_	_	_	_	_	TokenRange=8741:8745
+15	tillät	_	_	_	_	_	_	_	TokenRange=8746:8752
+16	något	_	_	_	_	_	_	_	TokenRange=8753:8758
+17	samtal	_	_	_	_	_	_	_	TokenRange=8759:8765
+18	att	_	_	_	_	_	_	_	TokenRange=8766:8769
+19	föras	_	_	_	_	_	_	_	TokenRange=8770:8775
+20	utomhus	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8776:8783
+21	.	_	_	_	_	_	_	_	TokenRange=8783:8784
+
+# sent_id = 64
+# text = I alla fall såg hon min glada min och nickade uppmuntrande, fast allvarlig som alltid.
+1	I	_	_	_	_	_	_	_	TokenRange=8785:8786
+2	alla	_	_	_	_	_	_	_	TokenRange=8787:8791
+3	fall	_	_	_	_	_	_	_	TokenRange=8792:8796
+4	såg	_	_	_	_	_	_	_	TokenRange=8797:8800
+5	hon	_	_	_	_	_	_	_	TokenRange=8801:8804
+6	min	_	_	_	_	_	_	_	TokenRange=8805:8808
+7	glada	_	_	_	_	_	_	_	TokenRange=8809:8814
+8	min	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8815:8818
+9	och	_	_	_	_	_	_	_	TokenRange=8820:8823
+10	nickade	_	_	_	_	_	_	_	TokenRange=8824:8831
+11	uppmuntrande	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8832:8844
+12	,	_	_	_	_	_	_	_	TokenRange=8844:8845
+13	fast	_	_	_	_	_	_	_	TokenRange=8846:8850
+14	allvarlig	_	_	_	_	_	_	_	TokenRange=8851:8860
+15	som	_	_	_	_	_	_	_	TokenRange=8861:8864
+16	alltid	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8865:8871
+17	.	_	_	_	_	_	_	_	TokenRange=8871:8872
+
+# sent_id = 65
+# text = Inte förrän vi hunnit in i bostadshuset och hissen förde oss ner till vår våning, slöt sig en relativ tystnad omkring oss – metrobullret, som skakade väggarna, var inte starkare än att man kunde tala obehindrat – och ändå uppsköt vi försiktigtvis alla samtal, tills vi kommit in.
+1	Inte	_	_	_	_	_	_	_	TokenRange=8873:8877
+2	förrän	_	_	_	_	_	_	_	TokenRange=8878:8884
+3	vi	_	_	_	_	_	_	_	TokenRange=8885:8887
+4	hunnit	_	_	_	_	_	_	_	TokenRange=8888:8894
+5	in	_	_	_	_	_	_	_	TokenRange=8895:8897
+6	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8898:8899
+7	bostadshuset	_	_	_	_	_	_	_	TokenRange=8901:8913
+8	och	_	_	_	_	_	_	_	TokenRange=8914:8917
+9	hissen	_	_	_	_	_	_	_	TokenRange=8918:8924
+10	förde	_	_	_	_	_	_	_	TokenRange=8925:8930
+11	oss	_	_	_	_	_	_	_	TokenRange=8931:8934
+12	ner	_	_	_	_	_	_	_	TokenRange=8935:8938
+13	till	_	_	_	_	_	_	_	TokenRange=8939:8943
+14	vår	_	_	_	_	_	_	_	TokenRange=8944:8947
+15	våning	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8948:8954
+16	,	_	_	_	_	_	_	_	TokenRange=8954:8955
+17	slöt	_	_	_	_	_	_	_	TokenRange=8956:8960
+18	sig	_	_	_	_	_	_	_	TokenRange=8961:8964
+19	en	_	_	_	_	_	_	_	TokenRange=8965:8967
+20	relativ	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8968:8975
+21	tystnad	_	_	_	_	_	_	_	TokenRange=8977:8984
+22	omkring	_	_	_	_	_	_	_	TokenRange=8985:8992
+23	oss	_	_	_	_	_	_	_	TokenRange=8993:8996
+24	–	_	_	_	_	_	_	_	TokenRange=8997:8998
+25	metrobullret	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8999:9011
+26	,	_	_	_	_	_	_	_	TokenRange=9011:9012
+27	som	_	_	_	_	_	_	_	TokenRange=9013:9016
+28	skakade	_	_	_	_	_	_	_	TokenRange=9017:9024
+29	väggarna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9025:9033
+30	,	_	_	_	_	_	_	_	TokenRange=9033:9034
+31	var	_	_	_	_	_	_	_	TokenRange=9035:9038
+32	inte	_	_	_	_	_	_	_	TokenRange=9039:9043
+33	starkare	_	_	_	_	_	_	_	TokenRange=9044:9052
+34	än	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9053:9055
+35	att	_	_	_	_	_	_	_	TokenRange=9057:9060
+36	man	_	_	_	_	_	_	_	TokenRange=9061:9064
+37	kunde	_	_	_	_	_	_	_	TokenRange=9065:9070
+38	tala	_	_	_	_	_	_	_	TokenRange=9071:9075
+39	obehindrat	_	_	_	_	_	_	_	TokenRange=9076:9086
+40	–	_	_	_	_	_	_	_	TokenRange=9087:9088
+41	och	_	_	_	_	_	_	_	TokenRange=9089:9092
+42	ändå	_	_	_	_	_	_	_	TokenRange=9093:9097
+43	uppsköt	_	_	_	_	_	_	_	TokenRange=9098:9105
+44	vi	_	_	_	_	_	_	_	TokenRange=9106:9108
+45	försiktigtvis	_	_	_	_	_	_	_	TokenRange=9109:9122
+46	alla	_	_	_	_	_	_	_	TokenRange=9123:9127
+47	samtal	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9128:9134
+48	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9134:9135
+49	tills	_	_	_	_	_	_	_	TokenRange=9137:9142
+50	vi	_	_	_	_	_	_	_	TokenRange=9143:9145
+51	kommit	_	_	_	_	_	_	_	TokenRange=9146:9152
+52	in	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9153:9155
+53	.	_	_	_	_	_	_	_	TokenRange=9155:9156
+
+# sent_id = 66
+# text = Hade någon kommit på oss med att tala i hissen, skulle ju ingen misstanke varit naturligare än att vi dryftade ämnen som vi inte ville låta barnen eller hembiträdet höra.
+1	Hade	_	_	_	_	_	_	_	TokenRange=9157:9161
+2	någon	_	_	_	_	_	_	_	TokenRange=9162:9167
+3	kommit	_	_	_	_	_	_	_	TokenRange=9168:9174
+4	på	_	_	_	_	_	_	_	TokenRange=9175:9177
+5	oss	_	_	_	_	_	_	_	TokenRange=9178:9181
+6	med	_	_	_	_	_	_	_	TokenRange=9182:9185
+7	att	_	_	_	_	_	_	_	TokenRange=9186:9189
+8	tala	_	_	_	_	_	_	_	TokenRange=9190:9194
+9	i	_	_	_	_	_	_	_	TokenRange=9195:9196
+10	hissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9197:9203
+11	,	_	_	_	_	_	_	_	TokenRange=9203:9204
+12	skulle	_	_	_	_	_	_	_	TokenRange=9205:9211
+13	ju	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9212:9214
+14	ingen	_	_	_	_	_	_	_	TokenRange=9216:9221
+15	misstanke	_	_	_	_	_	_	_	TokenRange=9222:9231
+16	varit	_	_	_	_	_	_	_	TokenRange=9232:9237
+17	naturligare	_	_	_	_	_	_	_	TokenRange=9238:9249
+18	än	_	_	_	_	_	_	_	TokenRange=9250:9252
+19	att	_	_	_	_	_	_	_	TokenRange=9253:9256
+20	vi	_	_	_	_	_	_	_	TokenRange=9257:9259
+21	dryftade	_	_	_	_	_	_	_	TokenRange=9260:9268
+22	ämnen	_	_	_	_	_	_	_	TokenRange=9269:9274
+23	som	_	_	_	_	_	_	_	TokenRange=9275:9278
+24	vi	_	_	_	_	_	_	_	TokenRange=9279:9281
+25	inte	_	_	_	_	_	_	_	TokenRange=9282:9286
+26	ville	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9287:9292
+27	låta	_	_	_	_	_	_	_	TokenRange=9294:9298
+28	barnen	_	_	_	_	_	_	_	TokenRange=9299:9305
+29	eller	_	_	_	_	_	_	_	TokenRange=9306:9311
+30	hembiträdet	_	_	_	_	_	_	_	TokenRange=9312:9323
+31	höra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9324:9328
+32	.	_	_	_	_	_	_	_	TokenRange=9328:9329
+
+# sent_id = 67
+# text = Sådana fall hade inträffat, då statsfiender och andra förbrytare velat använda hissen som konspirationslokal; det låg ju också nära till hands, eftersom polisöra och polisöga av tekniska skäl inte kunde monteras i en hiss och eftersom portvakten brukade ha annat att göra än springa och lyssna i trappnedgångarna.
+1	Sådana	_	_	_	_	_	_	_	TokenRange=9330:9336
+2	fall	_	_	_	_	_	_	_	TokenRange=9337:9341
+3	hade	_	_	_	_	_	_	_	TokenRange=9342:9346
+4	inträffat	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9347:9356
+5	,	_	_	_	_	_	_	_	TokenRange=9356:9357
+6	då	_	_	_	_	_	_	_	TokenRange=9358:9360
+7	statsfiender	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9361:9373
+8	och	_	_	_	_	_	_	_	TokenRange=9375:9378
+9	andra	_	_	_	_	_	_	_	TokenRange=9379:9384
+10	förbrytare	_	_	_	_	_	_	_	TokenRange=9385:9395
+11	velat	_	_	_	_	_	_	_	TokenRange=9396:9401
+12	använda	_	_	_	_	_	_	_	TokenRange=9402:9409
+13	hissen	_	_	_	_	_	_	_	TokenRange=9410:9416
+14	som	_	_	_	_	_	_	_	TokenRange=9417:9420
+15	konspirationslokal	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9421:9439
+16	;	_	_	_	_	_	_	_	TokenRange=9439:9440
+17	det	_	_	_	_	_	_	_	TokenRange=9441:9444
+18	låg	_	_	_	_	_	_	_	TokenRange=9445:9448
+19	ju	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9449:9451
+20	också	_	_	_	_	_	_	_	TokenRange=9453:9458
+21	nära	_	_	_	_	_	_	_	TokenRange=9459:9463
+22	till	_	_	_	_	_	_	_	TokenRange=9464:9468
+23	hands	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9469:9474
+24	,	_	_	_	_	_	_	_	TokenRange=9474:9475
+25	eftersom	_	_	_	_	_	_	_	TokenRange=9476:9484
+26	polisöra	_	_	_	_	_	_	_	TokenRange=9485:9493
+27	och	_	_	_	_	_	_	_	TokenRange=9494:9497
+28	polisöga	_	_	_	_	_	_	_	TokenRange=9498:9506
+29	av	_	_	_	_	_	_	_	TokenRange=9507:9509
+30	tekniska	_	_	_	_	_	_	_	TokenRange=9510:9518
+31	skäl	_	_	_	_	_	_	_	TokenRange=9519:9523
+32	inte	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9524:9528
+33	kunde	_	_	_	_	_	_	_	TokenRange=9530:9535
+34	monteras	_	_	_	_	_	_	_	TokenRange=9536:9544
+35	i	_	_	_	_	_	_	_	TokenRange=9545:9546
+36	en	_	_	_	_	_	_	_	TokenRange=9547:9549
+37	hiss	_	_	_	_	_	_	_	TokenRange=9550:9554
+38	och	_	_	_	_	_	_	_	TokenRange=9555:9558
+39	eftersom	_	_	_	_	_	_	_	TokenRange=9559:9567
+40	portvakten	_	_	_	_	_	_	_	TokenRange=9568:9578
+41	brukade	_	_	_	_	_	_	_	TokenRange=9579:9586
+42	ha	_	_	_	_	_	_	_	TokenRange=9587:9589
+43	annat	_	_	_	_	_	_	_	TokenRange=9590:9595
+44	att	_	_	_	_	_	_	_	TokenRange=9596:9599
+45	göra	_	_	_	_	_	_	_	TokenRange=9600:9604
+46	än	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9605:9607
+47	springa	_	_	_	_	_	_	_	TokenRange=9609:9616
+48	och	_	_	_	_	_	_	_	TokenRange=9617:9620
+49	lyssna	_	_	_	_	_	_	_	TokenRange=9621:9627
+50	i	_	_	_	_	_	_	_	TokenRange=9628:9629
+51	trappnedgångarna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9630:9646
+52	.	_	_	_	_	_	_	_	TokenRange=9646:9647
+
+# sent_id = 68
+# text = Vi teg alltså försiktigt ända tills vi stigit in i familjerummet, där veckans hembiträde redan dukat fram kvällsmaten och väntade med barnen, som hon hämtat ner ur husets barnvåning.
+1	Vi	_	_	_	_	_	_	_	TokenRange=9648:9650
+2	teg	_	_	_	_	_	_	_	TokenRange=9651:9654
+3	alltså	_	_	_	_	_	_	_	TokenRange=9655:9661
+4	försiktigt	_	_	_	_	_	_	_	TokenRange=9662:9672
+5	ända	_	_	_	_	_	_	_	TokenRange=9673:9677
+6	tills	_	_	_	_	_	_	_	TokenRange=9678:9683
+7	vi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9684:9686
+8	stigit	_	_	_	_	_	_	_	TokenRange=9688:9694
+9	in	_	_	_	_	_	_	_	TokenRange=9695:9697
+10	i	_	_	_	_	_	_	_	TokenRange=9698:9699
+11	familjerummet	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9700:9713
+12	,	_	_	_	_	_	_	_	TokenRange=9713:9714
+13	där	_	_	_	_	_	_	_	TokenRange=9715:9718
+14	veckans	_	_	_	_	_	_	_	TokenRange=9719:9726
+15	hembiträde	_	_	_	_	_	_	_	TokenRange=9727:9737
+16	redan	_	_	_	_	_	_	_	TokenRange=9738:9743
+17	dukat	_	_	_	_	_	_	_	TokenRange=9744:9749
+18	fram	_	_	_	_	_	_	_	TokenRange=9750:9754
+19	kvällsmaten	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9755:9766
+20	och	_	_	_	_	_	_	_	TokenRange=9768:9771
+21	väntade	_	_	_	_	_	_	_	TokenRange=9772:9779
+22	med	_	_	_	_	_	_	_	TokenRange=9780:9783
+23	barnen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9784:9790
+24	,	_	_	_	_	_	_	_	TokenRange=9790:9791
+25	som	_	_	_	_	_	_	_	TokenRange=9792:9795
+26	hon	_	_	_	_	_	_	_	TokenRange=9796:9799
+27	hämtat	_	_	_	_	_	_	_	TokenRange=9800:9806
+28	ner	_	_	_	_	_	_	_	TokenRange=9807:9810
+29	ur	_	_	_	_	_	_	_	TokenRange=9811:9813
+30	husets	_	_	_	_	_	_	_	TokenRange=9814:9820
+31	barnvåning	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9821:9831
+32	.	_	_	_	_	_	_	_	TokenRange=9831:9832
+
+# sent_id = 69
+# text = Hon föreföll att vara en ordentlig och hygglig flicka, och vår vänliga hälsning berodde alltså inte bara på medvetandet om att hon, som alla hembiträden, var skyldig 3% att avlägga rapport om familjen vid veckans slut – en reform, som allmänt ansågs ha förbättrat tonen i många hem.
+1	Hon	_	_	_	_	_	_	_	TokenRange=9833:9836
+2	föreföll	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9837:9845
+3	att	_	_	_	_	_	_	_	TokenRange=9847:9850
+4	vara	_	_	_	_	_	_	_	TokenRange=9851:9855
+5	en	_	_	_	_	_	_	_	TokenRange=9856:9858
+6	ordentlig	_	_	_	_	_	_	_	TokenRange=9859:9868
+7	och	_	_	_	_	_	_	_	TokenRange=9869:9872
+8	hygglig	_	_	_	_	_	_	_	TokenRange=9873:9880
+9	flicka	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9881:9887
+10	,	_	_	_	_	_	_	_	TokenRange=9887:9888
+11	och	_	_	_	_	_	_	_	TokenRange=9889:9892
+12	vår	_	_	_	_	_	_	_	TokenRange=9893:9896
+13	vänliga	_	_	_	_	_	_	_	TokenRange=9897:9904
+14	hälsning	_	_	_	_	_	_	_	TokenRange=9905:9913
+15	berodde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9914:9921
+16	alltså	_	_	_	_	_	_	_	TokenRange=9923:9929
+17	inte	_	_	_	_	_	_	_	TokenRange=9930:9934
+18	bara	_	_	_	_	_	_	_	TokenRange=9935:9939
+19	på	_	_	_	_	_	_	_	TokenRange=9940:9942
+20	medvetandet	_	_	_	_	_	_	_	TokenRange=9943:9954
+21	om	_	_	_	_	_	_	_	TokenRange=9955:9957
+22	att	_	_	_	_	_	_	_	TokenRange=9958:9961
+23	hon	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9962:9965
+24	,	_	_	_	_	_	_	_	TokenRange=9965:9966
+25	som	_	_	_	_	_	_	_	TokenRange=9967:9970
+26	alla	_	_	_	_	_	_	_	TokenRange=9971:9975
+27	hembiträden	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9976:9987
+28	,	_	_	_	_	_	_	_	TokenRange=9987:9988
+29	var	_	_	_	_	_	_	_	TokenRange=9989:9992
+30	skyldig	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=9993:10000
+31	3%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10055:10057
+32	att	_	_	_	_	_	_	_	TokenRange=10059:10062
+33	avlägga	_	_	_	_	_	_	_	TokenRange=10063:10070
+34	rapport	_	_	_	_	_	_	_	TokenRange=10071:10078
+35	om	_	_	_	_	_	_	_	TokenRange=10079:10081
+36	familjen	_	_	_	_	_	_	_	TokenRange=10082:10090
+37	vid	_	_	_	_	_	_	_	TokenRange=10091:10094
+38	veckans	_	_	_	_	_	_	_	TokenRange=10095:10102
+39	slut	_	_	_	_	_	_	_	TokenRange=10103:10107
+40	–	_	_	_	_	_	_	_	TokenRange=10108:10109
+41	en	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=10110:10112
+42	reform	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10114:10120
+43	,	_	_	_	_	_	_	_	TokenRange=10120:10121
+44	som	_	_	_	_	_	_	_	TokenRange=10122:10125
+45	allmänt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10126:10133
+46	ansågs	_	_	_	_	_	_	_	TokenRange=10135:10141
+47	ha	_	_	_	_	_	_	_	TokenRange=10142:10144
+48	förbättrat	_	_	_	_	_	_	_	TokenRange=10145:10155
+49	tonen	_	_	_	_	_	_	_	TokenRange=10156:10161
+50	i	_	_	_	_	_	_	_	TokenRange=10162:10163
+51	många	_	_	_	_	_	_	_	TokenRange=10164:10169
+52	hem	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10170:10173
+53	.	_	_	_	_	_	_	_	TokenRange=10173:10174
+
+# sent_id = 70
+# text = En stämning av glädje och trevnad rådde kring vårt bord, särskilt som vår äldste son, Ossu, var med bland oss andra.
+1	En	_	_	_	_	_	_	_	TokenRange=10175:10177
+2	stämning	_	_	_	_	_	_	_	TokenRange=10178:10186
+3	av	_	_	_	_	_	_	_	TokenRange=10187:10189
+4	glädje	_	_	_	_	_	_	_	TokenRange=10190:10196
+5	och	_	_	_	_	_	_	_	TokenRange=10197:10200
+6	trevnad	_	_	_	_	_	_	_	TokenRange=10201:10208
+7	rådde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10209:10214
+8	kring	_	_	_	_	_	_	_	TokenRange=10216:10221
+9	vårt	_	_	_	_	_	_	_	TokenRange=10222:10226
+10	bord	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10227:10231
+11	,	_	_	_	_	_	_	_	TokenRange=10231:10232
+12	särskilt	_	_	_	_	_	_	_	TokenRange=10233:10241
+13	som	_	_	_	_	_	_	_	TokenRange=10242:10245
+14	vår	_	_	_	_	_	_	_	TokenRange=10246:10249
+15	äldste	_	_	_	_	_	_	_	TokenRange=10250:10256
+16	son	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10257:10260
+17	,	_	_	_	_	_	_	_	TokenRange=10260:10261
+18	Ossu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10262:10266
+19	,	_	_	_	_	_	_	_	TokenRange=10266:10267
+20	var	_	_	_	_	_	_	_	TokenRange=10268:10271
+21	med	_	_	_	_	_	_	_	TokenRange=10272:10275
+22	bland	_	_	_	_	_	_	_	TokenRange=10276:10281
+23	oss	_	_	_	_	_	_	_	TokenRange=10282:10285
+24	andra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10286:10291
+25	.	_	_	_	_	_	_	_	TokenRange=10291:10292
+
+# sent_id = 71
+# text = Han hade kommit på besök från barnlägret, eftersom det var hemafton.
+1	Han	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10293:10296
+2	hade	_	_	_	_	_	_	_	TokenRange=10298:10302
+3	kommit	_	_	_	_	_	_	_	TokenRange=10303:10309
+4	på	_	_	_	_	_	_	_	TokenRange=10310:10312
+5	besök	_	_	_	_	_	_	_	TokenRange=10313:10318
+6	från	_	_	_	_	_	_	_	TokenRange=10319:10323
+7	barnlägret	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10324:10334
+8	,	_	_	_	_	_	_	_	TokenRange=10334:10335
+9	eftersom	_	_	_	_	_	_	_	TokenRange=10336:10344
+10	det	_	_	_	_	_	_	_	TokenRange=10345:10348
+11	var	_	_	_	_	_	_	_	TokenRange=10349:10352
+12	hemafton	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10353:10361
+13	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10361:10362
+
+# newpar
+# sent_id = 72
+# text = – Jag kan tala om något roligt, sade jag till Linda över potatissoppan.
+1	–	_	_	_	_	_	_	_	TokenRange=10366:10367
+2	Jag	_	_	_	_	_	_	_	TokenRange=10368:10371
+3	kan	_	_	_	_	_	_	_	TokenRange=10372:10375
+4	tala	_	_	_	_	_	_	_	TokenRange=10376:10380
+5	om	_	_	_	_	_	_	_	TokenRange=10381:10383
+6	något	_	_	_	_	_	_	_	TokenRange=10384:10389
+7	roligt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10390:10396
+8	,	_	_	_	_	_	_	_	TokenRange=10396:10397
+9	sade	_	_	_	_	_	_	_	TokenRange=10398:10402
+10	jag	_	_	_	_	_	_	_	TokenRange=10403:10406
+11	till	_	_	_	_	_	_	_	TokenRange=10407:10411
+12	Linda	_	_	_	_	_	_	_	TokenRange=10412:10417
+13	över	_	_	_	_	_	_	_	TokenRange=10418:10422
+14	potatissoppan	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10423:10436
+15	.	_	_	_	_	_	_	_	TokenRange=10436:10437
+
+# sent_id = 73
+# text = Mitt experiment har kommit så långt att jag får börja med mänsklig materiel i morgon, under överinseende av en kontrollchef.
+1	Mitt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10438:10442
+2	experiment	_	_	_	_	_	_	_	TokenRange=10444:10454
+3	har	_	_	_	_	_	_	_	TokenRange=10455:10458
+4	kommit	_	_	_	_	_	_	_	TokenRange=10459:10465
+5	så	_	_	_	_	_	_	_	TokenRange=10466:10468
+6	långt	_	_	_	_	_	_	_	TokenRange=10469:10474
+7	att	_	_	_	_	_	_	_	TokenRange=10475:10478
+8	jag	_	_	_	_	_	_	_	TokenRange=10479:10482
+9	får	_	_	_	_	_	_	_	TokenRange=10483:10486
+10	börja	_	_	_	_	_	_	_	TokenRange=10487:10492
+11	med	_	_	_	_	_	_	_	TokenRange=10493:10496
+12	mänsklig	_	_	_	_	_	_	_	TokenRange=10497:10505
+13	materiel	_	_	_	_	_	_	_	TokenRange=10506:10514
+14	i	_	_	_	_	_	_	_	TokenRange=10515:10516
+15	morgon	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10517:10523
+16	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10523:10524
+17	under	_	_	_	_	_	_	_	TokenRange=10526:10531
+18	överinseende	_	_	_	_	_	_	_	TokenRange=10532:10544
+19	av	_	_	_	_	_	_	_	TokenRange=10545:10547
+20	en	_	_	_	_	_	_	_	TokenRange=10548:10550
+21	kontrollchef	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10551:10563
+22	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10563:10564
+
+# newpar
+# sent_id = 74
+# text = – Vem tror du det blir? frågade Linda.
+1	–	_	_	_	_	_	_	_	TokenRange=10568:10569
+2	Vem	_	_	_	_	_	_	_	TokenRange=10570:10573
+3	tror	_	_	_	_	_	_	_	TokenRange=10574:10578
+4	du	_	_	_	_	_	_	_	TokenRange=10579:10581
+5	det	_	_	_	_	_	_	_	TokenRange=10582:10585
+6	blir	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10586:10590
+7	?	_	_	_	_	_	_	_	TokenRange=10590:10591
+8	frågade	_	_	_	_	_	_	_	TokenRange=10592:10599
+9	Linda	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10600:10605
+10	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10605:10606
+
+# newpar
+# sent_id = 75
+# text = Utanpå märktes det säkert inte, men invärtes ryckte jag till vid hennes ord.
+1	Utanpå	_	_	_	_	_	_	_	TokenRange=10610:10616
+2	märktes	_	_	_	_	_	_	_	TokenRange=10617:10624
+3	det	_	_	_	_	_	_	_	TokenRange=10625:10628
+4	säkert	_	_	_	_	_	_	_	TokenRange=10629:10635
+5	inte	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10636:10640
+6	,	_	_	_	_	_	_	_	TokenRange=10640:10641
+7	men	_	_	_	_	_	_	_	TokenRange=10642:10645
+8	invärtes	_	_	_	_	_	_	_	TokenRange=10646:10654
+9	ryckte	_	_	_	_	_	_	_	TokenRange=10655:10661
+10	jag	_	_	_	_	_	_	_	TokenRange=10662:10665
+11	till	_	_	_	_	_	_	_	TokenRange=10666:10670
+12	vid	_	_	_	_	_	_	_	TokenRange=10671:10674
+13	hennes	_	_	_	_	_	_	_	TokenRange=10675:10681
+14	ord	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10682:10685
+15	.	_	_	_	_	_	_	_	TokenRange=10685:10686
+
+# sent_id = 76
+# text = De kunde vara helt oskyldigt menade.
+1	De	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10687:10689
+2	kunde	_	_	_	_	_	_	_	TokenRange=10691:10696
+3	vara	_	_	_	_	_	_	_	TokenRange=10697:10701
+4	helt	_	_	_	_	_	_	_	TokenRange=10702:10706
+5	oskyldigt	_	_	_	_	_	_	_	TokenRange=10707:10716
+6	menade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10717:10723
+7	.	_	_	_	_	_	_	_	TokenRange=10723:10724
+
+# sent_id = 77
+# text = Vad var mera naturligt, än att en hustru frågade, vem som skulle bli mannens kontrollchef!
+1	Vad	_	_	_	_	_	_	_	TokenRange=10725:10728
+2	var	_	_	_	_	_	_	_	TokenRange=10729:10732
+3	mera	_	_	_	_	_	_	_	TokenRange=10733:10737
+4	naturligt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10738:10747
+5	,	_	_	_	_	_	_	_	TokenRange=10747:10748
+6	än	_	_	_	_	_	_	_	TokenRange=10749:10751
+7	att	_	_	_	_	_	_	_	TokenRange=10752:10755
+8	en	_	_	_	_	_	_	_	TokenRange=10756:10758
+9	hustru	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10759:10765
+10	frågade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10767:10774
+11	,	_	_	_	_	_	_	_	TokenRange=10774:10775
+12	vem	_	_	_	_	_	_	_	TokenRange=10776:10779
+13	som	_	_	_	_	_	_	_	TokenRange=10780:10783
+14	skulle	_	_	_	_	_	_	_	TokenRange=10784:10790
+15	bli	_	_	_	_	_	_	_	TokenRange=10791:10794
+16	mannens	_	_	_	_	_	_	_	TokenRange=10795:10802
+17	kontrollchef	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10803:10815
+18	!	_	_	_	_	_	_	_	TokenRange=10815:10816
+
+# sent_id = 78
+# text = På kontrollchefens kitslighet eller tillmötesgående hängde ju hur lång prövningstiden skulle bli.
+1	På	_	_	_	_	_	_	_	TokenRange=10817:10819
+2	kontrollchefens	_	_	_	_	_	_	_	TokenRange=10820:10835
+3	kitslighet	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10836:10846
+4	eller	_	_	_	_	_	_	_	TokenRange=10848:10853
+5	tillmötesgående	_	_	_	_	_	_	_	TokenRange=10854:10869
+6	hängde	_	_	_	_	_	_	_	TokenRange=10870:10876
+7	ju	_	_	_	_	_	_	_	TokenRange=10877:10879
+8	hur	_	_	_	_	_	_	_	TokenRange=10880:10883
+9	lång	_	_	_	_	_	_	_	TokenRange=10884:10888
+10	prövningstiden	_	_	_	_	_	_	_	TokenRange=10889:10903
+11	skulle	_	_	_	_	_	_	_	TokenRange=10904:10910
+12	bli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10911:10914
+13	.	_	_	_	_	_	_	_	TokenRange=10914:10915
+
+# sent_id = 79
+# text = Det hade till och med hänt, att ärelystna kontrollchefer gjort kontrollandens uppfinning till sin egen, och man hade jämförelsevis lite möjlighet att värja sig mot sådant.
+1	Det	_	_	_	_	_	_	_	TokenRange=10916:10919
+2	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10920:10924
+3	till	_	_	_	_	_	_	_	TokenRange=10926:10930
+4	och	_	_	_	_	_	_	_	TokenRange=10931:10934
+5	med	_	_	_	_	_	_	_	TokenRange=10935:10938
+6	hänt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10939:10943
+7	,	_	_	_	_	_	_	_	TokenRange=10943:10944
+8	att	_	_	_	_	_	_	_	TokenRange=10945:10948
+9	ärelystna	_	_	_	_	_	_	_	TokenRange=10949:10958
+10	kontrollchefer	_	_	_	_	_	_	_	TokenRange=10959:10973
+11	gjort	_	_	_	_	_	_	_	TokenRange=10974:10979
+12	kontrollandens	_	_	_	_	_	_	_	TokenRange=10980:10994
+13	uppfinning	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10995:11005
+14	till	_	_	_	_	_	_	_	TokenRange=11007:11011
+15	sin	_	_	_	_	_	_	_	TokenRange=11012:11015
+16	egen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11016:11020
+17	,	_	_	_	_	_	_	_	TokenRange=11020:11021
+18	och	_	_	_	_	_	_	_	TokenRange=11022:11025
+19	man	_	_	_	_	_	_	_	TokenRange=11026:11029
+20	hade	_	_	_	_	_	_	_	TokenRange=11030:11034
+21	jämförelsevis	_	_	_	_	_	_	_	TokenRange=11035:11048
+22	lite	_	_	_	_	_	_	_	TokenRange=11049:11053
+23	möjlighet	_	_	_	_	_	_	_	TokenRange=11054:11063
+24	att	_	_	_	_	_	_	_	TokenRange=11064:11067
+25	värja	_	_	_	_	_	_	_	TokenRange=11068:11073
+26	sig	_	_	_	_	_	_	_	TokenRange=11074:11077
+27	mot	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11078:11081
+28	sådant	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11083:11089
+29	.	_	_	_	_	_	_	_	TokenRange=11089:11090
+
+# sent_id = 80
+# text = Inte underligt då, om ens närmaste frågade vem det skulle bli.
+1	Inte	_	_	_	_	_	_	_	TokenRange=11091:11095
+2	underligt	_	_	_	_	_	_	_	TokenRange=11096:11105
+3	då	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11106:11108
+4	,	_	_	_	_	_	_	_	TokenRange=11108:11109
+5	om	_	_	_	_	_	_	_	TokenRange=11110:11112
+6	ens	_	_	_	_	_	_	_	TokenRange=11113:11116
+7	närmaste	_	_	_	_	_	_	_	TokenRange=11117:11125
+8	frågade	_	_	_	_	_	_	_	TokenRange=11126:11133
+9	vem	_	_	_	_	_	_	_	TokenRange=11134:11137
+10	det	_	_	_	_	_	_	_	TokenRange=11138:11141
+11	skulle	_	_	_	_	_	_	_	TokenRange=11142:11148
+12	bli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11149:11152
+13	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11152:11153
+
+# newpar
+# sent_id = 81
+# text = Men jag lyssnade efter en underton i hennes röst.
+1	Men	_	_	_	_	_	_	_	TokenRange=11157:11160
+2	jag	_	_	_	_	_	_	_	TokenRange=11161:11164
+3	lyssnade	_	_	_	_	_	_	_	TokenRange=11165:11173
+4	efter	_	_	_	_	_	_	_	TokenRange=11174:11179
+5	en	_	_	_	_	_	_	_	TokenRange=11180:11182
+6	underton	_	_	_	_	_	_	_	TokenRange=11183:11191
+7	i	_	_	_	_	_	_	_	TokenRange=11192:11193
+8	hennes	_	_	_	_	_	_	_	TokenRange=11194:11200
+9	röst	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11201:11205
+10	.	_	_	_	_	_	_	_	TokenRange=11205:11206
+
+# sent_id = 82
+# text = Min närmaste chef, och alltså sannolikt min blivande kontrollchef, var Edo Rissen.
+1	Min	_	_	_	_	_	_	_	TokenRange=11207:11210
+2	närmaste	_	_	_	_	_	_	_	TokenRange=11211:11219
+3	chef	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11220:11224
+4	,	_	_	_	_	_	_	_	TokenRange=11224:11225
+5	och	_	_	_	_	_	_	_	TokenRange=11226:11229
+6	alltså	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11230:11236
+7	sannolikt	_	_	_	_	_	_	_	TokenRange=11238:11247
+8	min	_	_	_	_	_	_	_	TokenRange=11248:11251
+9	blivande	_	_	_	_	_	_	_	TokenRange=11252:11260
+10	kontrollchef	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11261:11273
+11	,	_	_	_	_	_	_	_	TokenRange=11273:11274
+12	var	_	_	_	_	_	_	_	TokenRange=11275:11278
+13	Edo	_	_	_	_	_	_	_	TokenRange=11279:11282
+14	Rissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11283:11289
+15	.	_	_	_	_	_	_	_	TokenRange=11289:11290
+
+# sent_id = 83
+# text = Och Edo Rissen hade förut varit anställd på den livsmedelsfabrik, där Linda arbetade.
+1	Och	_	_	_	_	_	_	_	TokenRange=11291:11294
+2	Edo	_	_	_	_	_	_	_	TokenRange=11295:11298
+3	Rissen	_	_	_	_	_	_	_	TokenRange=11299:11305
+4	hade	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=11306:11310
+5	förut	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11312:11317
+6	varit	_	_	_	_	_	_	_	TokenRange=11319:11324
+7	anställd	_	_	_	_	_	_	_	TokenRange=11325:11333
+8	på	_	_	_	_	_	_	_	TokenRange=11334:11336
+9	den	_	_	_	_	_	_	_	TokenRange=11337:11340
+10	livsmedelsfabrik	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11341:11357
+11	,	_	_	_	_	_	_	_	TokenRange=11357:11358
+12	där	_	_	_	_	_	_	_	TokenRange=11359:11362
+13	Linda	_	_	_	_	_	_	_	TokenRange=11363:11368
+14	arbetade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11369:11377
+15	.	_	_	_	_	_	_	_	TokenRange=11377:11378
+
+# sent_id = 84
+# text = Jag visste, att de haft en hel del beröring med varandra, och av åtskilliga små tecken slöt jag mig till att han hade gjort ett visst intryck på min hustru.
+1	Jag	_	_	_	_	_	_	_	TokenRange=11379:11382
+2	visste	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11383:11389
+3	,	_	_	_	_	_	_	_	TokenRange=11389:11390
+4	att	_	_	_	_	_	_	_	TokenRange=11391:11394
+5	de	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11395:11397
+6	haft	_	_	_	_	_	_	_	TokenRange=11399:11403
+7	en	_	_	_	_	_	_	_	TokenRange=11404:11406
+8	hel	_	_	_	_	_	_	_	TokenRange=11407:11410
+9	del	_	_	_	_	_	_	_	TokenRange=11411:11414
+10	beröring	_	_	_	_	_	_	_	TokenRange=11415:11423
+11	med	_	_	_	_	_	_	_	TokenRange=11424:11427
+12	varandra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11428:11436
+13	,	_	_	_	_	_	_	_	TokenRange=11436:11437
+14	och	_	_	_	_	_	_	_	TokenRange=11438:11441
+15	av	_	_	_	_	_	_	_	TokenRange=11442:11444
+16	åtskilliga	_	_	_	_	_	_	_	TokenRange=11445:11455
+17	små	_	_	_	_	_	_	_	TokenRange=11456:11459
+18	tecken	_	_	_	_	_	_	_	TokenRange=11460:11466
+19	slöt	_	_	_	_	_	_	_	TokenRange=11467:11471
+20	jag	_	_	_	_	_	_	_	TokenRange=11472:11475
+21	mig	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11476:11479
+22	till	_	_	_	_	_	_	_	TokenRange=11481:11485
+23	att	_	_	_	_	_	_	_	TokenRange=11486:11489
+24	han	_	_	_	_	_	_	_	TokenRange=11490:11493
+25	hade	_	_	_	_	_	_	_	TokenRange=11494:11498
+26	gjort	_	_	_	_	_	_	_	TokenRange=11499:11504
+27	ett	_	_	_	_	_	_	_	TokenRange=11505:11508
+28	visst	_	_	_	_	_	_	_	TokenRange=11509:11514
+29	intryck	_	_	_	_	_	_	_	TokenRange=11515:11522
+30	på	_	_	_	_	_	_	_	TokenRange=11523:11525
+31	min	_	_	_	_	_	_	_	TokenRange=11526:11529
+32	hustru	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11530:11536
+33	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11536:11537
+
+# newpar
+# sent_id = 85
+# text = Vid hennes fråga vaknade min svartsjuka och vädrade.
+1	Vid	_	_	_	_	_	_	_	TokenRange=11541:11544
+2	hennes	_	_	_	_	_	_	_	TokenRange=11545:11551
+3	fråga	_	_	_	_	_	_	_	TokenRange=11552:11557
+4	vaknade	_	_	_	_	_	_	_	TokenRange=11558:11565
+5	min	_	_	_	_	_	_	_	TokenRange=11566:11569
+6	svartsjuka	_	_	_	_	_	_	_	TokenRange=11570:11580
+7	och	_	_	_	_	_	_	_	TokenRange=11581:11584
+8	vädrade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11585:11592
+9	.	_	_	_	_	_	_	_	TokenRange=11592:11593
+
+# sent_id = 86
+# text = Hur intimt var egentligen förhållandet mellan henne och Rissen?
+1	Hur	_	_	_	_	_	_	_	TokenRange=11594:11597
+2	intimt	_	_	_	_	_	_	_	TokenRange=11598:11604
+3	var	_	_	_	_	_	_	_	TokenRange=11605:11608
+4	egentligen	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11609:11619
+5	förhållandet	_	_	_	_	_	_	_	TokenRange=11621:11633
+6	mellan	_	_	_	_	_	_	_	TokenRange=11634:11640
+7	henne	_	_	_	_	_	_	_	TokenRange=11641:11646
+8	och	_	_	_	_	_	_	_	TokenRange=11647:11650
+9	Rissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11651:11657
+10	?	_	_	_	_	_	_	_	TokenRange=11657:11658
+
+# sent_id = 87
+# text = I en stor fabrik kunde det ofta hända, att två personer befann sig utom synhåll för de andra, i lagerlokalerna till exempel, där balar och lårar skymde utsikten genom glasväggarna och där kanske till råga på allt ingen annan var sysselsatt vid den tiden ...
+1	I	_	_	_	_	_	_	_	TokenRange=11659:11660
+2	en	_	_	_	_	_	_	_	TokenRange=11661:11663
+3	stor	_	_	_	_	_	_	_	TokenRange=11664:11668
+4	fabrik	_	_	_	_	_	_	_	TokenRange=11669:11675
+5	kunde	_	_	_	_	_	_	_	TokenRange=11676:11681
+6	det	_	_	_	_	_	_	_	TokenRange=11682:11685
+7	ofta	_	_	_	_	_	_	_	TokenRange=11686:11690
+8	hända	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11691:11696
+9	,	_	_	_	_	_	_	_	TokenRange=11696:11697
+10	att	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11698:11701
+11	två	_	_	_	_	_	_	_	TokenRange=11703:11706
+12	personer	_	_	_	_	_	_	_	TokenRange=11707:11715
+13	befann	_	_	_	_	_	_	_	TokenRange=11716:11722
+14	sig	_	_	_	_	_	_	_	TokenRange=11723:11726
+15	utom	_	_	_	_	_	_	_	TokenRange=11727:11731
+16	synhåll	_	_	_	_	_	_	_	TokenRange=11732:11739
+17	för	_	_	_	_	_	_	_	TokenRange=11740:11743
+18	de	_	_	_	_	_	_	_	TokenRange=11744:11746
+19	andra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11747:11752
+20	,	_	_	_	_	_	_	_	TokenRange=11752:11753
+21	i	_	_	_	_	_	_	_	TokenRange=11754:11755
+22	lagerlokalerna	_	_	_	_	_	_	_	TokenRange=11756:11770
+23	till	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11771:11775
+24	exempel	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11777:11784
+25	,	_	_	_	_	_	_	_	TokenRange=11784:11785
+26	där	_	_	_	_	_	_	_	TokenRange=11786:11789
+27	balar	_	_	_	_	_	_	_	TokenRange=11790:11795
+28	och	_	_	_	_	_	_	_	TokenRange=11796:11799
+29	lårar	_	_	_	_	_	_	_	TokenRange=11800:11805
+30	skymde	_	_	_	_	_	_	_	TokenRange=11806:11812
+31	utsikten	_	_	_	_	_	_	_	TokenRange=11813:11821
+32	genom	_	_	_	_	_	_	_	TokenRange=11822:11827
+33	glasväggarna	_	_	_	_	_	_	_	TokenRange=11828:11840
+34	och	_	_	_	_	_	_	_	TokenRange=11841:11844
+35	där	_	_	_	_	_	_	_	TokenRange=11845:11848
+36	kanske	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11849:11855
+37	till	_	_	_	_	_	_	_	TokenRange=11857:11861
+38	råga	_	_	_	_	_	_	_	TokenRange=11862:11866
+39	på	_	_	_	_	_	_	_	TokenRange=11867:11869
+40	allt	_	_	_	_	_	_	_	TokenRange=11870:11874
+41	ingen	_	_	_	_	_	_	_	TokenRange=11875:11880
+42	annan	_	_	_	_	_	_	_	TokenRange=11881:11886
+43	var	_	_	_	_	_	_	_	TokenRange=11887:11890
+44	sysselsatt	_	_	_	_	_	_	_	TokenRange=11891:11901
+45	vid	_	_	_	_	_	_	_	TokenRange=11902:11905
+46	den	_	_	_	_	_	_	_	TokenRange=11906:11909
+47	tiden	_	_	_	_	_	_	_	TokenRange=11910:11915
+48	...	_	_	_	_	_	_	_	TokenRange=11916:11919
+
+# sent_id = 88
+# text = Också Linda hade ju haft sin tur som nattvakt i fabriken.
+1	Också	_	_	_	_	_	_	_	TokenRange=11920:11925
+2	Linda	_	_	_	_	_	_	_	TokenRange=11926:11931
+3	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11932:11936
+4	ju	_	_	_	_	_	_	_	TokenRange=11938:11940
+5	haft	_	_	_	_	_	_	_	TokenRange=11941:11945
+6	sin	_	_	_	_	_	_	_	TokenRange=11946:11949
+7	tur	_	_	_	_	_	_	_	TokenRange=11950:11953
+8	som	_	_	_	_	_	_	_	TokenRange=11954:11957
+9	nattvakt	_	_	_	_	_	_	_	TokenRange=11958:11966
+10	i	_	_	_	_	_	_	_	TokenRange=11967:11968
+11	fabriken	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11969:11977
+12	.	_	_	_	_	_	_	_	TokenRange=11977:11978
+
+# sent_id = 89
+# text = Rissen kunde mycket väl haft sin vakt på samma gång.
+1	Rissen	_	_	_	_	_	_	_	TokenRange=11979:11985
+2	kunde	_	_	_	_	_	_	_	TokenRange=11986:11991
+3	mycket	_	_	_	_	_	_	_	TokenRange=11992:11998
+4	väl	_	_	_	_	_	_	_	TokenRange=11999:12002
+5	haft	_	_	_	_	_	_	_	TokenRange=12003:12007
+6	sin	_	_	_	_	_	_	_	TokenRange=12008:12011
+7	vakt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12012:12016
+8	på	_	_	_	_	_	_	_	TokenRange=12018:12020
+9	samma	_	_	_	_	_	_	_	TokenRange=12021:12026
+10	gång	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12027:12031
+11	.	_	_	_	_	_	_	_	TokenRange=12031:12032
+
+# sent_id = 90
+# text = Allt var möjligt, till och med det värsta av allt: att det fortfarande var honom hon älskade och inte mig.
+1	Allt	_	_	_	_	_	_	_	TokenRange=12033:12037
+2	var	_	_	_	_	_	_	_	TokenRange=12038:12041
+3	möjligt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12042:12049
+4	,	_	_	_	_	_	_	_	TokenRange=12049:12050
+5	till	_	_	_	_	_	_	_	TokenRange=12051:12055
+6	och	_	_	_	_	_	_	_	TokenRange=12056:12059
+7	med	_	_	_	_	_	_	_	TokenRange=12060:12063
+8	det	_	_	_	_	_	_	_	TokenRange=12064:12067
+9	värsta	_	_	_	_	_	_	_	TokenRange=12068:12074
+10	av	_	_	_	_	_	_	_	TokenRange=12075:12077
+11	allt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12078:12082
+12	:	_	_	_	_	_	_	_	TokenRange=12082:12083
+13	att	_	_	_	_	_	_	_	TokenRange=12084:12087
+14	det	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12088:12091
+15	fortfarande	_	_	_	_	_	_	_	TokenRange=12093:12104
+16	var	_	_	_	_	_	_	_	TokenRange=12105:12108
+17	honom	_	_	_	_	_	_	_	TokenRange=12109:12114
+18	hon	_	_	_	_	_	_	_	TokenRange=12115:12118
+19	älskade	_	_	_	_	_	_	_	TokenRange=12119:12126
+20	och	_	_	_	_	_	_	_	TokenRange=12127:12130
+21	inte	_	_	_	_	_	_	_	TokenRange=12131:12135
+22	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12136:12139
+23	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=12139:12140
+
+# newpar
+# sent_id = 91
+# text = På den tiden undrade jag sällan över mig själv, över vad jag tänkte och kände eller över vad andra tänkte och kände, såvida det inte hade direkt praktisk betydelse för mig.
+1	På	_	_	_	_	_	_	_	TokenRange=12144:12146
+2	den	_	_	_	_	_	_	_	TokenRange=12147:12150
+3	tiden	_	_	_	_	_	_	_	TokenRange=12151:12156
+4	undrade	_	_	_	_	_	_	_	TokenRange=12157:12164
+5	jag	_	_	_	_	_	_	_	TokenRange=12165:12168
+6	sällan	_	_	_	_	_	_	_	TokenRange=12169:12175
+7	över	_	_	_	_	_	_	_	TokenRange=12176:12180
+8	mig	_	_	_	_	_	_	_	TokenRange=12181:12184
+9	själv	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12185:12190
+10	,	_	_	_	_	_	_	_	TokenRange=12190:12191
+11	över	_	_	_	_	_	_	_	TokenRange=12192:12196
+12	vad	_	_	_	_	_	_	_	TokenRange=12197:12200
+13	jag	_	_	_	_	_	_	_	TokenRange=12201:12204
+14	tänkte	_	_	_	_	_	_	_	TokenRange=12205:12211
+15	och	_	_	_	_	_	_	_	TokenRange=12212:12215
+16	kände	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12216:12221
+17	eller	_	_	_	_	_	_	_	TokenRange=12223:12228
+18	över	_	_	_	_	_	_	_	TokenRange=12229:12233
+19	vad	_	_	_	_	_	_	_	TokenRange=12234:12237
+20	andra	_	_	_	_	_	_	_	TokenRange=12238:12243
+21	tänkte	_	_	_	_	_	_	_	TokenRange=12244:12250
+22	och	_	_	_	_	_	_	_	TokenRange=12251:12254
+23	kände	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12255:12260
+24	,	_	_	_	_	_	_	_	TokenRange=12260:12261
+25	såvida	_	_	_	_	_	_	_	TokenRange=12262:12268
+26	det	_	_	_	_	_	_	_	TokenRange=12269:12272
+27	inte	_	_	_	_	_	_	_	TokenRange=12273:12277
+28	hade	_	_	_	_	_	_	_	TokenRange=12278:12282
+29	direkt	_	_	_	_	_	_	_	TokenRange=12283:12289
+30	praktisk	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12290:12298
+31	betydelse	_	_	_	_	_	_	_	TokenRange=12300:12309
+32	för	_	_	_	_	_	_	_	TokenRange=12310:12313
+33	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12314:12317
+34	.	_	_	_	_	_	_	_	TokenRange=12317:12318
+
+# sent_id = 92
+# text = Först senare, under min ensamma tid som fånge, har ögonblicken kommit att vända tillbaka som gåtor och tvingat mig att undra, tyda och tyda om.
+1	Först	_	_	_	_	_	_	_	TokenRange=12319:12324
+2	senare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12325:12331
+3	,	_	_	_	_	_	_	_	TokenRange=12331:12332
+4	under	_	_	_	_	_	_	_	TokenRange=12333:12338
+5	min	_	_	_	_	_	_	_	TokenRange=12339:12342
+6	ensamma	_	_	_	_	_	_	_	TokenRange=12343:12350
+7	tid	_	_	_	_	_	_	_	TokenRange=12351:12354
+8	som	_	_	_	_	_	_	_	TokenRange=12355:12358
+9	fånge	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12359:12364
+10	,	_	_	_	_	_	_	_	TokenRange=12364:12365
+11	har	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12366:12369
+12	ögonblicken	_	_	_	_	_	_	_	TokenRange=12371:12382
+13	kommit	_	_	_	_	_	_	_	TokenRange=12383:12389
+14	att	_	_	_	_	_	_	_	TokenRange=12390:12393
+15	vända	_	_	_	_	_	_	_	TokenRange=12394:12399
+16	tillbaka	_	_	_	_	_	_	_	TokenRange=12400:12408
+17	som	_	_	_	_	_	_	_	TokenRange=12409:12412
+18	gåtor	_	_	_	_	_	_	_	TokenRange=12413:12418
+19	och	_	_	_	_	_	_	_	TokenRange=12419:12422
+20	tvingat	_	_	_	_	_	_	_	TokenRange=12423:12430
+21	mig	_	_	_	_	_	_	_	TokenRange=12431:12434
+22	att	_	_	_	_	_	_	_	TokenRange=12435:12438
+23	undra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12439:12444
+24	,	_	_	_	_	_	_	_	TokenRange=12444:12445
+25	tyda	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12446:12450
+26	och	_	_	_	_	_	_	_	TokenRange=12452:12455
+27	tyda	_	_	_	_	_	_	_	TokenRange=12456:12460
+28	om	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12461:12463
+29	.	_	_	_	_	_	_	_	TokenRange=12463:12464
+
+# sent_id = 93
+# text = Nu, så långt efteråt, vet jag, att då jag så ivrigt hoppades på ”visshet” i fråga om Linda och Rissen, ville jag egentligen inte ha en visshet om att där inte fanns något samband mellan dem.
+1	Nu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12465:12467
+2	,	_	_	_	_	_	_	_	TokenRange=12467:12468
+3	så	_	_	_	_	_	_	_	TokenRange=12469:12471
+4	långt	_	_	_	_	_	_	_	TokenRange=12472:12477
+5	efteråt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12478:12485
+6	,	_	_	_	_	_	_	_	TokenRange=12485:12486
+7	vet	_	_	_	_	_	_	_	TokenRange=12487:12490
+8	jag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12491:12494
+9	,	_	_	_	_	_	_	_	TokenRange=12494:12495
+10	att	_	_	_	_	_	_	_	TokenRange=12496:12499
+11	då	_	_	_	_	_	_	_	TokenRange=12500:12502
+12	jag	_	_	_	_	_	_	_	TokenRange=12503:12506
+13	så	_	_	_	_	_	_	_	TokenRange=12507:12509
+14	ivrigt	_	_	_	_	_	_	_	TokenRange=12510:12516
+15	hoppades	_	_	_	_	_	_	_	TokenRange=12517:12525
+16	på	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12526:12528
+17	”visshet”	_	_	_	_	_	_	_	TokenRange=12530:12539
+18	i	_	_	_	_	_	_	_	TokenRange=12540:12541
+19	fråga	_	_	_	_	_	_	_	TokenRange=12542:12547
+20	om	_	_	_	_	_	_	_	TokenRange=12548:12550
+21	Linda	_	_	_	_	_	_	_	TokenRange=12551:12556
+22	och	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=12557:12560
+23	Rissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12562:12568
+24	,	_	_	_	_	_	_	_	TokenRange=12568:12569
+25	ville	_	_	_	_	_	_	_	TokenRange=12570:12575
+26	jag	_	_	_	_	_	_	_	TokenRange=12576:12579
+27	egentligen	_	_	_	_	_	_	_	TokenRange=12580:12590
+28	inte	_	_	_	_	_	_	_	TokenRange=12591:12595
+29	ha	_	_	_	_	_	_	_	TokenRange=12596:12598
+30	en	_	_	_	_	_	_	_	TokenRange=12599:12601
+31	visshet	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12602:12609
+32	om	_	_	_	_	_	_	_	TokenRange=12611:12613
+33	att	_	_	_	_	_	_	_	TokenRange=12614:12617
+34	där	_	_	_	_	_	_	_	TokenRange=12618:12621
+35	inte	_	_	_	_	_	_	_	TokenRange=12622:12626
+36	fanns	_	_	_	_	_	_	_	TokenRange=12627:12632
+37	något	_	_	_	_	_	_	_	TokenRange=12633:12638
+38	samband	_	_	_	_	_	_	_	TokenRange=12639:12646
+39	mellan	_	_	_	_	_	_	_	TokenRange=12647:12653
+40	dem	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12654:12657
+41	.	_	_	_	_	_	_	_	TokenRange=12657:12658
+
+# sent_id = 94
+# text = Jag ville ha visshet om att hon drogs åt annat håll.
+1	Jag	_	_	_	_	_	_	_	TokenRange=12659:12662
+2	ville	_	_	_	_	_	_	_	TokenRange=12663:12668
+3	ha	_	_	_	_	_	_	_	TokenRange=12669:12671
+4	visshet	_	_	_	_	_	_	_	TokenRange=12672:12679
+5	om	_	_	_	_	_	_	_	TokenRange=12680:12682
+6	att	_	_	_	_	_	_	_	TokenRange=12683:12686
+7	hon	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12687:12690
+8	drogs	_	_	_	_	_	_	_	TokenRange=12692:12697
+9	åt	_	_	_	_	_	_	_	TokenRange=12698:12700
+10	annat	_	_	_	_	_	_	_	TokenRange=12701:12706
+11	håll	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12707:12711
+12	.	_	_	_	_	_	_	_	TokenRange=12711:12712
+
+# sent_id = 95
+# text = Jag ville ha en visshet som skulle göra slut på mitt äktenskap.
+1	Jag	_	_	_	_	_	_	_	TokenRange=12713:12716
+2	ville	_	_	_	_	_	_	_	TokenRange=12717:12722
+3	ha	_	_	_	_	_	_	_	TokenRange=12723:12725
+4	en	_	_	_	_	_	_	_	TokenRange=12726:12728
+5	visshet	_	_	_	_	_	_	_	TokenRange=12729:12736
+6	som	_	_	_	_	_	_	_	TokenRange=12737:12740
+7	skulle	_	_	_	_	_	_	_	TokenRange=12741:12747
+8	göra	_	_	_	_	_	_	_	TokenRange=12748:12752
+9	slut	_	_	_	_	_	_	_	TokenRange=12753:12757
+10	på	_	_	_	_	_	_	_	TokenRange=12758:12760
+11	mitt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12761:12765
+12	äktenskap	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12767:12776
+13	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=12776:12777
+
+# newpar
+# sent_id = 96
+# text = Men på den tiden skulle jag tillbakavisat en sådan tanke med förakt.
+1	Men	_	_	_	_	_	_	_	TokenRange=12781:12784
+2	på	_	_	_	_	_	_	_	TokenRange=12785:12787
+3	den	_	_	_	_	_	_	_	TokenRange=12788:12791
+4	tiden	_	_	_	_	_	_	_	TokenRange=12792:12797
+5	skulle	_	_	_	_	_	_	_	TokenRange=12798:12804
+6	jag	_	_	_	_	_	_	_	TokenRange=12805:12808
+7	tillbakavisat	_	_	_	_	_	_	_	TokenRange=12809:12822
+8	en	_	_	_	_	_	_	_	TokenRange=12823:12825
+9	sådan	_	_	_	_	_	_	_	TokenRange=12826:12831
+10	tanke	_	_	_	_	_	_	_	TokenRange=12832:12837
+11	med	_	_	_	_	_	_	_	TokenRange=12838:12841
+12	förakt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12842:12848
+13	.	_	_	_	_	_	_	_	TokenRange=12848:12849
+
+# sent_id = 97
+# text = Linda 4% spelade en alltför viktig roll i mitt liv, skulle jag sagt.
+1	Linda	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=12850:12855
+2	4%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12913:12915
+3	spelade	_	_	_	_	_	_	_	TokenRange=12917:12924
+4	en	_	_	_	_	_	_	_	TokenRange=12925:12927
+5	alltför	_	_	_	_	_	_	_	TokenRange=12928:12935
+6	viktig	_	_	_	_	_	_	_	TokenRange=12936:12942
+7	roll	_	_	_	_	_	_	_	TokenRange=12943:12947
+8	i	_	_	_	_	_	_	_	TokenRange=12948:12949
+9	mitt	_	_	_	_	_	_	_	TokenRange=12950:12954
+10	liv	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12955:12958
+11	,	_	_	_	_	_	_	_	TokenRange=12958:12959
+12	skulle	_	_	_	_	_	_	_	TokenRange=12960:12966
+13	jag	_	_	_	_	_	_	_	TokenRange=12967:12970
+14	sagt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12971:12975
+15	.	_	_	_	_	_	_	_	TokenRange=12975:12976
+
+# sent_id = 98
+# text = Och det var sant, inget grubbel och inga omtydningar har sedan kunnat ändra det.
+1	Och	_	_	_	_	_	_	_	TokenRange=12977:12980
+2	det	_	_	_	_	_	_	_	TokenRange=12981:12984
+3	var	_	_	_	_	_	_	_	TokenRange=12985:12988
+4	sant	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12989:12993
+5	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12993:12994
+6	inget	_	_	_	_	_	_	_	TokenRange=12996:13001
+7	grubbel	_	_	_	_	_	_	_	TokenRange=13002:13009
+8	och	_	_	_	_	_	_	_	TokenRange=13010:13013
+9	inga	_	_	_	_	_	_	_	TokenRange=13014:13018
+10	omtydningar	_	_	_	_	_	_	_	TokenRange=13019:13030
+11	har	_	_	_	_	_	_	_	TokenRange=13031:13034
+12	sedan	_	_	_	_	_	_	_	TokenRange=13035:13040
+13	kunnat	_	_	_	_	_	_	_	TokenRange=13041:13047
+14	ändra	_	_	_	_	_	_	_	TokenRange=13048:13053
+15	det	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13054:13057
+16	.	_	_	_	_	_	_	_	TokenRange=13057:13058
+
+# sent_id = 99
+# text = I betydelse hade hon gott kunnat ta upp tävlan med min karriär.
+1	I	_	_	_	_	_	_	_	TokenRange=13059:13060
+2	betydelse	_	_	_	_	_	_	_	TokenRange=13061:13070
+3	hade	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13071:13075
+4	hon	_	_	_	_	_	_	_	TokenRange=13077:13080
+5	gott	_	_	_	_	_	_	_	TokenRange=13081:13085
+6	kunnat	_	_	_	_	_	_	_	TokenRange=13086:13092
+7	ta	_	_	_	_	_	_	_	TokenRange=13093:13095
+8	upp	_	_	_	_	_	_	_	TokenRange=13096:13099
+9	tävlan	_	_	_	_	_	_	_	TokenRange=13100:13106
+10	med	_	_	_	_	_	_	_	TokenRange=13107:13110
+11	min	_	_	_	_	_	_	_	TokenRange=13111:13114
+12	karriär	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13115:13122
+13	.	_	_	_	_	_	_	_	TokenRange=13122:13123
+
+# sent_id = 100
+# text = Mot min vilja höll hon mig fast på ett rent oförnuftigt sätt.
+1	Mot	_	_	_	_	_	_	_	TokenRange=13124:13127
+2	min	_	_	_	_	_	_	_	TokenRange=13128:13131
+3	vilja	_	_	_	_	_	_	_	TokenRange=13132:13137
+4	höll	_	_	_	_	_	_	_	TokenRange=13138:13142
+5	hon	_	_	_	_	_	_	_	TokenRange=13143:13146
+6	mig	_	_	_	_	_	_	_	TokenRange=13147:13150
+7	fast	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13151:13155
+8	på	_	_	_	_	_	_	_	TokenRange=13157:13159
+9	ett	_	_	_	_	_	_	_	TokenRange=13160:13163
+10	rent	_	_	_	_	_	_	_	TokenRange=13164:13168
+11	oförnuftigt	_	_	_	_	_	_	_	TokenRange=13169:13180
+12	sätt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13181:13185
+13	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=13185:13186
+
+# newpar
+# sent_id = 101
+# text = Man kan tala om ”kärlek” som ett föråldrat romantiskt begrepp, men jag är rädd att den finns likafullt, och ända från början rymmer den ett obeskrivligt kvalfullt element.
+1	Man	_	_	_	_	_	_	_	TokenRange=13190:13193
+2	kan	_	_	_	_	_	_	_	TokenRange=13194:13197
+3	tala	_	_	_	_	_	_	_	TokenRange=13198:13202
+4	om	_	_	_	_	_	_	_	TokenRange=13203:13205
+5	”kärlek”	_	_	_	_	_	_	_	TokenRange=13206:13214
+6	som	_	_	_	_	_	_	_	TokenRange=13215:13218
+7	ett	_	_	_	_	_	_	_	TokenRange=13219:13222
+8	föråldrat	_	_	_	_	_	_	_	TokenRange=13223:13232
+9	romantiskt	_	_	_	_	_	_	_	TokenRange=13233:13243
+10	begrepp	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13244:13251
+11	,	_	_	_	_	_	_	_	TokenRange=13251:13252
+12	men	_	_	_	_	_	_	_	TokenRange=13253:13256
+13	jag	_	_	_	_	_	_	_	TokenRange=13257:13260
+14	är	_	_	_	_	_	_	_	TokenRange=13261:13263
+15	rädd	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13264:13268
+16	att	_	_	_	_	_	_	_	TokenRange=13270:13273
+17	den	_	_	_	_	_	_	_	TokenRange=13274:13277
+18	finns	_	_	_	_	_	_	_	TokenRange=13278:13283
+19	likafullt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13284:13293
+20	,	_	_	_	_	_	_	_	TokenRange=13293:13294
+21	och	_	_	_	_	_	_	_	TokenRange=13295:13298
+22	ända	_	_	_	_	_	_	_	TokenRange=13299:13303
+23	från	_	_	_	_	_	_	_	TokenRange=13304:13308
+24	början	_	_	_	_	_	_	_	TokenRange=13309:13315
+25	rymmer	_	_	_	_	_	_	_	TokenRange=13316:13322
+26	den	_	_	_	_	_	_	_	TokenRange=13323:13326
+27	ett	_	_	_	_	_	_	_	TokenRange=13327:13330
+28	obeskrivligt	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13331:13343
+29	kvalfullt	_	_	_	_	_	_	_	TokenRange=13345:13354
+30	element	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13355:13362
+31	.	_	_	_	_	_	_	_	TokenRange=13362:13363
+
+# sent_id = 102
+# text = En man dras till en kvinna, en kvinna till en man, och för vart steg man närmar sig varandra, har man givit till spillo något av sig själv; en serie nederlag, där man hoppades på segrar.
+1	En	_	_	_	_	_	_	_	TokenRange=13364:13366
+2	man	_	_	_	_	_	_	_	TokenRange=13367:13370
+3	dras	_	_	_	_	_	_	_	TokenRange=13371:13375
+4	till	_	_	_	_	_	_	_	TokenRange=13376:13380
+5	en	_	_	_	_	_	_	_	TokenRange=13381:13383
+6	kvinna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13384:13390
+7	,	_	_	_	_	_	_	_	TokenRange=13390:13391
+8	en	_	_	_	_	_	_	_	TokenRange=13392:13394
+9	kvinna	_	_	_	_	_	_	_	TokenRange=13395:13401
+10	till	_	_	_	_	_	_	_	TokenRange=13402:13406
+11	en	_	_	_	_	_	_	_	TokenRange=13407:13409
+12	man	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13410:13413
+13	,	_	_	_	_	_	_	_	TokenRange=13413:13414
+14	och	_	_	_	_	_	_	_	TokenRange=13415:13418
+15	för	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13419:13422
+16	vart	_	_	_	_	_	_	_	TokenRange=13424:13428
+17	steg	_	_	_	_	_	_	_	TokenRange=13429:13433
+18	man	_	_	_	_	_	_	_	TokenRange=13434:13437
+19	närmar	_	_	_	_	_	_	_	TokenRange=13438:13444
+20	sig	_	_	_	_	_	_	_	TokenRange=13445:13448
+21	varandra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13449:13457
+22	,	_	_	_	_	_	_	_	TokenRange=13457:13458
+23	har	_	_	_	_	_	_	_	TokenRange=13459:13462
+24	man	_	_	_	_	_	_	_	TokenRange=13463:13466
+25	givit	_	_	_	_	_	_	_	TokenRange=13467:13472
+26	till	_	_	_	_	_	_	_	TokenRange=13473:13477
+27	spillo	_	_	_	_	_	_	_	TokenRange=13478:13484
+28	något	_	_	_	_	_	_	_	TokenRange=13485:13490
+29	av	_	_	_	_	_	_	_	TokenRange=13491:13493
+30	sig	_	_	_	_	_	_	_	TokenRange=13494:13497
+31	själv	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13498:13503
+32	;	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13503:13504
+33	en	_	_	_	_	_	_	_	TokenRange=13506:13508
+34	serie	_	_	_	_	_	_	_	TokenRange=13509:13514
+35	nederlag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13515:13523
+36	,	_	_	_	_	_	_	_	TokenRange=13523:13524
+37	där	_	_	_	_	_	_	_	TokenRange=13525:13528
+38	man	_	_	_	_	_	_	_	TokenRange=13529:13532
+39	hoppades	_	_	_	_	_	_	_	TokenRange=13533:13541
+40	på	_	_	_	_	_	_	_	TokenRange=13542:13544
+41	segrar	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13545:13551
+42	.	_	_	_	_	_	_	_	TokenRange=13551:13552
+
+# sent_id = 103
+# text = Redan i mitt första äktenskap – barnlöst och därför ingenting att fortsätta – hade jag känt en försmak.
+1	Redan	_	_	_	_	_	_	_	TokenRange=13553:13558
+2	i	_	_	_	_	_	_	_	TokenRange=13559:13560
+3	mitt	_	_	_	_	_	_	_	TokenRange=13561:13565
+4	första	_	_	_	_	_	_	_	TokenRange=13566:13572
+5	äktenskap	_	_	_	_	_	_	_	TokenRange=13573:13582
+6	–	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13583:13584
+7	barnlöst	_	_	_	_	_	_	_	TokenRange=13586:13594
+8	och	_	_	_	_	_	_	_	TokenRange=13595:13598
+9	därför	_	_	_	_	_	_	_	TokenRange=13599:13605
+10	ingenting	_	_	_	_	_	_	_	TokenRange=13606:13615
+11	att	_	_	_	_	_	_	_	TokenRange=13616:13619
+12	fortsätta	_	_	_	_	_	_	_	TokenRange=13620:13629
+13	–	_	_	_	_	_	_	_	TokenRange=13630:13631
+14	hade	_	_	_	_	_	_	_	TokenRange=13632:13636
+15	jag	_	_	_	_	_	_	_	TokenRange=13637:13640
+16	känt	_	_	_	_	_	_	_	TokenRange=13641:13645
+17	en	_	_	_	_	_	_	_	TokenRange=13646:13648
+18	försmak	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13649:13656
+19	.	_	_	_	_	_	_	_	TokenRange=13656:13657
+
+# sent_id = 104
+# text = Linda stegrade den till mardröm.
+1	Linda	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13658:13663
+2	stegrade	_	_	_	_	_	_	_	TokenRange=13665:13673
+3	den	_	_	_	_	_	_	_	TokenRange=13674:13677
+4	till	_	_	_	_	_	_	_	TokenRange=13678:13682
+5	mardröm	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13683:13690
+6	.	_	_	_	_	_	_	_	TokenRange=13690:13691
+
+# sent_id = 105
+# text = Under de första åren vi var gifta hade jag verkligen en mardröm, fast jag då inte satte den i samband med henne: jag stod mitt i ett stort mörker, själv starkt belyst med strålkastarljus; utifrån mörkret kände jag Ögonen riktade på mig, och jag vred mig som en mask för att komma undan, medan jag inte kunde undgå att skämmas som en hund över de oanständiga trasorna jag hade fått på mig.
+1	Under	_	_	_	_	_	_	_	TokenRange=13692:13697
+2	de	_	_	_	_	_	_	_	TokenRange=13698:13700
+3	första	_	_	_	_	_	_	_	TokenRange=13701:13707
+4	åren	_	_	_	_	_	_	_	TokenRange=13708:13712
+5	vi	_	_	_	_	_	_	_	TokenRange=13713:13715
+6	var	_	_	_	_	_	_	_	TokenRange=13716:13719
+7	gifta	_	_	_	_	_	_	_	TokenRange=13720:13725
+8	hade	_	_	_	_	_	_	_	TokenRange=13726:13730
+9	jag	_	_	_	_	_	_	_	TokenRange=13731:13734
+10	verkligen	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13735:13744
+11	en	_	_	_	_	_	_	_	TokenRange=13746:13748
+12	mardröm	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13749:13756
+13	,	_	_	_	_	_	_	_	TokenRange=13756:13757
+14	fast	_	_	_	_	_	_	_	TokenRange=13758:13762
+15	jag	_	_	_	_	_	_	_	TokenRange=13763:13766
+16	då	_	_	_	_	_	_	_	TokenRange=13767:13769
+17	inte	_	_	_	_	_	_	_	TokenRange=13770:13774
+18	satte	_	_	_	_	_	_	_	TokenRange=13775:13780
+19	den	_	_	_	_	_	_	_	TokenRange=13781:13784
+20	i	_	_	_	_	_	_	_	TokenRange=13785:13786
+21	samband	_	_	_	_	_	_	_	TokenRange=13787:13794
+22	med	_	_	_	_	_	_	_	TokenRange=13795:13798
+23	henne	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13799:13804
+24	:	_	_	_	_	_	_	_	TokenRange=13804:13805
+25	jag	_	_	_	_	_	_	_	TokenRange=13806:13809
+26	stod	_	_	_	_	_	_	_	TokenRange=13810:13814
+27	mitt	_	_	_	_	_	_	_	TokenRange=13815:13819
+28	i	_	_	_	_	_	_	_	TokenRange=13820:13821
+29	ett	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13822:13825
+30	stort	_	_	_	_	_	_	_	TokenRange=13827:13832
+31	mörker	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13833:13839
+32	,	_	_	_	_	_	_	_	TokenRange=13839:13840
+33	själv	_	_	_	_	_	_	_	TokenRange=13841:13846
+34	starkt	_	_	_	_	_	_	_	TokenRange=13847:13853
+35	belyst	_	_	_	_	_	_	_	TokenRange=13854:13860
+36	med	_	_	_	_	_	_	_	TokenRange=13861:13864
+37	strålkastarljus	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13865:13880
+38	;	_	_	_	_	_	_	_	TokenRange=13880:13881
+39	utifrån	_	_	_	_	_	_	_	SpacesAfter=\s\s|TokenRange=13882:13889
+40	mörkret	_	_	_	_	_	_	_	TokenRange=13891:13898
+41	kände	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13899:13904
+42	jag	_	_	_	_	_	_	_	TokenRange=13906:13909
+43	Ögonen	_	_	_	_	_	_	_	TokenRange=13910:13916
+44	riktade	_	_	_	_	_	_	_	TokenRange=13917:13924
+45	på	_	_	_	_	_	_	_	TokenRange=13925:13927
+46	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13928:13931
+47	,	_	_	_	_	_	_	_	TokenRange=13931:13932
+48	och	_	_	_	_	_	_	_	TokenRange=13933:13936
+49	jag	_	_	_	_	_	_	_	TokenRange=13937:13940
+50	vred	_	_	_	_	_	_	_	TokenRange=13941:13945
+51	mig	_	_	_	_	_	_	_	TokenRange=13946:13949
+52	som	_	_	_	_	_	_	_	TokenRange=13950:13953
+53	en	_	_	_	_	_	_	_	TokenRange=13954:13956
+54	mask	_	_	_	_	_	_	_	TokenRange=13957:13961
+55	för	_	_	_	_	_	_	_	TokenRange=13962:13965
+56	att	_	_	_	_	_	_	_	TokenRange=13966:13969
+57	komma	_	_	_	_	_	_	_	TokenRange=13970:13975
+58	undan	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13976:13981
+59	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13981:13982
+60	medan	_	_	_	_	_	_	_	TokenRange=13984:13989
+61	jag	_	_	_	_	_	_	_	TokenRange=13990:13993
+62	inte	_	_	_	_	_	_	_	TokenRange=13994:13998
+63	kunde	_	_	_	_	_	_	_	TokenRange=13999:14004
+64	undgå	_	_	_	_	_	_	_	TokenRange=14005:14010
+65	att	_	_	_	_	_	_	_	TokenRange=14011:14014
+66	skämmas	_	_	_	_	_	_	_	TokenRange=14015:14022
+67	som	_	_	_	_	_	_	_	TokenRange=14023:14026
+68	en	_	_	_	_	_	_	_	TokenRange=14027:14029
+69	hund	_	_	_	_	_	_	_	TokenRange=14030:14034
+70	över	_	_	_	_	_	_	_	TokenRange=14035:14039
+71	de	_	_	_	_	_	_	_	TokenRange=14040:14042
+72	oanständiga	_	_	_	_	_	_	_	TokenRange=14043:14054
+73	trasorna	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14055:14063
+74	jag	_	_	_	_	_	_	_	TokenRange=14065:14068
+75	hade	_	_	_	_	_	_	_	TokenRange=14069:14073
+76	fått	_	_	_	_	_	_	_	TokenRange=14074:14078
+77	på	_	_	_	_	_	_	_	TokenRange=14079:14081
+78	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14082:14085
+79	.	_	_	_	_	_	_	_	TokenRange=14085:14086
+
+# sent_id = 106
+# text = – Först senare förstod jag, att det var en god bild av mitt förhållande till Linda, där jag själv kände mig skrämmande genomskinlig, fast jag gjorde allt för att krypa undan och skydda mig, medan hon tycktes förbli samma gåta, underbar, stark, nästan övermänsklig, men evigt oroande, därför att hennes gåtfullhet gav henne ett förhatligt övertag.
+1	–	_	_	_	_	_	_	_	TokenRange=14087:14088
+2	Först	_	_	_	_	_	_	_	TokenRange=14089:14094
+3	senare	_	_	_	_	_	_	_	TokenRange=14095:14101
+4	förstod	_	_	_	_	_	_	_	TokenRange=14102:14109
+5	jag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14110:14113
+6	,	_	_	_	_	_	_	_	TokenRange=14113:14114
+7	att	_	_	_	_	_	_	_	TokenRange=14115:14118
+8	det	_	_	_	_	_	_	_	TokenRange=14119:14122
+9	var	_	_	_	_	_	_	_	TokenRange=14123:14126
+10	en	_	_	_	_	_	_	_	TokenRange=14127:14129
+11	god	_	_	_	_	_	_	_	TokenRange=14130:14133
+12	bild	_	_	_	_	_	_	_	TokenRange=14134:14138
+13	av	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14139:14141
+14	mitt	_	_	_	_	_	_	_	TokenRange=14143:14147
+15	förhållande	_	_	_	_	_	_	_	TokenRange=14148:14159
+16	till	_	_	_	_	_	_	_	TokenRange=14160:14164
+17	Linda	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14165:14170
+18	,	_	_	_	_	_	_	_	TokenRange=14170:14171
+19	där	_	_	_	_	_	_	_	TokenRange=14172:14175
+20	jag	_	_	_	_	_	_	_	TokenRange=14176:14179
+21	själv	_	_	_	_	_	_	_	TokenRange=14180:14185
+22	kände	_	_	_	_	_	_	_	TokenRange=14186:14191
+23	mig	_	_	_	_	_	_	_	TokenRange=14192:14195
+24	skrämmande	_	_	_	_	_	_	_	TokenRange=14196:14206
+25	genomskinlig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14207:14219
+26	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14219:14220
+27	fast	_	_	_	_	_	_	_	TokenRange=14222:14226
+28	jag	_	_	_	_	_	_	_	TokenRange=14227:14230
+29	gjorde	_	_	_	_	_	_	_	TokenRange=14231:14237
+30	allt	_	_	_	_	_	_	_	TokenRange=14238:14242
+31	för	_	_	_	_	_	_	_	TokenRange=14243:14246
+32	att	_	_	_	_	_	_	_	TokenRange=14247:14250
+33	krypa	_	_	_	_	_	_	_	TokenRange=14251:14256
+34	undan	_	_	_	_	_	_	_	TokenRange=14257:14262
+35	och	_	_	_	_	_	_	_	TokenRange=14263:14266
+36	skydda	_	_	_	_	_	_	_	TokenRange=14267:14273
+37	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14274:14277
+38	,	_	_	_	_	_	_	_	TokenRange=14277:14278
+39	medan	_	_	_	_	_	_	_	TokenRange=14279:14284
+40	hon	_	_	_	_	_	_	_	TokenRange=14285:14288
+41	tycktes	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14289:14296
+42	förbli	_	_	_	_	_	_	_	TokenRange=14298:14304
+43	samma	_	_	_	_	_	_	_	TokenRange=14305:14310
+44	gåta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14311:14315
+45	,	_	_	_	_	_	_	_	TokenRange=14315:14316
+46	underbar	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14317:14325
+47	,	_	_	_	_	_	_	_	TokenRange=14325:14326
+48	stark	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14327:14332
+49	,	_	_	_	_	_	_	_	TokenRange=14332:14333
+50	nästan	_	_	_	_	_	_	_	TokenRange=14334:14340
+51	övermänsklig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14341:14353
+52	,	_	_	_	_	_	_	_	TokenRange=14353:14354
+53	men	_	_	_	_	_	_	_	TokenRange=14355:14358
+54	evigt	_	_	_	_	_	_	_	TokenRange=14359:14364
+55	oroande	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14365:14372
+56	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14372:14373
+57	därför	_	_	_	_	_	_	_	TokenRange=14375:14381
+58	att	_	_	_	_	_	_	_	TokenRange=14382:14385
+59	hennes	_	_	_	_	_	_	_	TokenRange=14386:14392
+60	gåtfullhet	_	_	_	_	_	_	_	TokenRange=14393:14403
+61	gav	_	_	_	_	_	_	_	TokenRange=14404:14407
+62	henne	_	_	_	_	_	_	_	TokenRange=14408:14413
+63	ett	_	_	_	_	_	_	_	TokenRange=14414:14417
+64	förhatligt	_	_	_	_	_	_	_	TokenRange=14418:14428
+65	övertag	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14429:14436
+66	.	_	_	_	_	_	_	_	TokenRange=14436:14437
+
+# sent_id = 107
+# text = När hennes mun drog ihop sig till ett smalt rött streck – å nej, det var inte ett leende, varken av hån eller glädje, snarare kunde det kallas en spänning, som när man spänner en båge – och under tiden stod ögonen orörligt vidöppna – då gick alltjämt samma ilning av ångest tvärsigenom mig, och alltjämt band hon mig och drog mig lika obarmhärtigt, fast jag anade, att hon aldrig skulle öppnas för mig.
+1	När	_	_	_	_	_	_	_	TokenRange=14438:14441
+2	hennes	_	_	_	_	_	_	_	TokenRange=14442:14448
+3	mun	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14449:14452
+4	drog	_	_	_	_	_	_	_	TokenRange=14454:14458
+5	ihop	_	_	_	_	_	_	_	TokenRange=14459:14463
+6	sig	_	_	_	_	_	_	_	TokenRange=14464:14467
+7	till	_	_	_	_	_	_	_	TokenRange=14468:14472
+8	ett	_	_	_	_	_	_	_	TokenRange=14473:14476
+9	smalt	_	_	_	_	_	_	_	TokenRange=14477:14482
+10	rött	_	_	_	_	_	_	_	TokenRange=14483:14487
+11	streck	_	_	_	_	_	_	_	TokenRange=14488:14494
+12	–	_	_	_	_	_	_	_	TokenRange=14495:14496
+13	å	_	_	_	_	_	_	_	TokenRange=14497:14498
+14	nej	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14499:14502
+15	,	_	_	_	_	_	_	_	TokenRange=14502:14503
+16	det	_	_	_	_	_	_	_	TokenRange=14504:14507
+17	var	_	_	_	_	_	_	_	TokenRange=14508:14511
+18	inte	_	_	_	_	_	_	_	TokenRange=14512:14516
+19	ett	_	_	_	_	_	_	_	TokenRange=14517:14520
+20	leende	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14521:14527
+21	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14527:14528
+22	varken	_	_	_	_	_	_	_	TokenRange=14530:14536
+23	av	_	_	_	_	_	_	_	TokenRange=14537:14539
+24	hån	_	_	_	_	_	_	_	TokenRange=14540:14543
+25	eller	_	_	_	_	_	_	_	TokenRange=14544:14549
+26	glädje	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14550:14556
+27	,	_	_	_	_	_	_	_	TokenRange=14556:14557
+28	snarare	_	_	_	_	_	_	_	TokenRange=14558:14565
+29	kunde	_	_	_	_	_	_	_	TokenRange=14566:14571
+30	det	_	_	_	_	_	_	_	TokenRange=14572:14575
+31	kallas	_	_	_	_	_	_	_	TokenRange=14576:14582
+32	en	_	_	_	_	_	_	_	TokenRange=14583:14585
+33	spänning	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14586:14594
+34	,	_	_	_	_	_	_	_	TokenRange=14594:14595
+35	som	_	_	_	_	_	_	_	TokenRange=14596:14599
+36	när	_	_	_	_	_	_	_	TokenRange=14600:14603
+37	man	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14604:14607
+38	spänner	_	_	_	_	_	_	_	TokenRange=14609:14616
+39	en	_	_	_	_	_	_	_	TokenRange=14617:14619
+40	båge	_	_	_	_	_	_	_	TokenRange=14620:14624
+41	–	_	_	_	_	_	_	_	TokenRange=14625:14626
+42	och	_	_	_	_	_	_	_	TokenRange=14627:14630
+43	under	_	_	_	_	_	_	_	TokenRange=14631:14636
+44	tiden	_	_	_	_	_	_	_	TokenRange=14637:14642
+45	stod	_	_	_	_	_	_	_	TokenRange=14643:14647
+46	ögonen	_	_	_	_	_	_	_	TokenRange=14648:14654
+47	orörligt	_	_	_	_	_	_	_	TokenRange=14655:14663
+48	vidöppna	_	_	_	_	_	_	_	TokenRange=14664:14672
+49	–	_	_	_	_	_	_	_	TokenRange=14673:14674
+50	då	_	_	_	_	_	_	_	TokenRange=14675:14677
+51	gick	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14678:14682
+52	alltjämt	_	_	_	_	_	_	_	TokenRange=14684:14692
+53	samma	_	_	_	_	_	_	_	TokenRange=14693:14698
+54	ilning	_	_	_	_	_	_	_	TokenRange=14699:14705
+55	av	_	_	_	_	_	_	_	TokenRange=14706:14708
+56	ångest	_	_	_	_	_	_	_	TokenRange=14709:14715
+57	tvärsigenom	_	_	_	_	_	_	_	TokenRange=14716:14727
+58	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14728:14731
+59	,	_	_	_	_	_	_	_	TokenRange=14731:14732
+60	och	_	_	_	_	_	_	_	TokenRange=14733:14736
+61	alltjämt	_	_	_	_	_	_	_	TokenRange=14737:14745
+62	band	_	_	_	_	_	_	_	TokenRange=14746:14750
+63	hon	_	_	_	_	_	_	_	TokenRange=14751:14754
+64	mig	_	_	_	_	_	_	_	TokenRange=14755:14758
+65	och	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14759:14762
+66	drog	_	_	_	_	_	_	_	TokenRange=14764:14768
+67	mig	_	_	_	_	_	_	_	TokenRange=14769:14772
+68	lika	_	_	_	_	_	_	_	TokenRange=14773:14777
+69	obarmhärtigt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14778:14790
+70	,	_	_	_	_	_	_	_	TokenRange=14790:14791
+71	fast	_	_	_	_	_	_	_	TokenRange=14792:14796
+72	jag	_	_	_	_	_	_	_	TokenRange=14797:14800
+73	anade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14801:14806
+74	,	_	_	_	_	_	_	_	TokenRange=14806:14807
+75	att	_	_	_	_	_	_	_	TokenRange=14808:14811
+76	hon	_	_	_	_	_	_	_	TokenRange=14812:14815
+77	aldrig	_	_	_	_	_	_	_	TokenRange=14816:14822
+78	skulle	_	_	_	_	_	_	_	TokenRange=14823:14829
+79	öppnas	_	_	_	_	_	_	_	TokenRange=14830:14836
+80	för	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14837:14840
+81	mig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14842:14845
+82	.	_	_	_	_	_	_	_	TokenRange=14845:14846
+
+# sent_id = 108
+# text = Jag förmodar det är på sin plats att använda ordet kärlek, när man mitt i hopplösheten ändå håller fast vid varandra, som om trots allt ett under kunde ske – då själva kvalfullheten har fått ett slags eget värde och blivit ett vittnesbörd om att man åtminstone har ett gemensamt: väntan på något som inte finns.
+1	Jag	_	_	_	_	_	_	_	TokenRange=14847:14850
+2	förmodar	_	_	_	_	_	_	_	TokenRange=14851:14859
+3	det	_	_	_	_	_	_	_	TokenRange=14860:14863
+4	är	_	_	_	_	_	_	_	TokenRange=14864:14866
+5	på	_	_	_	_	_	_	_	TokenRange=14867:14869
+6	sin	_	_	_	_	_	_	_	TokenRange=14870:14873
+7	plats	_	_	_	_	_	_	_	TokenRange=14874:14879
+8	att	_	_	_	_	_	_	_	TokenRange=14880:14883
+9	använda	_	_	_	_	_	_	_	TokenRange=14884:14891
+10	ordet	_	_	_	_	_	_	_	TokenRange=14892:14897
+11	kärlek	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14898:14904
+12	,	_	_	_	_	_	_	_	TokenRange=14904:14905
+13	när	_	_	_	_	_	_	_	TokenRange=14906:14909
+14	man	_	_	_	_	_	_	_	TokenRange=14910:14913
+15	mitt	_	_	_	_	_	_	_	TokenRange=14914:14918
+16	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14919:14920
+17	hopplösheten	_	_	_	_	_	_	_	TokenRange=14922:14934
+18	ändå	_	_	_	_	_	_	_	TokenRange=14935:14939
+19	håller	_	_	_	_	_	_	_	TokenRange=14940:14946
+20	fast	_	_	_	_	_	_	_	TokenRange=14947:14951
+21	vid	_	_	_	_	_	_	_	TokenRange=14952:14955
+22	varandra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14956:14964
+23	,	_	_	_	_	_	_	_	TokenRange=14964:14965
+24	som	_	_	_	_	_	_	_	TokenRange=14966:14969
+25	om	_	_	_	_	_	_	_	TokenRange=14970:14972
+26	trots	_	_	_	_	_	_	_	TokenRange=14973:14978
+27	allt	_	_	_	_	_	_	_	TokenRange=14979:14983
+28	ett	_	_	_	_	_	_	_	TokenRange=14984:14987
+29	under	_	_	_	_	_	_	_	TokenRange=14988:14993
+30	kunde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14994:14999
+31	ske	_	_	_	_	_	_	_	TokenRange=15001:15004
+32	–	_	_	_	_	_	_	_	TokenRange=15005:15006
+33	då	_	_	_	_	_	_	_	TokenRange=15007:15009
+34	själva	_	_	_	_	_	_	_	TokenRange=15010:15016
+35	kvalfullheten	_	_	_	_	_	_	_	TokenRange=15017:15030
+36	har	_	_	_	_	_	_	_	TokenRange=15031:15034
+37	fått	_	_	_	_	_	_	_	TokenRange=15035:15039
+38	ett	_	_	_	_	_	_	_	TokenRange=15040:15043
+39	slags	_	_	_	_	_	_	_	TokenRange=15044:15049
+40	eget	_	_	_	_	_	_	_	TokenRange=15050:15054
+41	värde	_	_	_	_	_	_	_	TokenRange=15055:15060
+42	och	_	_	_	_	_	_	_	TokenRange=15061:15064
+43	blivit	_	_	_	_	_	_	_	TokenRange=15065:15071
+44	ett	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15072:15075
+45	vittnesbörd	_	_	_	_	_	_	_	TokenRange=15077:15088
+46	om	_	_	_	_	_	_	_	TokenRange=15089:15091
+47	att	_	_	_	_	_	_	_	TokenRange=15092:15095
+48	man	_	_	_	_	_	_	_	TokenRange=15096:15099
+49	åtminstone	_	_	_	_	_	_	_	TokenRange=15100:15110
+50	har	_	_	_	_	_	_	_	TokenRange=15111:15114
+51	ett	_	_	_	_	_	_	_	TokenRange=15115:15118
+52	gemensamt	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15119:15128
+53	:	_	_	_	_	_	_	_	TokenRange=15128:15129
+54	väntan	_	_	_	_	_	_	_	TokenRange=15130:15136
+55	på	_	_	_	_	_	_	_	TokenRange=15137:15139
+56	något	_	_	_	_	_	_	_	TokenRange=15140:15145
+57	som	_	_	_	_	_	_	_	TokenRange=15146:15149
+58	inte	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15150:15154
+59	finns	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15156:15161
+60	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=15161:15162
+
+# newpar
+# sent_id = 109
+# text = Runtomkring oss såg vi föräldrar skiljas, så fort deras barnkull blivit färdig för barnlägret – skiljas och gifta om sig för att bilda nya kullar.
+1	Runtomkring	_	_	_	_	_	_	_	TokenRange=15166:15177
+2	oss	_	_	_	_	_	_	_	TokenRange=15178:15181
+3	såg	_	_	_	_	_	_	_	TokenRange=15182:15185
+4	vi	_	_	_	_	_	_	_	TokenRange=15186:15188
+5	föräldrar	_	_	_	_	_	_	_	TokenRange=15189:15198
+6	skiljas	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15199:15206
+7	,	_	_	_	_	_	_	_	TokenRange=15206:15207
+8	så	_	_	_	_	_	_	_	TokenRange=15208:15210
+9	fort	_	_	_	_	_	_	_	TokenRange=15211:15215
+10	deras	_	_	_	_	_	_	_	TokenRange=15216:15221
+11	barnkull	_	_	_	_	_	_	_	TokenRange=15222:15230
+12	blivit	_	_	_	_	_	_	_	TokenRange=15231:15237
+13	färdig	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15238:15244
+14	för	_	_	_	_	_	_	_	TokenRange=15246:15249
+15	barnlägret	_	_	_	_	_	_	_	TokenRange=15250:15260
+16	–	_	_	_	_	_	_	_	TokenRange=15261:15262
+17	skiljas	_	_	_	_	_	_	_	TokenRange=15263:15270
+18	och	_	_	_	_	_	_	_	TokenRange=15271:15274
+19	gifta	_	_	_	_	_	_	_	TokenRange=15275:15280
+20	om	_	_	_	_	_	_	_	TokenRange=15281:15283
+21	sig	_	_	_	_	_	_	_	TokenRange=15284:15287
+22	för	_	_	_	_	_	_	_	TokenRange=15288:15291
+23	att	_	_	_	_	_	_	_	TokenRange=15292:15295
+24	bilda	_	_	_	_	_	_	_	TokenRange=15296:15301
+25	nya	_	_	_	_	_	_	_	TokenRange=15302:15305
+26	kullar	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15306:15312
+27	.	_	_	_	_	_	_	_	TokenRange=15312:15313
+
+# sent_id = 110
+# text = Ossu, vår äldste, var redan åtta år och hade alltså ett helt år varit i barnlägret.
+1	Ossu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15314:15318
+2	,	_	_	_	_	_	_	_	TokenRange=15318:15319
+3	vår	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15320:15323
+4	äldste	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15325:15331
+5	,	_	_	_	_	_	_	_	TokenRange=15331:15332
+6	var	_	_	_	_	_	_	_	TokenRange=15333:15336
+7	redan	_	_	_	_	_	_	_	TokenRange=15337:15342
+8	åtta	_	_	_	_	_	_	_	TokenRange=15343:15347
+9	år	_	_	_	_	_	_	_	TokenRange=15348:15350
+10	och	_	_	_	_	_	_	_	TokenRange=15351:15354
+11	hade	_	_	_	_	_	_	_	TokenRange=15355:15359
+12	alltså	_	_	_	_	_	_	_	TokenRange=15360:15366
+13	ett	_	_	_	_	_	_	_	TokenRange=15367:15370
+14	helt	_	_	_	_	_	_	_	TokenRange=15371:15375
+15	år	_	_	_	_	_	_	_	TokenRange=15376:15378
+16	varit	_	_	_	_	_	_	_	TokenRange=15379:15384
+17	i	_	_	_	_	_	_	_	TokenRange=15385:15386
+18	barnlägret	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15387:15397
+19	.	_	_	_	_	_	_	_	TokenRange=15397:15398
+
+# sent_id = 111
+# text = Laila, den yngsta, var fyra och hade tre år kvar i hemmet.
+1	Laila	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15399:15404
+2	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15404:15405
+3	den	_	_	_	_	_	_	_	TokenRange=15407:15410
+4	yngsta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15411:15417
+5	,	_	_	_	_	_	_	_	TokenRange=15417:15418
+6	var	_	_	_	_	_	_	_	TokenRange=15419:15422
+7	fyra	_	_	_	_	_	_	_	TokenRange=15423:15427
+8	och	_	_	_	_	_	_	_	TokenRange=15428:15431
+9	hade	_	_	_	_	_	_	_	TokenRange=15432:15436
+10	tre	_	_	_	_	_	_	_	TokenRange=15437:15440
+11	år	_	_	_	_	_	_	_	TokenRange=15441:15443
+12	kvar	_	_	_	_	_	_	_	TokenRange=15444:15448
+13	i	_	_	_	_	_	_	_	TokenRange=15449:15450
+14	hemmet	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15451:15457
+15	.	_	_	_	_	_	_	_	TokenRange=15457:15458
+
+# sent_id = 112
+# text = Och sedan?
+1	Och	_	_	_	_	_	_	_	TokenRange=15459:15462
+2	sedan	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15463:15468
+3	?	_	_	_	_	_	_	_	TokenRange=15468:15469
+
+# sent_id = 113
+# text = Skulle vi också skiljas och gifta om oss, i den barnsliga föreställningen att samma väntan kunde bli mindre hopplös med en annan?
+1	Skulle	_	_	_	_	_	_	_	TokenRange=15470:15476
+2	vi	_	_	_	_	_	_	_	TokenRange=15477:15479
+3	också	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15480:15485
+4	skiljas	_	_	_	_	_	_	_	TokenRange=15487:15494
+5	och	_	_	_	_	_	_	_	TokenRange=15495:15498
+6	gifta	_	_	_	_	_	_	_	TokenRange=15499:15504
+7	om	_	_	_	_	_	_	_	TokenRange=15505:15507
+8	oss	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15508:15511
+9	,	_	_	_	_	_	_	_	TokenRange=15511:15512
+10	i	_	_	_	_	_	_	_	TokenRange=15513:15514
+11	den	_	_	_	_	_	_	_	TokenRange=15515:15518
+12	barnsliga	_	_	_	_	_	_	_	TokenRange=15519:15528
+13	föreställningen	_	_	_	_	_	_	_	TokenRange=15529:15544
+14	att	_	_	_	_	_	_	_	TokenRange=15545:15548
+15	samma	_	_	_	_	_	_	_	TokenRange=15549:15554
+16	väntan	_	_	_	_	_	_	_	TokenRange=15555:15561
+17	kunde	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15562:15567
+18	bli	_	_	_	_	_	_	_	TokenRange=15569:15572
+19	mindre	_	_	_	_	_	_	_	TokenRange=15573:15579
+20	hopplös	_	_	_	_	_	_	_	TokenRange=15580:15587
+21	med	_	_	_	_	_	_	_	TokenRange=15588:15591
+22	en	_	_	_	_	_	_	_	TokenRange=15592:15594
+23	annan	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15595:15600
+24	?	_	_	_	_	_	_	_	TokenRange=15600:15601
+
+# sent_id = 114
+# text = Allt förnuft jag hade sade mig att det var en bedräglig illusion.
+1	Allt	_	_	_	_	_	_	_	TokenRange=15602:15606
+2	förnuft	_	_	_	_	_	_	_	TokenRange=15607:15614
+3	jag	_	_	_	_	_	_	_	TokenRange=15615:15618
+4	hade	_	_	_	_	_	_	_	TokenRange=15619:15623
+5	sade	_	_	_	_	_	_	_	TokenRange=15624:15628
+6	mig	_	_	_	_	_	_	_	TokenRange=15629:15632
+7	att	_	_	_	_	_	_	_	TokenRange=15633:15636
+8	det	_	_	_	_	_	_	_	TokenRange=15637:15640
+9	var	_	_	_	_	_	_	_	TokenRange=15641:15644
+10	en	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15645:15647
+11	bedräglig	_	_	_	_	_	_	_	TokenRange=15649:15658
+12	illusion	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15659:15667
+13	.	_	_	_	_	_	_	_	TokenRange=15667:15668
+
+# sent_id = 115
+# text = En enda liten oförnuftig förhoppning viskade: nej nej – att du har misslyckats med Linda beror på att hon vill till Rissen!
+1	En	_	_	_	_	_	_	_	TokenRange=15669:15671
+2	enda	_	_	_	_	_	_	_	TokenRange=15672:15676
+3	liten	_	_	_	_	_	_	_	TokenRange=15677:15682
+4	oförnuftig	_	_	_	_	_	_	_	TokenRange=15683:15693
+5	förhoppning	_	_	_	_	_	_	_	TokenRange=15694:15705
+6	viskade	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15706:15713
+7	:	_	_	_	_	_	_	_	TokenRange=15713:15714
+8	nej	_	_	_	_	_	_	_	TokenRange=15715:15718
+9	nej	_	_	_	_	_	_	_	TokenRange=15719:15722
+10	–	_	_	_	_	_	_	_	TokenRange=15723:15724
+11	att	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15725:15728
+12	du	_	_	_	_	_	_	_	TokenRange=15730:15732
+13	har	_	_	_	_	_	_	_	TokenRange=15733:15736
+14	misslyckats	_	_	_	_	_	_	_	TokenRange=15737:15748
+15	med	_	_	_	_	_	_	_	TokenRange=15749:15752
+16	Linda	_	_	_	_	_	_	_	TokenRange=15753:15758
+17	beror	_	_	_	_	_	_	_	TokenRange=15759:15764
+18	på	_	_	_	_	_	_	_	TokenRange=15765:15767
+19	att	_	_	_	_	_	_	_	TokenRange=15768:15771
+20	hon	_	_	_	_	_	_	_	TokenRange=15772:15775
+21	vill	_	_	_	_	_	_	_	TokenRange=15776:15780
+22	till	_	_	_	_	_	_	_	TokenRange=15781:15785
+23	Rissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15786:15792
+24	!	_	_	_	_	_	_	_	TokenRange=15792:15793
+
+# sent_id = 116
+# text = Hon hör till Rissen, inte till dig!
+1	Hon	_	_	_	_	_	_	_	TokenRange=15794:15797
+2	hör	_	_	_	_	_	_	_	TokenRange=15798:15801
+3	till	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15802:15806
+4	Rissen	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15808:15814
+5	,	_	_	_	_	_	_	_	TokenRange=15814:15815
+6	inte	_	_	_	_	_	_	_	TokenRange=15816:15820
+7	till	_	_	_	_	_	_	_	TokenRange=15821:15825
+8	dig	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15826:15829
+9	!	_	_	_	_	_	_	_	TokenRange=15829:15830
+
+# sent_id = 117
+# text = Skaffa dig klarhet om att det är Rissen hon tänker på – så är allt förklarat, och du har ännu hopp om en ny kärlek med mening i!
+1	Skaffa	_	_	_	_	_	_	_	TokenRange=15831:15837
+2	dig	_	_	_	_	_	_	_	TokenRange=15838:15841
+3	klarhet	_	_	_	_	_	_	_	TokenRange=15842:15849
+4	om	_	_	_	_	_	_	_	TokenRange=15850:15852
+5	att	_	_	_	_	_	_	_	TokenRange=15853:15856
+6	det	_	_	_	_	_	_	_	TokenRange=15857:15860
+7	är	_	_	_	_	_	_	_	TokenRange=15861:15863
+8	Rissen	_	_	_	_	_	_	_	TokenRange=15864:15870
+9	hon	_	_	_	_	_	_	_	TokenRange=15871:15874
+10	tänker	_	_	_	_	_	_	_	TokenRange=15875:15881
+11	på	_	_	_	_	_	_	_	TokenRange=15882:15884
+12	–	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15885:15886
+13	så	_	_	_	_	_	_	_	TokenRange=15888:15890
+14	är	_	_	_	_	_	_	_	TokenRange=15891:15893
+15	allt	_	_	_	_	_	_	_	TokenRange=15894:15898
+16	förklarat	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15899:15908
+17	,	_	_	_	_	_	_	_	TokenRange=15908:15909
+18	och	_	_	_	_	_	_	_	TokenRange=15910:15913
+19	du	_	_	_	_	_	_	_	TokenRange=15914:15916
+20	har	_	_	_	_	_	_	_	TokenRange=15917:15920
+21	ännu	_	_	_	_	_	_	_	TokenRange=15921:15925
+22	hopp	_	_	_	_	_	_	_	TokenRange=15926:15930
+23	om	_	_	_	_	_	_	_	TokenRange=15931:15933
+24	en	_	_	_	_	_	_	_	TokenRange=15934:15936
+25	ny	_	_	_	_	_	_	_	TokenRange=15937:15939
+26	kärlek	_	_	_	_	_	_	_	TokenRange=15940:15946
+27	med	_	_	_	_	_	_	_	TokenRange=15947:15950
+28	mening	_	_	_	_	_	_	_	TokenRange=15951:15957
+29	i	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15958:15959
+30	!	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15959:15960
+

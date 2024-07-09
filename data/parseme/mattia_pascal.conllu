@@ -1,0 +1,3928 @@
+# generator = UDPipe 2, https://lindat.mff.cuni.cz/services/udpipe
+# udpipe_model = italian-isdt-ud-2.12-230717
+# udpipe_model_licence = CC BY-NC-SA
+# newdoc
+# newpar
+# sent_id = 1
+# text = Una delle poche cose, anzi forse la sola ch’io sapessi di certo era questa:
+1	Una	_	_	_	_	_	_	_	TokenRange=0:3
+2-3	delle	_	_	_	_	_	_	_	TokenRange=4:9
+2	di	_	_	_	_	_	_	_	_
+3	le	_	_	_	_	_	_	_	_
+4	poche	_	_	_	_	_	_	_	TokenRange=10:15
+5	cose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16:20
+6	,	_	_	_	_	_	_	_	TokenRange=20:21
+7	anzi	_	_	_	_	_	_	_	TokenRange=22:26
+8	forse	_	_	_	_	_	_	_	TokenRange=27:32
+9	la	_	_	_	_	_	_	_	TokenRange=33:35
+10	sola	_	_	_	_	_	_	_	TokenRange=36:40
+11	ch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=41:44
+12	io	_	_	_	_	_	_	_	TokenRange=44:46
+13	sapessi	_	_	_	_	_	_	_	TokenRange=47:54
+14	di	_	_	_	_	_	_	_	TokenRange=55:57
+15	certo	_	_	_	_	_	_	_	TokenRange=58:63
+16	era	_	_	_	_	_	_	_	TokenRange=64:67
+17	questa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=68:74
+18	:	_	_	_	_	_	_	_	TokenRange=74:75
+
+# sent_id = 2
+# text = che mi chiamavo Mattia Pascal.
+1	che	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=76:79
+2	mi	_	_	_	_	_	_	_	TokenRange=81:83
+3	chiamavo	_	_	_	_	_	_	_	TokenRange=84:92
+4	Mattia	_	_	_	_	_	_	_	TokenRange=93:99
+5	Pascal	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=100:106
+6	.	_	_	_	_	_	_	_	TokenRange=106:107
+
+# sent_id = 3
+# text = E me ne approfittavo.
+1	E	_	_	_	_	_	_	_	TokenRange=108:109
+2	me	_	_	_	_	_	_	_	TokenRange=110:112
+3	ne	_	_	_	_	_	_	_	TokenRange=113:115
+4	approfittavo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=116:128
+5	.	_	_	_	_	_	_	_	TokenRange=128:129
+
+# sent_id = 4
+# text = Ogni qual volta qualcuno de’ miei amici o conoscenti dimostrava d’aver perduto il senno fino al punto di venire da me per qualche consiglio o suggerimento, mi stringevo nelle spalle, socchiudevo gli occhi e gli rispondevo:
+1	Ogni	_	_	_	_	_	_	_	TokenRange=130:134
+2	qual	_	_	_	_	_	_	_	TokenRange=135:139
+3	volta	_	_	_	_	_	_	_	TokenRange=140:145
+4	qualcuno	_	_	_	_	_	_	_	TokenRange=146:154
+5	de’	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=155:158
+6	miei	_	_	_	_	_	_	_	TokenRange=160:164
+7	amici	_	_	_	_	_	_	_	TokenRange=165:170
+8	o	_	_	_	_	_	_	_	TokenRange=171:172
+9	conoscenti	_	_	_	_	_	_	_	TokenRange=173:183
+10	dimostrava	_	_	_	_	_	_	_	TokenRange=184:194
+11	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=195:197
+12	aver	_	_	_	_	_	_	_	TokenRange=197:201
+13	perduto	_	_	_	_	_	_	_	TokenRange=202:209
+14	il	_	_	_	_	_	_	_	TokenRange=210:212
+15	senno	_	_	_	_	_	_	_	TokenRange=213:218
+16	fino	_	_	_	_	_	_	_	TokenRange=219:223
+17-18	al	_	_	_	_	_	_	_	TokenRange=224:226
+17	a	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	punto	_	_	_	_	_	_	_	TokenRange=227:232
+20	di	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=233:235
+21	venire	_	_	_	_	_	_	_	TokenRange=237:243
+22	da	_	_	_	_	_	_	_	TokenRange=244:246
+23	me	_	_	_	_	_	_	_	TokenRange=247:249
+24	per	_	_	_	_	_	_	_	TokenRange=250:253
+25	qualche	_	_	_	_	_	_	_	TokenRange=254:261
+26	consiglio	_	_	_	_	_	_	_	TokenRange=262:271
+27	o	_	_	_	_	_	_	_	TokenRange=272:273
+28	suggerimento	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=274:286
+29	,	_	_	_	_	_	_	_	TokenRange=286:287
+30	mi	_	_	_	_	_	_	_	TokenRange=288:290
+31	stringevo	_	_	_	_	_	_	_	TokenRange=291:300
+32-33	nelle	_	_	_	_	_	_	_	TokenRange=301:306
+32	in	_	_	_	_	_	_	_	_
+33	le	_	_	_	_	_	_	_	_
+34	spalle	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=307:313
+35	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=313:314
+36	socchiudevo	_	_	_	_	_	_	_	TokenRange=316:327
+37	gli	_	_	_	_	_	_	_	TokenRange=328:331
+38	occhi	_	_	_	_	_	_	_	TokenRange=332:337
+39	e	_	_	_	_	_	_	_	TokenRange=338:339
+40	gli	_	_	_	_	_	_	_	TokenRange=340:343
+41	rispondevo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=344:354
+42	:	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=354:355
+
+# newpar
+# sent_id = 5
+# text = — Io mi chiamo Mattia Pascal.
+1	—	_	_	_	_	_	_	_	TokenRange=359:360
+2	Io	_	_	_	_	_	_	_	TokenRange=361:363
+3	mi	_	_	_	_	_	_	_	TokenRange=364:366
+4	chiamo	_	_	_	_	_	_	_	TokenRange=367:373
+5	Mattia	_	_	_	_	_	_	_	TokenRange=374:380
+6	Pascal.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=381:388
+
+# newpar
+# sent_id = 6
+# text = — Grazie, caro.
+1	—	_	_	_	_	_	_	_	TokenRange=392:393
+2	Grazie	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=394:400
+3	,	_	_	_	_	_	_	_	TokenRange=400:401
+4	caro	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=402:406
+5	.	_	_	_	_	_	_	_	TokenRange=406:407
+
+# sent_id = 7
+# text = Questo lo so.
+1	Questo	_	_	_	_	_	_	_	TokenRange=408:414
+2	lo	_	_	_	_	_	_	_	TokenRange=415:417
+3	so	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=418:420
+4	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=420:421
+
+# newpar
+# sent_id = 8
+# text = — E ti par poco?
+1	—	_	_	_	_	_	_	_	TokenRange=425:426
+2	E	_	_	_	_	_	_	_	TokenRange=427:428
+3	ti	_	_	_	_	_	_	_	TokenRange=429:431
+4	par	_	_	_	_	_	_	_	TokenRange=432:435
+5	poco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=436:440
+6	?	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=440:441
+
+# newpar
+# sent_id = 9
+# text = Non pareva molto, per dir la verità, neanche a me.
+1	Non	_	_	_	_	_	_	_	TokenRange=445:448
+2	pareva	_	_	_	_	_	_	_	TokenRange=449:455
+3	molto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=456:461
+4	,	_	_	_	_	_	_	_	TokenRange=461:462
+5	per	_	_	_	_	_	_	_	TokenRange=463:466
+6	dir	_	_	_	_	_	_	_	TokenRange=467:470
+7	la	_	_	_	_	_	_	_	TokenRange=471:473
+8	verità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=474:480
+9	,	_	_	_	_	_	_	_	TokenRange=480:481
+10	neanche	_	_	_	_	_	_	_	TokenRange=482:489
+11	a	_	_	_	_	_	_	_	TokenRange=490:491
+12	me	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=492:494
+13	.	_	_	_	_	_	_	_	TokenRange=494:495
+
+# sent_id = 10
+# text = Ma ignoravo allora che cosa volesse dire il non sapere neppur questo, il non poter più rispondere, cioè, come prima, all’occorrenza:
+1	Ma	_	_	_	_	_	_	_	TokenRange=496:498
+2	ignoravo	_	_	_	_	_	_	_	TokenRange=499:507
+3	allora	_	_	_	_	_	_	_	TokenRange=508:514
+4	che	_	_	_	_	_	_	_	TokenRange=515:518
+5	cosa	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=519:523
+6	volesse	_	_	_	_	_	_	_	TokenRange=525:532
+7	dire	_	_	_	_	_	_	_	TokenRange=533:537
+8	il	_	_	_	_	_	_	_	TokenRange=538:540
+9	non	_	_	_	_	_	_	_	TokenRange=541:544
+10	sapere	_	_	_	_	_	_	_	TokenRange=545:551
+11	neppur	_	_	_	_	_	_	_	TokenRange=552:558
+12	questo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=559:565
+13	,	_	_	_	_	_	_	_	TokenRange=565:566
+14	il	_	_	_	_	_	_	_	TokenRange=567:569
+15	non	_	_	_	_	_	_	_	TokenRange=570:573
+16	poter	_	_	_	_	_	_	_	TokenRange=574:579
+17	più	_	_	_	_	_	_	_	TokenRange=580:583
+18	rispondere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=584:594
+19	,	_	_	_	_	_	_	_	TokenRange=594:595
+20	cioè	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=596:600
+21	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=600:601
+22	come	_	_	_	_	_	_	_	TokenRange=603:607
+23	prima	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=608:613
+24	,	_	_	_	_	_	_	_	TokenRange=613:614
+25-26	all’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=615:619
+25	a	_	_	_	_	_	_	_	_
+26	l’	_	_	_	_	_	_	_	_
+27	occorrenza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=619:629
+28	:	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=629:630
+
+# newpar
+# sent_id = 11
+# text = — Io mi chiamo Mattia Pascal.
+1	—	_	_	_	_	_	_	_	TokenRange=634:635
+2	Io	_	_	_	_	_	_	_	TokenRange=636:638
+3	mi	_	_	_	_	_	_	_	TokenRange=639:641
+4	chiamo	_	_	_	_	_	_	_	TokenRange=642:648
+5	Mattia	_	_	_	_	_	_	_	TokenRange=649:655
+6	Pascal	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=656:662
+7	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=662:663
+
+# newpar
+# sent_id = 12
+# text = Qualcuno vorrà bene compiangermi (costa così poco), immaginando l’atroce cordoglio d’un disgraziato, al quale avvenga di scoprire tutt’a un tratto che… sì, niente, insomma:
+1	Qualcuno	_	_	_	_	_	_	_	TokenRange=667:675
+2	vorrà	_	_	_	_	_	_	_	TokenRange=676:681
+3	bene	_	_	_	_	_	_	_	TokenRange=682:686
+4	compiangermi	_	_	_	_	_	_	_	TokenRange=687:699
+5	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=700:701
+6	costa	_	_	_	_	_	_	_	TokenRange=701:706
+7	così	_	_	_	_	_	_	_	TokenRange=707:711
+8	poco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=712:716
+9	)	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=716:717
+10	,	_	_	_	_	_	_	_	TokenRange=717:718
+11	immaginando	_	_	_	_	_	_	_	TokenRange=719:730
+12	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=731:733
+13	atroce	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=733:739
+14	cordoglio	_	_	_	_	_	_	_	TokenRange=741:750
+15	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=751:753
+16	un	_	_	_	_	_	_	_	TokenRange=753:755
+17	disgraziato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=756:767
+18	,	_	_	_	_	_	_	_	TokenRange=767:768
+19-20	al	_	_	_	_	_	_	_	TokenRange=769:771
+19	a	_	_	_	_	_	_	_	_
+20	il	_	_	_	_	_	_	_	_
+21	quale	_	_	_	_	_	_	_	TokenRange=772:777
+22	avvenga	_	_	_	_	_	_	_	TokenRange=778:785
+23	di	_	_	_	_	_	_	_	TokenRange=786:788
+24	scoprire	_	_	_	_	_	_	_	TokenRange=789:797
+25	tutt’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=798:803
+26	a	_	_	_	_	_	_	_	TokenRange=803:804
+27	un	_	_	_	_	_	_	_	TokenRange=805:807
+28	tratto	_	_	_	_	_	_	_	TokenRange=808:814
+29	che…	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=815:819
+30	sì	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=821:823
+31	,	_	_	_	_	_	_	_	TokenRange=823:824
+32	niente	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=825:831
+33	,	_	_	_	_	_	_	_	TokenRange=831:832
+34	insomma	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=833:840
+35	:	_	_	_	_	_	_	_	TokenRange=840:841
+
+# sent_id = 13
+# text = né padre, né madre, né come fu o come non fu; e vorrà pur bene indignarsi (costa anche meno) della corruzione dei costumi, e de’ vizii, e della tristezza dei tempi, che di tanto male possono esser cagione a un povero innocente.
+1	né	_	_	_	_	_	_	_	TokenRange=842:844
+2	padre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=845:850
+3	,	_	_	_	_	_	_	_	TokenRange=850:851
+4	né	_	_	_	_	_	_	_	TokenRange=852:854
+5	madre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=855:860
+6	,	_	_	_	_	_	_	_	TokenRange=860:861
+7	né	_	_	_	_	_	_	_	TokenRange=862:864
+8	come	_	_	_	_	_	_	_	TokenRange=865:869
+9	fu	_	_	_	_	_	_	_	TokenRange=870:872
+10	o	_	_	_	_	_	_	_	TokenRange=873:874
+11	come	_	_	_	_	_	_	_	TokenRange=875:879
+12	non	_	_	_	_	_	_	_	TokenRange=880:883
+13	fu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=884:886
+14	;	_	_	_	_	_	_	_	TokenRange=886:887
+15	e	_	_	_	_	_	_	_	TokenRange=888:889
+16	vorrà	_	_	_	_	_	_	_	TokenRange=890:895
+17	pur	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=896:899
+18	bene	_	_	_	_	_	_	_	TokenRange=901:905
+19-20	indignarsi	_	_	_	_	_	_	_	TokenRange=906:916
+19	indignar	_	_	_	_	_	_	_	_
+20	si	_	_	_	_	_	_	_	_
+21	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=917:918
+22	costa	_	_	_	_	_	_	_	TokenRange=918:923
+23	anche	_	_	_	_	_	_	_	TokenRange=924:929
+24	meno	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=930:934
+25	)	_	_	_	_	_	_	_	TokenRange=934:935
+26-27	della	_	_	_	_	_	_	_	TokenRange=936:941
+26	di	_	_	_	_	_	_	_	_
+27	la	_	_	_	_	_	_	_	_
+28	corruzione	_	_	_	_	_	_	_	TokenRange=942:952
+29-30	dei	_	_	_	_	_	_	_	TokenRange=953:956
+29	di	_	_	_	_	_	_	_	_
+30	i	_	_	_	_	_	_	_	_
+31	costumi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=957:964
+32	,	_	_	_	_	_	_	_	TokenRange=964:965
+33	e	_	_	_	_	_	_	_	TokenRange=966:967
+34	de’	_	_	_	_	_	_	_	TokenRange=968:971
+35	vizii	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=972:977
+36	,	_	_	_	_	_	_	_	TokenRange=977:978
+37	e	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=979:980
+38-39	della	_	_	_	_	_	_	_	TokenRange=982:987
+38	di	_	_	_	_	_	_	_	_
+39	la	_	_	_	_	_	_	_	_
+40	tristezza	_	_	_	_	_	_	_	TokenRange=988:997
+41-42	dei	_	_	_	_	_	_	_	TokenRange=998:1001
+41	di	_	_	_	_	_	_	_	_
+42	i	_	_	_	_	_	_	_	_
+43	tempi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1002:1007
+44	,	_	_	_	_	_	_	_	TokenRange=1007:1008
+45	che	_	_	_	_	_	_	_	TokenRange=1009:1012
+46	di	_	_	_	_	_	_	_	TokenRange=1013:1015
+47	tanto	_	_	_	_	_	_	_	TokenRange=1016:1021
+48	male	_	_	_	_	_	_	_	TokenRange=1022:1026
+49	possono	_	_	_	_	_	_	_	TokenRange=1027:1034
+50	esser	_	_	_	_	_	_	_	TokenRange=1035:1040
+51	cagione	_	_	_	_	_	_	_	TokenRange=1041:1048
+52	a	_	_	_	_	_	_	_	TokenRange=1049:1050
+53	un	_	_	_	_	_	_	_	TokenRange=1051:1053
+54	povero	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1054:1060
+55	innocente	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1062:1071
+56	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=1071:1072
+
+# newpar
+# sent_id = 14
+# text = Ebbene, si accomodi.
+1	Ebbene	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1076:1082
+2	,	_	_	_	_	_	_	_	TokenRange=1082:1083
+3	si	_	_	_	_	_	_	_	TokenRange=1084:1086
+4	accomodi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1087:1095
+5	.	_	_	_	_	_	_	_	TokenRange=1095:1096
+
+# sent_id = 15
+# text = Ma è mio dovere avvertirlo che non si tratta propriamente di questo.
+1	Ma	_	_	_	_	_	_	_	TokenRange=1097:1099
+2	è	_	_	_	_	_	_	_	TokenRange=1100:1101
+3	mio	_	_	_	_	_	_	_	TokenRange=1102:1105
+4	dovere	_	_	_	_	_	_	_	TokenRange=1106:1112
+5-6	avvertirlo	_	_	_	_	_	_	_	TokenRange=1113:1123
+5	avvertir	_	_	_	_	_	_	_	_
+6	lo	_	_	_	_	_	_	_	_
+7	che	_	_	_	_	_	_	_	TokenRange=1124:1127
+8	non	_	_	_	_	_	_	_	TokenRange=1128:1131
+9	si	_	_	_	_	_	_	_	TokenRange=1132:1134
+10	tratta	_	_	_	_	_	_	_	TokenRange=1135:1141
+11	propriamente	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1142:1154
+12	di	_	_	_	_	_	_	_	TokenRange=1156:1158
+13	questo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1159:1165
+14	.	_	_	_	_	_	_	_	TokenRange=1165:1166
+
+# sent_id = 16
+# text = Potrei qui esporre, di fatti, in un albero genealogico, l’origine e la discendenza della mia famiglia e dimostrare come qualmente non solo ho conosciuto mio padre e mia madre, ma e gli antenati miei e le loro azioni, in un lungo decorso di tempo, non tutte veramente lodevoli.
+1	Potrei	_	_	_	_	_	_	_	TokenRange=1167:1173
+2	qui	_	_	_	_	_	_	_	TokenRange=1174:1177
+3	esporre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1178:1185
+4	,	_	_	_	_	_	_	_	TokenRange=1185:1186
+5	di	_	_	_	_	_	_	_	TokenRange=1187:1189
+6	fatti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1190:1195
+7	,	_	_	_	_	_	_	_	TokenRange=1195:1196
+8	in	_	_	_	_	_	_	_	TokenRange=1197:1199
+9	un	_	_	_	_	_	_	_	TokenRange=1200:1202
+10	albero	_	_	_	_	_	_	_	TokenRange=1203:1209
+11	genealogico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1210:1221
+12	,	_	_	_	_	_	_	_	TokenRange=1221:1222
+13	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1223:1225
+14	origine	_	_	_	_	_	_	_	TokenRange=1225:1232
+15	e	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1233:1234
+16	la	_	_	_	_	_	_	_	TokenRange=1236:1238
+17	discendenza	_	_	_	_	_	_	_	TokenRange=1239:1250
+18-19	della	_	_	_	_	_	_	_	TokenRange=1251:1256
+18	di	_	_	_	_	_	_	_	_
+19	la	_	_	_	_	_	_	_	_
+20	mia	_	_	_	_	_	_	_	TokenRange=1257:1260
+21	famiglia	_	_	_	_	_	_	_	TokenRange=1261:1269
+22	e	_	_	_	_	_	_	_	TokenRange=1270:1271
+23	dimostrare	_	_	_	_	_	_	_	TokenRange=1272:1282
+24	come	_	_	_	_	_	_	_	TokenRange=1283:1287
+25	qualmente	_	_	_	_	_	_	_	TokenRange=1288:1297
+26	non	_	_	_	_	_	_	_	TokenRange=1298:1301
+27	solo	_	_	_	_	_	_	_	TokenRange=1302:1306
+28	ho	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1307:1309
+29	conosciuto	_	_	_	_	_	_	_	TokenRange=1311:1321
+30	mio	_	_	_	_	_	_	_	TokenRange=1322:1325
+31	padre	_	_	_	_	_	_	_	TokenRange=1326:1331
+32	e	_	_	_	_	_	_	_	TokenRange=1332:1333
+33	mia	_	_	_	_	_	_	_	TokenRange=1334:1337
+34	madre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1338:1343
+35	,	_	_	_	_	_	_	_	TokenRange=1343:1344
+36	ma	_	_	_	_	_	_	_	TokenRange=1345:1347
+37	e	_	_	_	_	_	_	_	TokenRange=1348:1349
+38	gli	_	_	_	_	_	_	_	TokenRange=1350:1353
+39	antenati	_	_	_	_	_	_	_	TokenRange=1354:1362
+40	miei	_	_	_	_	_	_	_	TokenRange=1363:1367
+41	e	_	_	_	_	_	_	_	TokenRange=1368:1369
+42	le	_	_	_	_	_	_	_	TokenRange=1370:1372
+43	loro	_	_	_	_	_	_	_	TokenRange=1373:1377
+44	azioni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1378:1384
+45	,	_	_	_	_	_	_	_	TokenRange=1384:1385
+46	in	_	_	_	_	_	_	_	TokenRange=1386:1388
+47	un	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1389:1391
+48	lungo	_	_	_	_	_	_	_	TokenRange=1393:1398
+49	decorso	_	_	_	_	_	_	_	TokenRange=1399:1406
+50	di	_	_	_	_	_	_	_	TokenRange=1407:1409
+51	tempo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1410:1415
+52	,	_	_	_	_	_	_	_	TokenRange=1415:1416
+53	non	_	_	_	_	_	_	_	TokenRange=1417:1420
+54	tutte	_	_	_	_	_	_	_	TokenRange=1421:1426
+55	veramente	_	_	_	_	_	_	_	TokenRange=1427:1436
+56	lodevoli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1437:1445
+57	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=1445:1446
+
+# newpar
+# sent_id = 17
+# text = E allora?
+1	E	_	_	_	_	_	_	_	TokenRange=1450:1451
+2	allora	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1452:1458
+3	?	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=1458:1459
+
+# newpar
+# sent_id = 18
+# text = Ecco:
+1	Ecco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1463:1467
+2	:	_	_	_	_	_	_	_	TokenRange=1467:1468
+
+# sent_id = 19
+# text = il mio caso è assai più strano e diverso;
+1	il	_	_	_	_	_	_	_	TokenRange=1469:1471
+2	mio	_	_	_	_	_	_	_	TokenRange=1472:1475
+3	caso	_	_	_	_	_	_	_	TokenRange=1476:1480
+4	è	_	_	_	_	_	_	_	TokenRange=1481:1482
+5	assai	_	_	_	_	_	_	_	TokenRange=1483:1488
+6	più	_	_	_	_	_	_	_	TokenRange=1489:1492
+7	strano	_	_	_	_	_	_	_	TokenRange=1493:1499
+8	e	_	_	_	_	_	_	_	TokenRange=1500:1501
+9	diverso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1502:1509
+10	;	_	_	_	_	_	_	_	TokenRange=1509:1510
+
+# sent_id = 20
+# text = tanto diverso e strano che mi faccio a narrarlo.
+1	tanto	_	_	_	_	_	_	_	TokenRange=1511:1516
+2	diverso	_	_	_	_	_	_	_	TokenRange=1517:1524
+3	e	_	_	_	_	_	_	_	TokenRange=1525:1526
+4	strano	_	_	_	_	_	_	_	TokenRange=1527:1533
+5	che	_	_	_	_	_	_	_	TokenRange=1534:1537
+6	mi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1538:1540
+7	faccio	_	_	_	_	_	_	_	TokenRange=1542:1548
+8	a	_	_	_	_	_	_	_	TokenRange=1549:1550
+9-10	narrarlo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1551:1559
+9	narrar	_	_	_	_	_	_	_	_
+10	lo	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=1559:1560
+
+# newpar
+# sent_id = 21
+# text = Fui, per circa due anni, non so se più cacciatore di topi che guardiano di libri nella biblioteca che un monsignor Boccamazza, nel 1803, volle lasciar morendo al nostro Comune.
+1	Fui	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1564:1567
+2	,	_	_	_	_	_	_	_	TokenRange=1567:1568
+3	per	_	_	_	_	_	_	_	TokenRange=1569:1572
+4	circa	_	_	_	_	_	_	_	TokenRange=1573:1578
+5	due	_	_	_	_	_	_	_	TokenRange=1579:1582
+6	anni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1583:1587
+7	,	_	_	_	_	_	_	_	TokenRange=1587:1588
+8	non	_	_	_	_	_	_	_	TokenRange=1589:1592
+9	so	_	_	_	_	_	_	_	TokenRange=1593:1595
+10	se	_	_	_	_	_	_	_	TokenRange=1596:1598
+11	più	_	_	_	_	_	_	_	TokenRange=1599:1602
+12	cacciatore	_	_	_	_	_	_	_	TokenRange=1603:1613
+13	di	_	_	_	_	_	_	_	TokenRange=1614:1616
+14	topi	_	_	_	_	_	_	_	TokenRange=1617:1621
+15	che	_	_	_	_	_	_	_	TokenRange=1622:1625
+16	guardiano	_	_	_	_	_	_	_	TokenRange=1626:1635
+17	di	_	_	_	_	_	_	_	TokenRange=1636:1638
+18	libri	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1639:1644
+19-20	nella	_	_	_	_	_	_	_	TokenRange=1646:1651
+19	in	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	biblioteca	_	_	_	_	_	_	_	TokenRange=1652:1662
+22	che	_	_	_	_	_	_	_	TokenRange=1663:1666
+23	un	_	_	_	_	_	_	_	TokenRange=1667:1669
+24	monsignor	_	_	_	_	_	_	_	TokenRange=1670:1679
+25	Boccamazza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1680:1690
+26	,	_	_	_	_	_	_	_	TokenRange=1690:1691
+27-28	nel	_	_	_	_	_	_	_	TokenRange=1692:1695
+27	in	_	_	_	_	_	_	_	_
+28	il	_	_	_	_	_	_	_	_
+29	1803	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1696:1700
+30	,	_	_	_	_	_	_	_	TokenRange=1700:1701
+31	volle	_	_	_	_	_	_	_	TokenRange=1702:1707
+32	lasciar	_	_	_	_	_	_	_	TokenRange=1708:1715
+33	morendo	_	_	_	_	_	_	_	TokenRange=1716:1723
+34-35	al	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1724:1726
+34	a	_	_	_	_	_	_	_	_
+35	il	_	_	_	_	_	_	_	_
+36	nostro	_	_	_	_	_	_	_	TokenRange=1728:1734
+37	Comune	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1735:1741
+38	.	_	_	_	_	_	_	_	TokenRange=1741:1742
+
+# sent_id = 22
+# text = È ben chiaro che questo Monsignore dovette conoscer poco l’indole e le abitudini de’ suoi concittadini;
+1	È	_	_	_	_	_	_	_	TokenRange=1743:1744
+2	ben	_	_	_	_	_	_	_	TokenRange=1745:1748
+3	chiaro	_	_	_	_	_	_	_	TokenRange=1749:1755
+4	che	_	_	_	_	_	_	_	TokenRange=1756:1759
+5	questo	_	_	_	_	_	_	_	TokenRange=1760:1766
+6	Monsignore	_	_	_	_	_	_	_	TokenRange=1767:1777
+7	dovette	_	_	_	_	_	_	_	TokenRange=1778:1785
+8	conoscer	_	_	_	_	_	_	_	TokenRange=1786:1794
+9	poco	_	_	_	_	_	_	_	TokenRange=1795:1799
+10	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1800:1802
+11	indole	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1802:1808
+12	e	_	_	_	_	_	_	_	TokenRange=1810:1811
+13	le	_	_	_	_	_	_	_	TokenRange=1812:1814
+14	abitudini	_	_	_	_	_	_	_	TokenRange=1815:1824
+15	de’	_	_	_	_	_	_	_	TokenRange=1825:1828
+16	suoi	_	_	_	_	_	_	_	TokenRange=1829:1833
+17	concittadini	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1834:1846
+18	;	_	_	_	_	_	_	_	TokenRange=1846:1847
+
+# sent_id = 23
+# text = o forse sperò che il suo lascito dovesse col tempo e con la comodità accendere nel loro animo l’amore per lo studio.
+1	o	_	_	_	_	_	_	_	TokenRange=1848:1849
+2	forse	_	_	_	_	_	_	_	TokenRange=1850:1855
+3	sperò	_	_	_	_	_	_	_	TokenRange=1856:1861
+4	che	_	_	_	_	_	_	_	TokenRange=1862:1865
+5	il	_	_	_	_	_	_	_	TokenRange=1866:1868
+6	suo	_	_	_	_	_	_	_	TokenRange=1869:1872
+7	lascito	_	_	_	_	_	_	_	TokenRange=1873:1880
+8	dovesse	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1881:1888
+9-10	col	_	_	_	_	_	_	_	TokenRange=1890:1893
+9	con	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	tempo	_	_	_	_	_	_	_	TokenRange=1894:1899
+12	e	_	_	_	_	_	_	_	TokenRange=1900:1901
+13	con	_	_	_	_	_	_	_	TokenRange=1902:1905
+14	la	_	_	_	_	_	_	_	TokenRange=1906:1908
+15	comodità	_	_	_	_	_	_	_	TokenRange=1909:1917
+16	accendere	_	_	_	_	_	_	_	TokenRange=1918:1927
+17-18	nel	_	_	_	_	_	_	_	TokenRange=1928:1931
+17	in	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	loro	_	_	_	_	_	_	_	TokenRange=1932:1936
+20	animo	_	_	_	_	_	_	_	TokenRange=1937:1942
+21	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1943:1945
+22	amore	_	_	_	_	_	_	_	TokenRange=1945:1950
+23	per	_	_	_	_	_	_	_	TokenRange=1951:1954
+24	lo	_	_	_	_	_	_	_	TokenRange=1955:1957
+25	studio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1958:1964
+26	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=1964:1965
+
+# sent_id = 24
+# text = Finora, ne posso rendere testimonianza, non si è acceso:
+1	Finora	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1967:1973
+2	,	_	_	_	_	_	_	_	TokenRange=1973:1974
+3	ne	_	_	_	_	_	_	_	TokenRange=1975:1977
+4	posso	_	_	_	_	_	_	_	TokenRange=1978:1983
+5	rendere	_	_	_	_	_	_	_	TokenRange=1984:1991
+6	testimonianza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=1992:2005
+7	,	_	_	_	_	_	_	_	TokenRange=2005:2006
+8	non	_	_	_	_	_	_	_	TokenRange=2007:2010
+9	si	_	_	_	_	_	_	_	TokenRange=2011:2013
+10	è	_	_	_	_	_	_	_	TokenRange=2014:2015
+11	acceso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2016:2022
+12	:	_	_	_	_	_	_	_	TokenRange=2022:2023
+
+# sent_id = 25
+# text = e questo dico in lode de’ miei concittadini.
+1	e	_	_	_	_	_	_	_	TokenRange=2024:2025
+2	questo	_	_	_	_	_	_	_	TokenRange=2026:2032
+3	dico	_	_	_	_	_	_	_	TokenRange=2033:2037
+4	in	_	_	_	_	_	_	_	TokenRange=2038:2040
+5	lode	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2041:2045
+6	de’	_	_	_	_	_	_	_	TokenRange=2047:2050
+7	miei	_	_	_	_	_	_	_	TokenRange=2051:2055
+8	concittadini	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2056:2068
+9	.	_	_	_	_	_	_	_	TokenRange=2068:2069
+
+# sent_id = 26
+# text = Del dono anzi il Comune si dimostrò così poco grato al 1% Boccamazza, che non volle neppure erigergli un mezzo busto pur che fosse, e i libri lasciò per molti e molti anni accatastati in un vasto e umido magazzino, donde poi li trasse, pensate voi in quale stato, per allogarli nella chiesetta fuori mano di Santa Maria Liberale, non so per qual ragione sconsacrata.
+1-2	Del	_	_	_	_	_	_	_	TokenRange=2070:2073
+1	Di	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	dono	_	_	_	_	_	_	_	TokenRange=2074:2078
+4	anzi	_	_	_	_	_	_	_	TokenRange=2079:2083
+5	il	_	_	_	_	_	_	_	TokenRange=2084:2086
+6	Comune	_	_	_	_	_	_	_	TokenRange=2087:2093
+7	si	_	_	_	_	_	_	_	TokenRange=2094:2096
+8	dimostrò	_	_	_	_	_	_	_	TokenRange=2097:2105
+9	così	_	_	_	_	_	_	_	TokenRange=2106:2110
+10	poco	_	_	_	_	_	_	_	TokenRange=2111:2115
+11	grato	_	_	_	_	_	_	_	TokenRange=2116:2121
+12-13	al	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=2122:2124
+12	a	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	1	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2179:2180
+15	%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2180:2181
+16	Boccamazza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2183:2193
+17	,	_	_	_	_	_	_	_	TokenRange=2193:2194
+18	che	_	_	_	_	_	_	_	TokenRange=2195:2198
+19	non	_	_	_	_	_	_	_	TokenRange=2199:2202
+20	volle	_	_	_	_	_	_	_	TokenRange=2203:2208
+21	neppure	_	_	_	_	_	_	_	TokenRange=2209:2216
+22-23	erigergli	_	_	_	_	_	_	_	TokenRange=2217:2226
+22	eriger	_	_	_	_	_	_	_	_
+23	gli	_	_	_	_	_	_	_	_
+24	un	_	_	_	_	_	_	_	TokenRange=2227:2229
+25	mezzo	_	_	_	_	_	_	_	TokenRange=2230:2235
+26	busto	_	_	_	_	_	_	_	TokenRange=2236:2241
+27	pur	_	_	_	_	_	_	_	TokenRange=2242:2245
+28	che	_	_	_	_	_	_	_	TokenRange=2246:2249
+29	fosse	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2250:2255
+30	,	_	_	_	_	_	_	_	TokenRange=2255:2256
+31	e	_	_	_	_	_	_	_	TokenRange=2257:2258
+32	i	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2259:2260
+33	libri	_	_	_	_	_	_	_	TokenRange=2262:2267
+34	lasciò	_	_	_	_	_	_	_	TokenRange=2268:2274
+35	per	_	_	_	_	_	_	_	TokenRange=2275:2278
+36	molti	_	_	_	_	_	_	_	TokenRange=2279:2284
+37	e	_	_	_	_	_	_	_	TokenRange=2285:2286
+38	molti	_	_	_	_	_	_	_	TokenRange=2287:2292
+39	anni	_	_	_	_	_	_	_	TokenRange=2293:2297
+40	accatastati	_	_	_	_	_	_	_	TokenRange=2298:2309
+41	in	_	_	_	_	_	_	_	TokenRange=2310:2312
+42	un	_	_	_	_	_	_	_	TokenRange=2313:2315
+43	vasto	_	_	_	_	_	_	_	TokenRange=2316:2321
+44	e	_	_	_	_	_	_	_	TokenRange=2322:2323
+45	umido	_	_	_	_	_	_	_	TokenRange=2324:2329
+46	magazzino	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2330:2339
+47	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2339:2340
+48	donde	_	_	_	_	_	_	_	TokenRange=2342:2347
+49	poi	_	_	_	_	_	_	_	TokenRange=2348:2351
+50	li	_	_	_	_	_	_	_	TokenRange=2352:2354
+51	trasse	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2355:2361
+52	,	_	_	_	_	_	_	_	TokenRange=2361:2362
+53	pensate	_	_	_	_	_	_	_	TokenRange=2363:2370
+54	voi	_	_	_	_	_	_	_	TokenRange=2371:2374
+55	in	_	_	_	_	_	_	_	TokenRange=2375:2377
+56	quale	_	_	_	_	_	_	_	TokenRange=2378:2383
+57	stato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2384:2389
+58	,	_	_	_	_	_	_	_	TokenRange=2389:2390
+59	per	_	_	_	_	_	_	_	TokenRange=2391:2394
+60-61	allogarli	_	_	_	_	_	_	_	TokenRange=2395:2404
+60	allogar	_	_	_	_	_	_	_	_
+61	li	_	_	_	_	_	_	_	_
+62-63	nella	_	_	_	_	_	_	_	TokenRange=2405:2410
+62	in	_	_	_	_	_	_	_	_
+63	la	_	_	_	_	_	_	_	_
+64	chiesetta	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2411:2420
+65	fuori	_	_	_	_	_	_	_	TokenRange=2422:2427
+66	mano	_	_	_	_	_	_	_	TokenRange=2428:2432
+67	di	_	_	_	_	_	_	_	TokenRange=2433:2435
+68	Santa	_	_	_	_	_	_	_	TokenRange=2436:2441
+69	Maria	_	_	_	_	_	_	_	TokenRange=2442:2447
+70	Liberale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2448:2456
+71	,	_	_	_	_	_	_	_	TokenRange=2456:2457
+72	non	_	_	_	_	_	_	_	TokenRange=2458:2461
+73	so	_	_	_	_	_	_	_	TokenRange=2462:2464
+74	per	_	_	_	_	_	_	_	TokenRange=2465:2468
+75	qual	_	_	_	_	_	_	_	TokenRange=2469:2473
+76	ragione	_	_	_	_	_	_	_	TokenRange=2474:2481
+77	sconsacrata	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2482:2493
+78	.	_	_	_	_	_	_	_	TokenRange=2493:2494
+
+# sent_id = 27
+# text = Qua li affidò, senz’alcun discernimento, a titolo di beneficio, e come sinecura, a qualche sfaccendato ben protetto il quale, per due lire al giorno, stando a guardarli, o anche senza guardarli affatto, ne avesse sopportato per alcune ore il tanfo della muffa e del vecchiume.
+1	Qua	_	_	_	_	_	_	_	TokenRange=2495:2498
+2	li	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2499:2501
+3	affidò	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2503:2509
+4	,	_	_	_	_	_	_	_	TokenRange=2509:2510
+5	senz’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2511:2516
+6	alcun	_	_	_	_	_	_	_	TokenRange=2516:2521
+7	discernimento	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2522:2535
+8	,	_	_	_	_	_	_	_	TokenRange=2535:2536
+9	a	_	_	_	_	_	_	_	TokenRange=2537:2538
+10	titolo	_	_	_	_	_	_	_	TokenRange=2539:2545
+11	di	_	_	_	_	_	_	_	TokenRange=2546:2548
+12	beneficio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2549:2558
+13	,	_	_	_	_	_	_	_	TokenRange=2558:2559
+14	e	_	_	_	_	_	_	_	TokenRange=2560:2561
+15	come	_	_	_	_	_	_	_	TokenRange=2562:2566
+16	sinecura	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2567:2575
+17	,	_	_	_	_	_	_	_	TokenRange=2575:2576
+18	a	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2577:2578
+19	qualche	_	_	_	_	_	_	_	TokenRange=2580:2587
+20	sfaccendato	_	_	_	_	_	_	_	TokenRange=2588:2599
+21	ben	_	_	_	_	_	_	_	TokenRange=2600:2603
+22	protetto	_	_	_	_	_	_	_	TokenRange=2604:2612
+23	il	_	_	_	_	_	_	_	TokenRange=2613:2615
+24	quale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2616:2621
+25	,	_	_	_	_	_	_	_	TokenRange=2621:2622
+26	per	_	_	_	_	_	_	_	TokenRange=2623:2626
+27	due	_	_	_	_	_	_	_	TokenRange=2627:2630
+28	lire	_	_	_	_	_	_	_	TokenRange=2631:2635
+29-30	al	_	_	_	_	_	_	_	TokenRange=2636:2638
+29	a	_	_	_	_	_	_	_	_
+30	il	_	_	_	_	_	_	_	_
+31	giorno	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2639:2645
+32	,	_	_	_	_	_	_	_	TokenRange=2645:2646
+33	stando	_	_	_	_	_	_	_	TokenRange=2647:2653
+34	a	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2654:2655
+35-36	guardarli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2657:2666
+35	guardar	_	_	_	_	_	_	_	_
+36	li	_	_	_	_	_	_	_	_
+37	,	_	_	_	_	_	_	_	TokenRange=2666:2667
+38	o	_	_	_	_	_	_	_	TokenRange=2668:2669
+39	anche	_	_	_	_	_	_	_	TokenRange=2670:2675
+40	senza	_	_	_	_	_	_	_	TokenRange=2676:2681
+41-42	guardarli	_	_	_	_	_	_	_	TokenRange=2682:2691
+41	guardar	_	_	_	_	_	_	_	_
+42	li	_	_	_	_	_	_	_	_
+43	affatto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2692:2699
+44	,	_	_	_	_	_	_	_	TokenRange=2699:2700
+45	ne	_	_	_	_	_	_	_	TokenRange=2701:2703
+46	avesse	_	_	_	_	_	_	_	TokenRange=2704:2710
+47	sopportato	_	_	_	_	_	_	_	TokenRange=2711:2721
+48	per	_	_	_	_	_	_	_	TokenRange=2722:2725
+49	alcune	_	_	_	_	_	_	_	TokenRange=2726:2732
+50	ore	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2733:2736
+51	il	_	_	_	_	_	_	_	TokenRange=2738:2740
+52	tanfo	_	_	_	_	_	_	_	TokenRange=2741:2746
+53-54	della	_	_	_	_	_	_	_	TokenRange=2747:2752
+53	di	_	_	_	_	_	_	_	_
+54	la	_	_	_	_	_	_	_	_
+55	muffa	_	_	_	_	_	_	_	TokenRange=2753:2758
+56	e	_	_	_	_	_	_	_	TokenRange=2759:2760
+57-58	del	_	_	_	_	_	_	_	TokenRange=2761:2764
+57	di	_	_	_	_	_	_	_	_
+58	il	_	_	_	_	_	_	_	_
+59	vecchiume	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2765:2774
+60	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=2774:2775
+
+# newpar
+# sent_id = 28
+# text = Tal sorte toccò anche a me; e fin dal primo giorno io concepii così misera stima dei libri, sieno essi a stampa o manoscritti (come alcuni antichissimi della nostra biblioteca), che ora non mi sarei mai e poi mai messo a scrivere, se, come ho detto, non stimassi davvero strano il mio caso e tale da poter servire d’ammaestramento a qualche curioso lettore, che per avventura, riducendosi finalmente a effetto l’antica speranza della buon’anima di monsignor Boccamazza, capitasse in questa biblioteca, a cui io lascio questo mio manoscritto, con l’obbligo però che nessuno possa aprirlo se non cinquant’anni dopo la mia terza, ultima e definitiva morte.
+1	Tal	_	_	_	_	_	_	_	TokenRange=2779:2782
+2	sorte	_	_	_	_	_	_	_	TokenRange=2783:2788
+3	toccò	_	_	_	_	_	_	_	TokenRange=2789:2794
+4	anche	_	_	_	_	_	_	_	TokenRange=2795:2800
+5	a	_	_	_	_	_	_	_	TokenRange=2801:2802
+6	me	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2803:2805
+7	;	_	_	_	_	_	_	_	TokenRange=2805:2806
+8	e	_	_	_	_	_	_	_	TokenRange=2807:2808
+9	fin	_	_	_	_	_	_	_	TokenRange=2809:2812
+10-11	dal	_	_	_	_	_	_	_	TokenRange=2813:2816
+10	da	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	primo	_	_	_	_	_	_	_	TokenRange=2817:2822
+13	giorno	_	_	_	_	_	_	_	TokenRange=2823:2829
+14	io	_	_	_	_	_	_	_	TokenRange=2830:2832
+15	concepii	_	_	_	_	_	_	_	TokenRange=2833:2841
+16	così	_	_	_	_	_	_	_	TokenRange=2842:2846
+17	misera	_	_	_	_	_	_	_	TokenRange=2847:2853
+18	stima	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2854:2859
+19-20	dei	_	_	_	_	_	_	_	TokenRange=2861:2864
+19	di	_	_	_	_	_	_	_	_
+20	i	_	_	_	_	_	_	_	_
+21	libri	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2865:2870
+22	,	_	_	_	_	_	_	_	TokenRange=2870:2871
+23	sieno	_	_	_	_	_	_	_	TokenRange=2872:2877
+24	essi	_	_	_	_	_	_	_	TokenRange=2878:2882
+25	a	_	_	_	_	_	_	_	TokenRange=2883:2884
+26	stampa	_	_	_	_	_	_	_	TokenRange=2885:2891
+27	o	_	_	_	_	_	_	_	TokenRange=2892:2893
+28	manoscritti	_	_	_	_	_	_	_	TokenRange=2894:2905
+29	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2906:2907
+30	come	_	_	_	_	_	_	_	TokenRange=2907:2911
+31	alcuni	_	_	_	_	_	_	_	TokenRange=2912:2918
+32	antichissimi	_	_	_	_	_	_	_	TokenRange=2919:2931
+33-34	della	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=2932:2937
+33	di	_	_	_	_	_	_	_	_
+34	la	_	_	_	_	_	_	_	_
+35	nostra	_	_	_	_	_	_	_	TokenRange=2939:2945
+36	biblioteca	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2946:2956
+37	)	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=2956:2957
+38	,	_	_	_	_	_	_	_	TokenRange=2957:2958
+39	che	_	_	_	_	_	_	_	TokenRange=2959:2962
+40	ora	_	_	_	_	_	_	_	TokenRange=2963:2966
+41	non	_	_	_	_	_	_	_	TokenRange=2967:2970
+42	mi	_	_	_	_	_	_	_	TokenRange=2971:2973
+43	sarei	_	_	_	_	_	_	_	TokenRange=2974:2979
+44	mai	_	_	_	_	_	_	_	TokenRange=2980:2983
+45	e	_	_	_	_	_	_	_	TokenRange=2984:2985
+46	poi	_	_	_	_	_	_	_	TokenRange=2986:2989
+47	mai	_	_	_	_	_	_	_	TokenRange=2990:2993
+48	messo	_	_	_	_	_	_	_	TokenRange=2994:2999
+49	a	_	_	_	_	_	_	_	TokenRange=3000:3001
+50	scrivere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3002:3010
+51	,	_	_	_	_	_	_	_	TokenRange=3010:3011
+52	se	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3012:3014
+53	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3014:3015
+54	come	_	_	_	_	_	_	_	TokenRange=3017:3021
+55	ho	_	_	_	_	_	_	_	TokenRange=3022:3024
+56	detto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3025:3030
+57	,	_	_	_	_	_	_	_	TokenRange=3030:3031
+58	non	_	_	_	_	_	_	_	TokenRange=3032:3035
+59	stimassi	_	_	_	_	_	_	_	TokenRange=3036:3044
+60	davvero	_	_	_	_	_	_	_	TokenRange=3045:3052
+61	strano	_	_	_	_	_	_	_	TokenRange=3053:3059
+62	il	_	_	_	_	_	_	_	TokenRange=3060:3062
+63	mio	_	_	_	_	_	_	_	TokenRange=3063:3066
+64	caso	_	_	_	_	_	_	_	TokenRange=3067:3071
+65	e	_	_	_	_	_	_	_	TokenRange=3072:3073
+66	tale	_	_	_	_	_	_	_	TokenRange=3074:3078
+67	da	_	_	_	_	_	_	_	TokenRange=3079:3081
+68	poter	_	_	_	_	_	_	_	TokenRange=3082:3087
+69	servire	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3088:3095
+70	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3097:3099
+71	ammaestramento	_	_	_	_	_	_	_	TokenRange=3099:3113
+72	a	_	_	_	_	_	_	_	TokenRange=3114:3115
+73	qualche	_	_	_	_	_	_	_	TokenRange=3116:3123
+74	curioso	_	_	_	_	_	_	_	TokenRange=3124:3131
+75	lettore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3132:3139
+76	,	_	_	_	_	_	_	_	TokenRange=3139:3140
+77	che	_	_	_	_	_	_	_	TokenRange=3141:3144
+78	per	_	_	_	_	_	_	_	TokenRange=3145:3148
+79	avventura	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3149:3158
+80	,	_	_	_	_	_	_	_	TokenRange=3158:3159
+81-82	riducendosi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3160:3171
+81	riducendo	_	_	_	_	_	_	_	_
+82	si	_	_	_	_	_	_	_	_
+83	finalmente	_	_	_	_	_	_	_	TokenRange=3173:3183
+84	a	_	_	_	_	_	_	_	TokenRange=3184:3185
+85	effetto	_	_	_	_	_	_	_	TokenRange=3186:3193
+86	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3194:3196
+87	antica	_	_	_	_	_	_	_	TokenRange=3196:3202
+88	speranza	_	_	_	_	_	_	_	TokenRange=3203:3211
+89-90	della	_	_	_	_	_	_	_	TokenRange=3212:3217
+89	di	_	_	_	_	_	_	_	_
+90	la	_	_	_	_	_	_	_	_
+91	buon’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3218:3223
+92	anima	_	_	_	_	_	_	_	TokenRange=3223:3228
+93	di	_	_	_	_	_	_	_	TokenRange=3229:3231
+94	monsignor	_	_	_	_	_	_	_	TokenRange=3232:3241
+95	Boccamazza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3242:3252
+96	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3252:3253
+97	capitasse	_	_	_	_	_	_	_	TokenRange=3255:3264
+98	in	_	_	_	_	_	_	_	TokenRange=3265:3267
+99	questa	_	_	_	_	_	_	_	TokenRange=3268:3274
+100	biblioteca	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3275:3285
+101	,	_	_	_	_	_	_	_	TokenRange=3285:3286
+102	a	_	_	_	_	_	_	_	TokenRange=3287:3288
+103	cui	_	_	_	_	_	_	_	TokenRange=3289:3292
+104	io	_	_	_	_	_	_	_	TokenRange=3293:3295
+105	lascio	_	_	_	_	_	_	_	TokenRange=3296:3302
+106	questo	_	_	_	_	_	_	_	TokenRange=3303:3309
+107	mio	_	_	_	_	_	_	_	TokenRange=3310:3313
+108	manoscritto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3314:3325
+109	,	_	_	_	_	_	_	_	TokenRange=3325:3326
+110	con	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3327:3330
+111	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3332:3334
+112	obbligo	_	_	_	_	_	_	_	TokenRange=3334:3341
+113	però	_	_	_	_	_	_	_	TokenRange=3342:3346
+114	che	_	_	_	_	_	_	_	TokenRange=3347:3350
+115	nessuno	_	_	_	_	_	_	_	TokenRange=3351:3358
+116	possa	_	_	_	_	_	_	_	TokenRange=3359:3364
+117-118	aprirlo	_	_	_	_	_	_	_	TokenRange=3365:3372
+117	aprir	_	_	_	_	_	_	_	_
+118	lo	_	_	_	_	_	_	_	_
+119	se	_	_	_	_	_	_	_	TokenRange=3373:3375
+120	non	_	_	_	_	_	_	_	TokenRange=3376:3379
+121	cinquant’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3380:3389
+122	anni	_	_	_	_	_	_	_	TokenRange=3389:3393
+123	dopo	_	_	_	_	_	_	_	TokenRange=3394:3398
+124	la	_	_	_	_	_	_	_	TokenRange=3399:3401
+125	mia	_	_	_	_	_	_	_	TokenRange=3402:3405
+126	terza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3406:3411
+127	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3411:3412
+128	ultima	_	_	_	_	_	_	_	TokenRange=3414:3420
+129	e	_	_	_	_	_	_	_	TokenRange=3421:3422
+130	definitiva	_	_	_	_	_	_	_	TokenRange=3423:3433
+131	morte	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3434:3439
+132	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=3439:3440
+
+# newpar
+# sent_id = 29
+# text = Giacché, per il momento (e Dio sa quanto me ne duole), io sono morto, sì, già due volte, ma la prima per errore, e la seconda… sentirete.
+1	Giacché	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3444:3451
+2	,	_	_	_	_	_	_	_	TokenRange=3451:3452
+3	per	_	_	_	_	_	_	_	TokenRange=3453:3456
+4	il	_	_	_	_	_	_	_	TokenRange=3457:3459
+5	momento	_	_	_	_	_	_	_	TokenRange=3460:3467
+6	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3468:3469
+7	e	_	_	_	_	_	_	_	TokenRange=3469:3470
+8	Dio	_	_	_	_	_	_	_	TokenRange=3471:3474
+9	sa	_	_	_	_	_	_	_	TokenRange=3475:3477
+10	quanto	_	_	_	_	_	_	_	TokenRange=3478:3484
+11	me	_	_	_	_	_	_	_	TokenRange=3485:3487
+12	ne	_	_	_	_	_	_	_	TokenRange=3488:3490
+13	duole	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3491:3496
+14	)	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3496:3497
+15	,	_	_	_	_	_	_	_	TokenRange=3497:3498
+16	io	_	_	_	_	_	_	_	TokenRange=3499:3501
+17	sono	_	_	_	_	_	_	_	TokenRange=3502:3506
+18	morto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3507:3512
+19	,	_	_	_	_	_	_	_	TokenRange=3512:3513
+20	sì	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3514:3516
+21	,	_	_	_	_	_	_	_	TokenRange=3516:3517
+22	già	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3518:3521
+23	due	_	_	_	_	_	_	_	TokenRange=3523:3526
+24	volte	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3527:3532
+25	,	_	_	_	_	_	_	_	TokenRange=3532:3533
+26	ma	_	_	_	_	_	_	_	TokenRange=3534:3536
+27	la	_	_	_	_	_	_	_	TokenRange=3537:3539
+28	prima	_	_	_	_	_	_	_	TokenRange=3540:3545
+29	per	_	_	_	_	_	_	_	TokenRange=3546:3549
+30	errore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3550:3556
+31	,	_	_	_	_	_	_	_	TokenRange=3556:3557
+32	e	_	_	_	_	_	_	_	TokenRange=3558:3559
+33	la	_	_	_	_	_	_	_	TokenRange=3560:3562
+34	seconda	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3563:3570
+35	…	_	_	_	_	_	_	_	TokenRange=3570:3571
+36	sentirete	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3572:3581
+37	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=3581:3582
+
+# newpar
+# sent_id = 30
+# text = L’idea o piuttosto, il consiglio di scrivere mi è venuto dal mio reverendo amico don Eligio Pellegrinotto, che al presente ha in custodia i libri della Boccamazza, e al quale io affido il manoscritto appena sarà terminato, se mai sarà.
+1	L’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3586:3588
+2	idea	_	_	_	_	_	_	_	TokenRange=3588:3592
+3	o	_	_	_	_	_	_	_	TokenRange=3593:3594
+4	piuttosto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3595:3604
+5	,	_	_	_	_	_	_	_	TokenRange=3604:3605
+6	il	_	_	_	_	_	_	_	TokenRange=3606:3608
+7	consiglio	_	_	_	_	_	_	_	TokenRange=3609:3618
+8	di	_	_	_	_	_	_	_	TokenRange=3619:3621
+9	scrivere	_	_	_	_	_	_	_	TokenRange=3622:3630
+10	mi	_	_	_	_	_	_	_	TokenRange=3631:3633
+11	è	_	_	_	_	_	_	_	TokenRange=3634:3635
+12	venuto	_	_	_	_	_	_	_	TokenRange=3636:3642
+13-14	dal	_	_	_	_	_	_	_	TokenRange=3643:3646
+13	da	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	mio	_	_	_	_	_	_	_	TokenRange=3647:3650
+16	reverendo	_	_	_	_	_	_	_	TokenRange=3651:3660
+17	amico	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3661:3666
+18	don	_	_	_	_	_	_	_	TokenRange=3668:3671
+19	Eligio	_	_	_	_	_	_	_	TokenRange=3672:3678
+20	Pellegrinotto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3679:3692
+21	,	_	_	_	_	_	_	_	TokenRange=3692:3693
+22	che	_	_	_	_	_	_	_	TokenRange=3694:3697
+23-24	al	_	_	_	_	_	_	_	TokenRange=3698:3700
+23	a	_	_	_	_	_	_	_	_
+24	il	_	_	_	_	_	_	_	_
+25	presente	_	_	_	_	_	_	_	TokenRange=3701:3709
+26	ha	_	_	_	_	_	_	_	TokenRange=3710:3712
+27	in	_	_	_	_	_	_	_	TokenRange=3713:3715
+28	custodia	_	_	_	_	_	_	_	TokenRange=3716:3724
+29	i	_	_	_	_	_	_	_	TokenRange=3725:3726
+30	libri	_	_	_	_	_	_	_	TokenRange=3727:3732
+31-32	della	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3733:3738
+31	di	_	_	_	_	_	_	_	_
+32	la	_	_	_	_	_	_	_	_
+33	Boccamazza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3740:3750
+34	,	_	_	_	_	_	_	_	TokenRange=3750:3751
+35	e	_	_	_	_	_	_	_	TokenRange=3752:3753
+36-37	al	_	_	_	_	_	_	_	TokenRange=3754:3756
+36	a	_	_	_	_	_	_	_	_
+37	il	_	_	_	_	_	_	_	_
+38	quale	_	_	_	_	_	_	_	TokenRange=3757:3762
+39	io	_	_	_	_	_	_	_	TokenRange=3763:3765
+40	affido	_	_	_	_	_	_	_	TokenRange=3766:3772
+41	il	_	_	_	_	_	_	_	TokenRange=3773:3775
+42	manoscritto	_	_	_	_	_	_	_	TokenRange=3776:3787
+43	appena	_	_	_	_	_	_	_	TokenRange=3788:3794
+44	sarà	_	_	_	_	_	_	_	TokenRange=3795:3799
+45	terminato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3800:3809
+46	,	_	_	_	_	_	_	_	TokenRange=3809:3810
+47	se	_	_	_	_	_	_	_	TokenRange=3811:3813
+48	mai	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3814:3817
+49	sarà	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3819:3823
+50	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=3823:3824
+
+# newpar
+# sent_id = 31
+# text = Lo scrivo qua, nella chiesetta sconsacrata, al lume che mi viene dalla lanterna lassù, della cupola; qua, nell’abside riservata al bibliotecario e chiusa da una bassa cancellata di legno a pilastrini, mentre don Eligio sbuffa sotto l’incarico che si è eroicamente assunto di mettere un po’ d’ordine in questa vera babilonia di libri.
+1	Lo	_	_	_	_	_	_	_	TokenRange=3828:3830
+2	scrivo	_	_	_	_	_	_	_	TokenRange=3831:3837
+3	qua	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3838:3841
+4	,	_	_	_	_	_	_	_	TokenRange=3841:3842
+5-6	nella	_	_	_	_	_	_	_	TokenRange=3843:3848
+5	in	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	chiesetta	_	_	_	_	_	_	_	TokenRange=3849:3858
+8	sconsacrata	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3859:3870
+9	,	_	_	_	_	_	_	_	TokenRange=3870:3871
+10-11	al	_	_	_	_	_	_	_	TokenRange=3872:3874
+10	a	_	_	_	_	_	_	_	_
+11	il	_	_	_	_	_	_	_	_
+12	lume	_	_	_	_	_	_	_	TokenRange=3875:3879
+13	che	_	_	_	_	_	_	_	TokenRange=3880:3883
+14	mi	_	_	_	_	_	_	_	TokenRange=3884:3886
+15	viene	_	_	_	_	_	_	_	TokenRange=3887:3892
+16-17	dalla	_	_	_	_	_	_	_	TokenRange=3893:3898
+16	da	_	_	_	_	_	_	_	_
+17	la	_	_	_	_	_	_	_	_
+18	lanterna	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3899:3907
+19	lassù	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3909:3914
+20	,	_	_	_	_	_	_	_	TokenRange=3914:3915
+21-22	della	_	_	_	_	_	_	_	TokenRange=3916:3921
+21	di	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	cupola	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3922:3928
+24	;	_	_	_	_	_	_	_	TokenRange=3928:3929
+25	qua	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3930:3933
+26	,	_	_	_	_	_	_	_	TokenRange=3933:3934
+27-28	nell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=3935:3940
+27	in	_	_	_	_	_	_	_	_
+28	l’	_	_	_	_	_	_	_	_
+29	abside	_	_	_	_	_	_	_	TokenRange=3940:3946
+30	riservata	_	_	_	_	_	_	_	TokenRange=3947:3956
+31-32	al	_	_	_	_	_	_	_	TokenRange=3957:3959
+31	a	_	_	_	_	_	_	_	_
+32	il	_	_	_	_	_	_	_	_
+33	bibliotecario	_	_	_	_	_	_	_	TokenRange=3960:3973
+34	e	_	_	_	_	_	_	_	TokenRange=3974:3975
+35	chiusa	_	_	_	_	_	_	_	TokenRange=3976:3982
+36	da	_	_	_	_	_	_	_	TokenRange=3983:3985
+37	una	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=3986:3989
+38	bassa	_	_	_	_	_	_	_	TokenRange=3991:3996
+39	cancellata	_	_	_	_	_	_	_	TokenRange=3997:4007
+40	di	_	_	_	_	_	_	_	TokenRange=4008:4010
+41	legno	_	_	_	_	_	_	_	TokenRange=4011:4016
+42	a	_	_	_	_	_	_	_	TokenRange=4017:4018
+43	pilastrini	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4019:4029
+44	,	_	_	_	_	_	_	_	TokenRange=4029:4030
+45	mentre	_	_	_	_	_	_	_	TokenRange=4031:4037
+46	don	_	_	_	_	_	_	_	TokenRange=4038:4041
+47	Eligio	_	_	_	_	_	_	_	TokenRange=4042:4048
+48	sbuffa	_	_	_	_	_	_	_	TokenRange=4049:4055
+49	sotto	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4056:4061
+50	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4063:4065
+51	incarico	_	_	_	_	_	_	_	TokenRange=4065:4073
+52	che	_	_	_	_	_	_	_	TokenRange=4074:4077
+53	si	_	_	_	_	_	_	_	TokenRange=4078:4080
+54	è	_	_	_	_	_	_	_	TokenRange=4081:4082
+55	eroicamente	_	_	_	_	_	_	_	TokenRange=4083:4094
+56	assunto	_	_	_	_	_	_	_	TokenRange=4095:4102
+57	di	_	_	_	_	_	_	_	TokenRange=4103:4105
+58	mettere	_	_	_	_	_	_	_	TokenRange=4106:4113
+59	un	_	_	_	_	_	_	_	TokenRange=4114:4116
+60	po’	_	_	_	_	_	_	_	TokenRange=4117:4120
+61	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4121:4123
+62	ordine	_	_	_	_	_	_	_	TokenRange=4123:4129
+63	in	_	_	_	_	_	_	_	TokenRange=4130:4132
+64	questa	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4133:4139
+65	vera	_	_	_	_	_	_	_	TokenRange=4141:4145
+66	babilonia	_	_	_	_	_	_	_	TokenRange=4146:4155
+67	di	_	_	_	_	_	_	_	TokenRange=4156:4158
+68	libri	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4159:4164
+69	.	_	_	_	_	_	_	_	TokenRange=4164:4165
+
+# sent_id = 32
+# text = Temo che non ne verrà mai a capo.
+1	Temo	_	_	_	_	_	_	_	TokenRange=4166:4170
+2	che	_	_	_	_	_	_	_	TokenRange=4171:4174
+3	non	_	_	_	_	_	_	_	TokenRange=4175:4178
+4	ne	_	_	_	_	_	_	_	TokenRange=4179:4181
+5	verrà	_	_	_	_	_	_	_	TokenRange=4182:4187
+6	mai	_	_	_	_	_	_	_	TokenRange=4188:4191
+7	a	_	_	_	_	_	_	_	TokenRange=4192:4193
+8	capo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4194:4198
+9	.	_	_	_	_	_	_	_	TokenRange=4198:4199
+
+# sent_id = 33
+# text = Nessuno prima di lui s’era curato di sapere, almeno all’ingrosso, dando di sfuggita un’occhiata ai dorsi, che razza di libri quel Monsignore avesse donato al Comune:
+1	Nessuno	_	_	_	_	_	_	_	TokenRange=4200:4207
+2	prima	_	_	_	_	_	_	_	TokenRange=4208:4213
+3	di	_	_	_	_	_	_	_	TokenRange=4214:4216
+4	lui	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4217:4220
+5	s’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4222:4224
+6	era	_	_	_	_	_	_	_	TokenRange=4224:4227
+7	curato	_	_	_	_	_	_	_	TokenRange=4228:4234
+8	di	_	_	_	_	_	_	_	TokenRange=4235:4237
+9	sapere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4238:4244
+10	,	_	_	_	_	_	_	_	TokenRange=4244:4245
+11	almeno	_	_	_	_	_	_	_	TokenRange=4246:4252
+12-13	all’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4253:4257
+12	a	_	_	_	_	_	_	_	_
+13	l’	_	_	_	_	_	_	_	_
+14	ingrosso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4257:4265
+15	,	_	_	_	_	_	_	_	TokenRange=4265:4266
+16	dando	_	_	_	_	_	_	_	TokenRange=4267:4272
+17	di	_	_	_	_	_	_	_	TokenRange=4273:4275
+18	sfuggita	_	_	_	_	_	_	_	TokenRange=4276:4284
+19	un’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4285:4288
+20	occhiata	_	_	_	_	_	_	_	TokenRange=4288:4296
+21-22	ai	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4297:4299
+21	a	_	_	_	_	_	_	_	_
+22	i	_	_	_	_	_	_	_	_
+23	dorsi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4301:4306
+24	,	_	_	_	_	_	_	_	TokenRange=4306:4307
+25	che	_	_	_	_	_	_	_	TokenRange=4308:4311
+26	razza	_	_	_	_	_	_	_	TokenRange=4312:4317
+27	di	_	_	_	_	_	_	_	TokenRange=4318:4320
+28	libri	_	_	_	_	_	_	_	TokenRange=4321:4326
+29	quel	_	_	_	_	_	_	_	TokenRange=4327:4331
+30	Monsignore	_	_	_	_	_	_	_	TokenRange=4332:4342
+31	avesse	_	_	_	_	_	_	_	TokenRange=4343:4349
+32	donato	_	_	_	_	_	_	_	TokenRange=4350:4356
+33-34	al	_	_	_	_	_	_	_	TokenRange=4357:4359
+33	a	_	_	_	_	_	_	_	_
+34	il	_	_	_	_	_	_	_	_
+35	Comune	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4360:4366
+36	:	_	_	_	_	_	_	_	TokenRange=4366:4367
+
+# sent_id = 34
+# text = si riteneva che tutti o quasi dovessero trattare di materie religiose.
+1	si	_	_	_	_	_	_	_	TokenRange=4368:4370
+2	riteneva	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4371:4379
+3	che	_	_	_	_	_	_	_	TokenRange=4381:4384
+4	tutti	_	_	_	_	_	_	_	TokenRange=4385:4390
+5	o	_	_	_	_	_	_	_	TokenRange=4391:4392
+6	quasi	_	_	_	_	_	_	_	TokenRange=4393:4398
+7	dovessero	_	_	_	_	_	_	_	TokenRange=4399:4408
+8	trattare	_	_	_	_	_	_	_	TokenRange=4409:4417
+9	di	_	_	_	_	_	_	_	TokenRange=4418:4420
+10	materie	_	_	_	_	_	_	_	TokenRange=4421:4428
+11	religiose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4429:4438
+12	.	_	_	_	_	_	_	_	TokenRange=4438:4439
+
+# sent_id = 35
+# text = Ora il Pellegrinotto ha scoperto, per maggior sua consolazione, una varietà grandissima di materie nella biblioteca di Monsignore; e siccome i libri furon presi di qua e di là nel magazzino e accozzati così come venivano sotto mano, la confusione è indescrivibile.
+1	Ora	_	_	_	_	_	_	_	TokenRange=4440:4443
+2	il	_	_	_	_	_	_	_	TokenRange=4444:4446
+3	Pellegrinotto	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4447:4460
+4	ha	_	_	_	_	_	_	_	TokenRange=4462:4464
+5	scoperto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4465:4473
+6	,	_	_	_	_	_	_	_	TokenRange=4473:4474
+7	per	_	_	_	_	_	_	_	TokenRange=4475:4478
+8	maggior	_	_	_	_	_	_	_	TokenRange=4479:4486
+9	sua	_	_	_	_	_	_	_	TokenRange=4487:4490
+10	consolazione	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4491:4503
+11	,	_	_	_	_	_	_	_	TokenRange=4503:4504
+12	una	_	_	_	_	_	_	_	TokenRange=4505:4508
+13	varietà	_	_	_	_	_	_	_	TokenRange=4509:4516
+14	grandissima	_	_	_	_	_	_	_	TokenRange=4517:4528
+15	di	_	_	_	_	_	_	_	TokenRange=4529:4531
+16	materie	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4532:4539
+17-18	nella	_	_	_	_	_	_	_	TokenRange=4541:4546
+17	in	_	_	_	_	_	_	_	_
+18	la	_	_	_	_	_	_	_	_
+19	biblioteca	_	_	_	_	_	_	_	TokenRange=4547:4557
+20	di	_	_	_	_	_	_	_	TokenRange=4558:4560
+21	Monsignore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4561:4571
+22	;	_	_	_	_	_	_	_	TokenRange=4571:4572
+23	e	_	_	_	_	_	_	_	TokenRange=4573:4574
+24	siccome	_	_	_	_	_	_	_	TokenRange=4575:4582
+25	i	_	_	_	_	_	_	_	TokenRange=4583:4584
+26	libri	_	_	_	_	_	_	_	TokenRange=4585:4590
+27	furon	_	_	_	_	_	_	_	TokenRange=4591:4596
+28	presi	_	_	_	_	_	_	_	TokenRange=4597:4602
+29	di	_	_	_	_	_	_	_	TokenRange=4603:4605
+30	qua	_	_	_	_	_	_	_	TokenRange=4606:4609
+31	e	_	_	_	_	_	_	_	TokenRange=4610:4611
+32	di	_	_	_	_	_	_	_	TokenRange=4612:4614
+33	là	_	_	_	_	_	_	_	TokenRange=4615:4617
+34-35	nel	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4618:4621
+34	in	_	_	_	_	_	_	_	_
+35	il	_	_	_	_	_	_	_	_
+36	magazzino	_	_	_	_	_	_	_	TokenRange=4623:4632
+37	e	_	_	_	_	_	_	_	TokenRange=4633:4634
+38	accozzati	_	_	_	_	_	_	_	TokenRange=4635:4644
+39	così	_	_	_	_	_	_	_	TokenRange=4645:4649
+40	come	_	_	_	_	_	_	_	TokenRange=4650:4654
+41	venivano	_	_	_	_	_	_	_	TokenRange=4655:4663
+42	sotto	_	_	_	_	_	_	_	TokenRange=4664:4669
+43	mano	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4670:4674
+44	,	_	_	_	_	_	_	_	TokenRange=4674:4675
+45	la	_	_	_	_	_	_	_	TokenRange=4676:4678
+46	confusione	_	_	_	_	_	_	_	TokenRange=4679:4689
+47	è	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4690:4691
+48	indescrivibile	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4693:4707
+49	.	_	_	_	_	_	_	_	TokenRange=4707:4708
+
+# sent_id = 36
+# text = Si sono strette per la vicinanza fra questi libri amicizie oltre ogni dire speciose:
+1	Si	_	_	_	_	_	_	_	TokenRange=4709:4711
+2	sono	_	_	_	_	_	_	_	TokenRange=4712:4716
+3	strette	_	_	_	_	_	_	_	TokenRange=4717:4724
+4	per	_	_	_	_	_	_	_	TokenRange=4725:4728
+5	la	_	_	_	_	_	_	_	TokenRange=4729:4731
+6	vicinanza	_	_	_	_	_	_	_	TokenRange=4732:4741
+7	fra	_	_	_	_	_	_	_	TokenRange=4742:4745
+8	questi	_	_	_	_	_	_	_	TokenRange=4746:4752
+9	libri	_	_	_	_	_	_	_	TokenRange=4753:4758
+10	amicizie	_	_	_	_	_	_	_	TokenRange=4759:4767
+11	oltre	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4768:4773
+12	ogni	_	_	_	_	_	_	_	TokenRange=4775:4779
+13	dire	_	_	_	_	_	_	_	TokenRange=4780:4784
+14	speciose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4785:4793
+15	:	_	_	_	_	_	_	_	TokenRange=4793:4794
+
+# sent_id = 37
+# text = don Eligio Pellegrinotto mi ha detto, ad esempio, che ha stentato non poco a staccare da un trattato molto licenzioso Dell’arte di amar le donne, libri tre di Anton Muzio Porro, dell’anno 1571, una Vita e morte di Faustino Materucci, Benedettino di Polirone, che taluni chiamano beato, biografia edita a Mantova nel 1625.
+1	don	_	_	_	_	_	_	_	TokenRange=4795:4798
+2	Eligio	_	_	_	_	_	_	_	TokenRange=4799:4805
+3	Pellegrinotto	_	_	_	_	_	_	_	TokenRange=4806:4819
+4	mi	_	_	_	_	_	_	_	TokenRange=4820:4822
+5	ha	_	_	_	_	_	_	_	TokenRange=4823:4825
+6	detto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4826:4831
+7	,	_	_	_	_	_	_	_	TokenRange=4831:4832
+8	ad	_	_	_	_	_	_	_	TokenRange=4833:4835
+9	esempio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4836:4843
+10	,	_	_	_	_	_	_	_	TokenRange=4843:4844
+11	che	_	_	_	_	_	_	_	TokenRange=4845:4848
+12	ha	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4849:4851
+13	stentato	_	_	_	_	_	_	_	TokenRange=4853:4861
+14	non	_	_	_	_	_	_	_	TokenRange=4862:4865
+15	poco	_	_	_	_	_	_	_	TokenRange=4866:4870
+16	a	_	_	_	_	_	_	_	TokenRange=4871:4872
+17	staccare	_	_	_	_	_	_	_	TokenRange=4873:4881
+18	da	_	_	_	_	_	_	_	TokenRange=4882:4884
+19	un	_	_	_	_	_	_	_	TokenRange=4885:4887
+20	trattato	_	_	_	_	_	_	_	TokenRange=4888:4896
+21	molto	_	_	_	_	_	_	_	TokenRange=4897:4902
+22	licenzioso	_	_	_	_	_	_	_	TokenRange=4903:4913
+23-24	Dell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4914:4919
+23	Di	_	_	_	_	_	_	_	_
+24	l’	_	_	_	_	_	_	_	_
+25	arte	_	_	_	_	_	_	_	TokenRange=4919:4923
+26	di	_	_	_	_	_	_	_	TokenRange=4924:4926
+27	amar	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=4927:4931
+28	le	_	_	_	_	_	_	_	TokenRange=4933:4935
+29	donne	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4936:4941
+30	,	_	_	_	_	_	_	_	TokenRange=4941:4942
+31	libri	_	_	_	_	_	_	_	TokenRange=4943:4948
+32	tre	_	_	_	_	_	_	_	TokenRange=4949:4952
+33	di	_	_	_	_	_	_	_	TokenRange=4953:4955
+34	Anton	_	_	_	_	_	_	_	TokenRange=4956:4961
+35	Muzio	_	_	_	_	_	_	_	TokenRange=4962:4967
+36	Porro	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4968:4973
+37	,	_	_	_	_	_	_	_	TokenRange=4973:4974
+38-39	dell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4975:4980
+38	di	_	_	_	_	_	_	_	_
+39	l’	_	_	_	_	_	_	_	_
+40	anno	_	_	_	_	_	_	_	TokenRange=4980:4984
+41	1571	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=4985:4989
+42	,	_	_	_	_	_	_	_	TokenRange=4989:4990
+43	una	_	_	_	_	_	_	_	TokenRange=4991:4994
+44	Vita	_	_	_	_	_	_	_	TokenRange=4995:4999
+45	e	_	_	_	_	_	_	_	TokenRange=5000:5001
+46	morte	_	_	_	_	_	_	_	TokenRange=5002:5007
+47	di	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5008:5010
+48	Faustino	_	_	_	_	_	_	_	TokenRange=5012:5020
+49	Materucci	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5021:5030
+50	,	_	_	_	_	_	_	_	TokenRange=5030:5031
+51	Benedettino	_	_	_	_	_	_	_	TokenRange=5032:5043
+52	di	_	_	_	_	_	_	_	TokenRange=5044:5046
+53	Polirone	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5047:5055
+54	,	_	_	_	_	_	_	_	TokenRange=5055:5056
+55	che	_	_	_	_	_	_	_	TokenRange=5057:5060
+56	taluni	_	_	_	_	_	_	_	TokenRange=5061:5067
+57	chiamano	_	_	_	_	_	_	_	TokenRange=5068:5076
+58	beato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5077:5082
+59	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5082:5083
+60	biografia	_	_	_	_	_	_	_	TokenRange=5085:5094
+61	edita	_	_	_	_	_	_	_	TokenRange=5095:5100
+62	a	_	_	_	_	_	_	_	TokenRange=5101:5102
+63	Mantova	_	_	_	_	_	_	_	TokenRange=5103:5110
+64-65	nel	_	_	_	_	_	_	_	TokenRange=5111:5114
+64	in	_	_	_	_	_	_	_	_
+65	il	_	_	_	_	_	_	_	_
+66	1625	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5115:5119
+67	.	_	_	_	_	_	_	_	TokenRange=5119:5120
+
+# sent_id = 38
+# text = Per l’umidità, le legature de’ due volumi si erano fraternamente appiccicate.
+1	Per	_	_	_	_	_	_	_	TokenRange=5121:5124
+2	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5125:5127
+3	umidità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5127:5134
+4	,	_	_	_	_	_	_	_	TokenRange=5134:5135
+5	le	_	_	_	_	_	_	_	TokenRange=5136:5138
+6	legature	_	_	_	_	_	_	_	TokenRange=5139:5147
+7	de’	_	_	_	_	_	_	_	TokenRange=5148:5151
+8	due	_	_	_	_	_	_	_	TokenRange=5152:5155
+9	volumi	_	_	_	_	_	_	_	TokenRange=5156:5162
+10	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5163:5165
+11	erano	_	_	_	_	_	_	_	TokenRange=5167:5172
+12	fraternamente	_	_	_	_	_	_	_	TokenRange=5173:5186
+13	appiccicate	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5187:5198
+14	.	_	_	_	_	_	_	_	TokenRange=5198:5199
+
+# sent_id = 39
+# text = Notare che nel libro secondo di quel trattato licenzioso si discorre a lungo della vita e delle avventure monacali.
+1	Notare	_	_	_	_	_	_	_	TokenRange=5200:5206
+2	che	_	_	_	_	_	_	_	TokenRange=5207:5210
+3-4	nel	_	_	_	_	_	_	_	TokenRange=5211:5214
+3	in	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	libro	_	_	_	_	_	_	_	TokenRange=5215:5220
+6	secondo	_	_	_	_	_	_	_	TokenRange=5221:5228
+7	di	_	_	_	_	_	_	_	TokenRange=5229:5231
+8	quel	_	_	_	_	_	_	_	TokenRange=5232:5236
+9	trattato	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5237:5245
+10	licenzioso	_	_	_	_	_	_	_	TokenRange=5247:5257
+11	si	_	_	_	_	_	_	_	TokenRange=5258:5260
+12	discorre	_	_	_	_	_	_	_	TokenRange=5261:5269
+13	a	_	_	_	_	_	_	_	TokenRange=5270:5271
+14	lungo	_	_	_	_	_	_	_	TokenRange=5272:5277
+15-16	della	_	_	_	_	_	_	_	TokenRange=5278:5283
+15	di	_	_	_	_	_	_	_	_
+16	la	_	_	_	_	_	_	_	_
+17	vita	_	_	_	_	_	_	_	TokenRange=5284:5288
+18	e	_	_	_	_	_	_	_	TokenRange=5289:5290
+19-20	delle	_	_	_	_	_	_	_	TokenRange=5291:5296
+19	di	_	_	_	_	_	_	_	_
+20	le	_	_	_	_	_	_	_	_
+21	avventure	_	_	_	_	_	_	_	TokenRange=5297:5306
+22	monacali	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5307:5315
+23	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=5315:5316
+
+# newpar
+# sent_id = 40
+# text = Molti libri curiosi e piacevolissimi don Eligio Pellegrinotto, arrampicato tutto il giorno su una scala da lampionajo, ha pescato negli scaffali della biblioteca.
+1	Molti	_	_	_	_	_	_	_	TokenRange=5320:5325
+2	libri	_	_	_	_	_	_	_	TokenRange=5326:5331
+3	curiosi	_	_	_	_	_	_	_	TokenRange=5332:5339
+4	e	_	_	_	_	_	_	_	TokenRange=5340:5341
+5	piacevolissimi	_	_	_	_	_	_	_	TokenRange=5342:5356
+6	don	_	_	_	_	_	_	_	TokenRange=5357:5360
+7	Eligio	_	_	_	_	_	_	_	TokenRange=5361:5367
+8	Pellegrinotto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5368:5381
+9	,	_	_	_	_	_	_	_	TokenRange=5381:5382
+10	arrampicato	_	_	_	_	_	_	_	TokenRange=5383:5394
+11	tutto	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5395:5400
+12	il	_	_	_	_	_	_	_	TokenRange=5402:5404
+13	giorno	_	_	_	_	_	_	_	TokenRange=5405:5411
+14	su	_	_	_	_	_	_	_	TokenRange=5412:5414
+15	una	_	_	_	_	_	_	_	TokenRange=5415:5418
+16	scala	_	_	_	_	_	_	_	TokenRange=5419:5424
+17	da	_	_	_	_	_	_	_	TokenRange=5425:5427
+18	lampionajo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5428:5438
+19	,	_	_	_	_	_	_	_	TokenRange=5438:5439
+20	ha	_	_	_	_	_	_	_	TokenRange=5440:5442
+21	pescato	_	_	_	_	_	_	_	TokenRange=5443:5450
+22-23	negli	_	_	_	_	_	_	_	TokenRange=5451:5456
+22	in	_	_	_	_	_	_	_	_
+23	gli	_	_	_	_	_	_	_	_
+24	scaffali	_	_	_	_	_	_	_	TokenRange=5457:5465
+25-26	della	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5466:5471
+25	di	_	_	_	_	_	_	_	_
+26	la	_	_	_	_	_	_	_	_
+27	biblioteca	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5473:5483
+28	.	_	_	_	_	_	_	_	TokenRange=5483:5484
+
+# sent_id = 41
+# text = Ogni qual volta ne trova uno, lo lancia dall’alto, con garbo, sul tavolone che sta in mezzo;
+1	Ogni	_	_	_	_	_	_	_	TokenRange=5485:5489
+2	qual	_	_	_	_	_	_	_	TokenRange=5490:5494
+3	volta	_	_	_	_	_	_	_	TokenRange=5495:5500
+4	ne	_	_	_	_	_	_	_	TokenRange=5501:5503
+5	trova	_	_	_	_	_	_	_	TokenRange=5504:5509
+6	uno	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5510:5513
+7	,	_	_	_	_	_	_	_	TokenRange=5513:5514
+8	lo	_	_	_	_	_	_	_	TokenRange=5515:5517
+9	lancia	_	_	_	_	_	_	_	TokenRange=5518:5524
+10-11	dall’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5525:5530
+10	da	_	_	_	_	_	_	_	_
+11	l’	_	_	_	_	_	_	_	_
+12	alto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5530:5534
+13	,	_	_	_	_	_	_	_	TokenRange=5534:5535
+14	con	_	_	_	_	_	_	_	TokenRange=5536:5539
+15	garbo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5540:5545
+16	,	_	_	_	_	_	_	_	TokenRange=5545:5546
+17-18	sul	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5547:5550
+17	su	_	_	_	_	_	_	_	_
+18	il	_	_	_	_	_	_	_	_
+19	tavolone	_	_	_	_	_	_	_	TokenRange=5552:5560
+20	che	_	_	_	_	_	_	_	TokenRange=5561:5564
+21	sta	_	_	_	_	_	_	_	TokenRange=5565:5568
+22	in	_	_	_	_	_	_	_	TokenRange=5569:5571
+23	mezzo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5572:5577
+24	;	_	_	_	_	_	_	_	TokenRange=5577:5578
+
+# sent_id = 42
+# text = la chiesetta ne rintrona;
+1	la	_	_	_	_	_	_	_	TokenRange=5579:5581
+2	chiesetta	_	_	_	_	_	_	_	TokenRange=5582:5591
+3	ne	_	_	_	_	_	_	_	TokenRange=5592:5594
+4	rintrona	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5595:5603
+5	;	_	_	_	_	_	_	_	TokenRange=5603:5604
+
+# sent_id = 43
+# text = un nugolo di polvere si leva, da cui due o tre ragni scappano via spaventati:
+1	un	_	_	_	_	_	_	_	TokenRange=5605:5607
+2	nugolo	_	_	_	_	_	_	_	TokenRange=5608:5614
+3	di	_	_	_	_	_	_	_	TokenRange=5615:5617
+4	polvere	_	_	_	_	_	_	_	TokenRange=5618:5625
+5	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5626:5628
+6	leva	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5630:5634
+7	,	_	_	_	_	_	_	_	TokenRange=5634:5635
+8	da	_	_	_	_	_	_	_	TokenRange=5636:5638
+9	cui	_	_	_	_	_	_	_	TokenRange=5639:5642
+10	due	_	_	_	_	_	_	_	TokenRange=5643:5646
+11	o	_	_	_	_	_	_	_	TokenRange=5647:5648
+12	tre	_	_	_	_	_	_	_	TokenRange=5649:5652
+13	ragni	_	_	_	_	_	_	_	TokenRange=5653:5658
+14	scappano	_	_	_	_	_	_	_	TokenRange=5659:5667
+15	via	_	_	_	_	_	_	_	TokenRange=5668:5671
+16	spaventati	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5672:5682
+17	:	_	_	_	_	_	_	_	TokenRange=5682:5683
+
+# sent_id = 44
+# text = io accorro dall’abside, scavalcando la cancellata;
+1	io	_	_	_	_	_	_	_	TokenRange=5684:5686
+2	accorro	_	_	_	_	_	_	_	TokenRange=5687:5694
+3-4	dall’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5695:5700
+3	da	_	_	_	_	_	_	_	_
+4	l’	_	_	_	_	_	_	_	_
+5	abside	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5700:5706
+6	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5706:5707
+7	scavalcando	_	_	_	_	_	_	_	TokenRange=5709:5720
+8	la	_	_	_	_	_	_	_	TokenRange=5721:5723
+9	cancellata	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5724:5734
+10	;	_	_	_	_	_	_	_	TokenRange=5734:5735
+
+# sent_id = 45
+# text = do prima col libro stesso la caccia ai ragni su pe’l tavolone polveroso;
+1	do	_	_	_	_	_	_	_	TokenRange=5736:5738
+2	prima	_	_	_	_	_	_	_	TokenRange=5739:5744
+3-4	col	_	_	_	_	_	_	_	TokenRange=5745:5748
+3	con	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	libro	_	_	_	_	_	_	_	TokenRange=5749:5754
+6	stesso	_	_	_	_	_	_	_	TokenRange=5755:5761
+7	la	_	_	_	_	_	_	_	TokenRange=5762:5764
+8	caccia	_	_	_	_	_	_	_	TokenRange=5765:5771
+9-10	ai	_	_	_	_	_	_	_	TokenRange=5772:5774
+9	a	_	_	_	_	_	_	_	_
+10	i	_	_	_	_	_	_	_	_
+11	ragni	_	_	_	_	_	_	_	TokenRange=5775:5780
+12	su	_	_	_	_	_	_	_	TokenRange=5781:5783
+13	pe’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5784:5787
+14	l	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5787:5788
+15	tavolone	_	_	_	_	_	_	_	TokenRange=5790:5798
+16	polveroso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5799:5808
+17	;	_	_	_	_	_	_	_	TokenRange=5808:5809
+
+# sent_id = 46
+# text = poi apro il libro e mi metto a leggiucchiarlo.
+1	poi	_	_	_	_	_	_	_	TokenRange=5810:5813
+2	apro	_	_	_	_	_	_	_	TokenRange=5814:5818
+3	il	_	_	_	_	_	_	_	TokenRange=5819:5821
+4	libro	_	_	_	_	_	_	_	TokenRange=5822:5827
+5	e	_	_	_	_	_	_	_	TokenRange=5828:5829
+6	mi	_	_	_	_	_	_	_	TokenRange=5830:5832
+7	metto	_	_	_	_	_	_	_	TokenRange=5833:5838
+8	a	_	_	_	_	_	_	_	TokenRange=5839:5840
+9-10	leggiucchiarlo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5841:5855
+9	leggiucchiar	_	_	_	_	_	_	_	_
+10	lo	_	_	_	_	_	_	_	_
+11	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=5855:5856
+
+# newpar
+# sent_id = 47
+# text = Così, a poco a poco, ho fatto il gusto a siffatte letture.
+1	Così	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5860:5864
+2	,	_	_	_	_	_	_	_	TokenRange=5864:5865
+3	a	_	_	_	_	_	_	_	TokenRange=5866:5867
+4	poco	_	_	_	_	_	_	_	TokenRange=5868:5872
+5	a	_	_	_	_	_	_	_	TokenRange=5873:5874
+6	poco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5875:5879
+7	,	_	_	_	_	_	_	_	TokenRange=5879:5880
+8	ho	_	_	_	_	_	_	_	TokenRange=5881:5883
+9	fatto	_	_	_	_	_	_	_	TokenRange=5884:5889
+10	il	_	_	_	_	_	_	_	TokenRange=5890:5892
+11	gusto	_	_	_	_	_	_	_	TokenRange=5893:5898
+12	a	_	_	_	_	_	_	_	TokenRange=5899:5900
+13	siffatte	_	_	_	_	_	_	_	TokenRange=5901:5909
+14	letture	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=5910:5917
+15	.	_	_	_	_	_	_	_	TokenRange=5917:5918
+
+# sent_id = 48
+# text = Ora don Eligio mi dice che il mio libro dovrebbe esser condotto sul modello di questi ch’egli va scovando nella biblioteca, aver cioè il loro particolar sapore.
+1	Ora	_	_	_	_	_	_	_	TokenRange=5919:5922
+2	don	_	_	_	_	_	_	_	TokenRange=5923:5926
+3	Eligio	_	_	_	_	_	_	_	TokenRange=5927:5933
+4	mi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=5934:5936
+5	dice	_	_	_	_	_	_	_	TokenRange=5938:5942
+6	che	_	_	_	_	_	_	_	TokenRange=5943:5946
+7	il	_	_	_	_	_	_	_	TokenRange=5947:5949
+8	mio	_	_	_	_	_	_	_	TokenRange=5950:5953
+9	libro	_	_	_	_	_	_	_	TokenRange=5954:5959
+10	dovrebbe	_	_	_	_	_	_	_	TokenRange=5960:5968
+11	esser	_	_	_	_	_	_	_	TokenRange=5969:5974
+12	condotto	_	_	_	_	_	_	_	TokenRange=5975:5983
+13-14	sul	_	_	_	_	_	_	_	TokenRange=5984:5987
+13	su	_	_	_	_	_	_	_	_
+14	il	_	_	_	_	_	_	_	_
+15	modello	_	_	_	_	_	_	_	TokenRange=5988:5995
+16	di	_	_	_	_	_	_	_	TokenRange=5996:5998
+17	questi	_	_	_	_	_	_	_	TokenRange=5999:6005
+18	ch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6006:6009
+19	egli	_	_	_	_	_	_	_	TokenRange=6009:6013
+20	va	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6014:6016
+21	scovando	_	_	_	_	_	_	_	TokenRange=6018:6026
+22-23	nella	_	_	_	_	_	_	_	TokenRange=6027:6032
+22	in	_	_	_	_	_	_	_	_
+23	la	_	_	_	_	_	_	_	_
+24	biblioteca	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6033:6043
+25	,	_	_	_	_	_	_	_	TokenRange=6043:6044
+26	aver	_	_	_	_	_	_	_	TokenRange=6045:6049
+27	cioè	_	_	_	_	_	_	_	TokenRange=6050:6054
+28	il	_	_	_	_	_	_	_	TokenRange=6055:6057
+29	loro	_	_	_	_	_	_	_	TokenRange=6058:6062
+30	particolar	_	_	_	_	_	_	_	TokenRange=6063:6073
+31	sapore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6074:6080
+32	.	_	_	_	_	_	_	_	TokenRange=6080:6081
+
+# sent_id = 49
+# text = Io scrollo le spalle e gli rispondo che non è fatica per me.
+1	Io	_	_	_	_	_	_	_	TokenRange=6082:6084
+2	scrollo	_	_	_	_	_	_	_	TokenRange=6085:6092
+3	le	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6093:6095
+4	spalle	_	_	_	_	_	_	_	TokenRange=6097:6103
+5	e	_	_	_	_	_	_	_	TokenRange=6104:6105
+6	gli	_	_	_	_	_	_	_	TokenRange=6106:6109
+7	rispondo	_	_	_	_	_	_	_	TokenRange=6110:6118
+8	che	_	_	_	_	_	_	_	TokenRange=6119:6122
+9	non	_	_	_	_	_	_	_	TokenRange=6123:6126
+10	è	_	_	_	_	_	_	_	TokenRange=6127:6128
+11	fatica	_	_	_	_	_	_	_	TokenRange=6129:6135
+12	per	_	_	_	_	_	_	_	TokenRange=6136:6139
+13	me	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6140:6142
+14	.	_	_	_	_	_	_	_	TokenRange=6142:6143
+
+# sent_id = 50
+# text = E poi altro mi trattiene.
+1	E	_	_	_	_	_	_	_	TokenRange=6144:6145
+2	poi	_	_	_	_	_	_	_	TokenRange=6146:6149
+3	altro	_	_	_	_	_	_	_	TokenRange=6150:6155
+4	mi	_	_	_	_	_	_	_	TokenRange=6156:6158
+5	trattiene	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6159:6168
+6	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6168:6169
+
+# newpar
+# sent_id = 51
+# text = Tutto sudato e impolverato, don Eligio scende dalla scala e viene a prendere una boccata d’aria nell’orticello che ha trovato modo di far sorgere qui dietro l’abside, riparato giro giro da stecchi e spuntoni.
+1	Tutto	_	_	_	_	_	_	_	TokenRange=6173:6178
+2	sudato	_	_	_	_	_	_	_	TokenRange=6179:6185
+3	e	_	_	_	_	_	_	_	TokenRange=6186:6187
+4	impolverato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6188:6199
+5	,	_	_	_	_	_	_	_	TokenRange=6199:6200
+6	don	_	_	_	_	_	_	_	TokenRange=6201:6204
+7	Eligio	_	_	_	_	_	_	_	TokenRange=6205:6211
+8	scende	_	_	_	_	_	_	_	TokenRange=6212:6218
+9-10	dalla	_	_	_	_	_	_	_	TokenRange=6219:6224
+9	da	_	_	_	_	_	_	_	_
+10	la	_	_	_	_	_	_	_	_
+11	scala	_	_	_	_	_	_	_	TokenRange=6225:6230
+12	e	_	_	_	_	_	_	_	TokenRange=6231:6232
+13	viene	_	_	_	_	_	_	_	TokenRange=6233:6238
+14	a	_	_	_	_	_	_	_	TokenRange=6239:6240
+15	prendere	_	_	_	_	_	_	_	TokenRange=6241:6249
+16	una	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6250:6253
+17	boccata	_	_	_	_	_	_	_	TokenRange=6255:6262
+18	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6263:6265
+19	aria	_	_	_	_	_	_	_	TokenRange=6265:6269
+20-21	nell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6270:6275
+20	in	_	_	_	_	_	_	_	_
+21	l’	_	_	_	_	_	_	_	_
+22	orticello	_	_	_	_	_	_	_	TokenRange=6275:6284
+23	che	_	_	_	_	_	_	_	TokenRange=6285:6288
+24	ha	_	_	_	_	_	_	_	TokenRange=6289:6291
+25	trovato	_	_	_	_	_	_	_	TokenRange=6292:6299
+26	modo	_	_	_	_	_	_	_	TokenRange=6300:6304
+27	di	_	_	_	_	_	_	_	TokenRange=6305:6307
+28	far	_	_	_	_	_	_	_	TokenRange=6308:6311
+29	sorgere	_	_	_	_	_	_	_	TokenRange=6312:6319
+30	qui	_	_	_	_	_	_	_	TokenRange=6320:6323
+31	dietro	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6324:6330
+32	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6332:6334
+33	abside	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6334:6340
+34	,	_	_	_	_	_	_	_	TokenRange=6340:6341
+35	riparato	_	_	_	_	_	_	_	TokenRange=6342:6350
+36	giro	_	_	_	_	_	_	_	TokenRange=6351:6355
+37	giro	_	_	_	_	_	_	_	TokenRange=6356:6360
+38	da	_	_	_	_	_	_	_	TokenRange=6361:6363
+39	stecchi	_	_	_	_	_	_	_	TokenRange=6364:6371
+40	e	_	_	_	_	_	_	_	TokenRange=6372:6373
+41	spuntoni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6374:6382
+42	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6382:6383
+
+# newpar
+# sent_id = 52
+# text = — Eh, mio reverendo amico, — gli dico io, seduto sul murello, col mento 2% appoggiato al pomo del bastone, mentr’egli attende alle sue lattughe.
+1	—	_	_	_	_	_	_	_	TokenRange=6387:6388
+2	Eh	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6389:6391
+3	,	_	_	_	_	_	_	_	TokenRange=6391:6392
+4	mio	_	_	_	_	_	_	_	TokenRange=6393:6396
+5	reverendo	_	_	_	_	_	_	_	TokenRange=6397:6406
+6	amico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6407:6412
+7	,	_	_	_	_	_	_	_	TokenRange=6412:6413
+8	—	_	_	_	_	_	_	_	TokenRange=6414:6415
+9	gli	_	_	_	_	_	_	_	TokenRange=6416:6419
+10	dico	_	_	_	_	_	_	_	TokenRange=6420:6424
+11	io	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6425:6427
+12	,	_	_	_	_	_	_	_	TokenRange=6427:6428
+13	seduto	_	_	_	_	_	_	_	TokenRange=6429:6435
+14-15	sul	_	_	_	_	_	_	_	TokenRange=6436:6439
+14	su	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	murello	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6440:6447
+17	,	_	_	_	_	_	_	_	TokenRange=6447:6448
+18-19	col	_	_	_	_	_	_	_	TokenRange=6449:6452
+18	con	_	_	_	_	_	_	_	_
+19	il	_	_	_	_	_	_	_	_
+20	mento	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s|TokenRange=6453:6458
+21	2	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6463:6464
+22	%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6464:6465
+23	appoggiato	_	_	_	_	_	_	_	TokenRange=6467:6477
+24-25	al	_	_	_	_	_	_	_	TokenRange=6478:6480
+24	a	_	_	_	_	_	_	_	_
+25	il	_	_	_	_	_	_	_	_
+26	pomo	_	_	_	_	_	_	_	TokenRange=6481:6485
+27-28	del	_	_	_	_	_	_	_	TokenRange=6486:6489
+27	di	_	_	_	_	_	_	_	_
+28	il	_	_	_	_	_	_	_	_
+29	bastone	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6490:6497
+30	,	_	_	_	_	_	_	_	TokenRange=6497:6498
+31	mentr’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6499:6505
+32	egli	_	_	_	_	_	_	_	TokenRange=6505:6509
+33	attende	_	_	_	_	_	_	_	TokenRange=6510:6517
+34-35	alle	_	_	_	_	_	_	_	TokenRange=6518:6522
+34	a	_	_	_	_	_	_	_	_
+35	le	_	_	_	_	_	_	_	_
+36	sue	_	_	_	_	_	_	_	TokenRange=6523:6526
+37	lattughe	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6527:6535
+38	.	_	_	_	_	_	_	_	TokenRange=6535:6536
+
+# sent_id = 53
+# text = — Non mi par più tempo, questo, di scriver libri, neppure per ischerzo.
+1	—	_	_	_	_	_	_	_	TokenRange=6537:6538
+2	Non	_	_	_	_	_	_	_	TokenRange=6539:6542
+3	mi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6543:6545
+4	par	_	_	_	_	_	_	_	TokenRange=6547:6550
+5	più	_	_	_	_	_	_	_	TokenRange=6551:6554
+6	tempo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6555:6560
+7	,	_	_	_	_	_	_	_	TokenRange=6560:6561
+8	questo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6562:6568
+9	,	_	_	_	_	_	_	_	TokenRange=6568:6569
+10	di	_	_	_	_	_	_	_	TokenRange=6570:6572
+11	scriver	_	_	_	_	_	_	_	TokenRange=6573:6580
+12	libri	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6581:6586
+13	,	_	_	_	_	_	_	_	TokenRange=6586:6587
+14	neppure	_	_	_	_	_	_	_	TokenRange=6588:6595
+15	per	_	_	_	_	_	_	_	TokenRange=6596:6599
+16	ischerzo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6600:6608
+17	.	_	_	_	_	_	_	_	TokenRange=6608:6609
+
+# sent_id = 54
+# text = In considerazione anche della letteratura, come per tutto il resto, io debbo ripetere il mio solito ritornello:
+1	In	_	_	_	_	_	_	_	TokenRange=6610:6612
+2	considerazione	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6613:6627
+3	anche	_	_	_	_	_	_	_	TokenRange=6629:6634
+4-5	della	_	_	_	_	_	_	_	TokenRange=6635:6640
+4	di	_	_	_	_	_	_	_	_
+5	la	_	_	_	_	_	_	_	_
+6	letteratura	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6641:6652
+7	,	_	_	_	_	_	_	_	TokenRange=6652:6653
+8	come	_	_	_	_	_	_	_	TokenRange=6654:6658
+9	per	_	_	_	_	_	_	_	TokenRange=6659:6662
+10	tutto	_	_	_	_	_	_	_	TokenRange=6663:6668
+11	il	_	_	_	_	_	_	_	TokenRange=6669:6671
+12	resto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6672:6677
+13	,	_	_	_	_	_	_	_	TokenRange=6677:6678
+14	io	_	_	_	_	_	_	_	TokenRange=6679:6681
+15	debbo	_	_	_	_	_	_	_	TokenRange=6682:6687
+16	ripetere	_	_	_	_	_	_	_	TokenRange=6688:6696
+17	il	_	_	_	_	_	_	_	TokenRange=6697:6699
+18	mio	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6700:6703
+19	solito	_	_	_	_	_	_	_	TokenRange=6705:6711
+20	ritornello	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6712:6722
+21	:	_	_	_	_	_	_	_	TokenRange=6722:6723
+
+# sent_id = 55
+# text = Maledetto sia Copernico!
+1	Maledetto	_	_	_	_	_	_	_	TokenRange=6724:6733
+2	sia	_	_	_	_	_	_	_	TokenRange=6734:6737
+3	Copernico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6738:6747
+4	!	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6747:6748
+
+# newpar
+# sent_id = 56
+# text = — Oh oh oh, che c’entra Copernico!
+1	—	_	_	_	_	_	_	_	TokenRange=6752:6753
+2	Oh	_	_	_	_	_	_	_	TokenRange=6754:6756
+3	oh	_	_	_	_	_	_	_	TokenRange=6757:6759
+4	oh	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6760:6762
+5	,	_	_	_	_	_	_	_	TokenRange=6762:6763
+6	che	_	_	_	_	_	_	_	TokenRange=6764:6767
+7	c’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6768:6770
+8	entra	_	_	_	_	_	_	_	TokenRange=6770:6775
+9	Copernico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6776:6785
+10	!	_	_	_	_	_	_	_	TokenRange=6785:6786
+
+# sent_id = 57
+# text = — esclama don Eligio, levandosi su la vita, col volto infocato sotto il cappellaccio di paglia.
+1	—	_	_	_	_	_	_	_	TokenRange=6787:6788
+2	esclama	_	_	_	_	_	_	_	TokenRange=6789:6796
+3	don	_	_	_	_	_	_	_	TokenRange=6797:6800
+4	Eligio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6801:6807
+5	,	_	_	_	_	_	_	_	TokenRange=6807:6808
+6-7	levandosi	_	_	_	_	_	_	_	TokenRange=6809:6818
+6	levando	_	_	_	_	_	_	_	_
+7	si	_	_	_	_	_	_	_	_
+8	su	_	_	_	_	_	_	_	TokenRange=6819:6821
+9	la	_	_	_	_	_	_	_	TokenRange=6822:6824
+10	vita	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6825:6829
+11	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=6829:6830
+12-13	col	_	_	_	_	_	_	_	TokenRange=6832:6835
+12	con	_	_	_	_	_	_	_	_
+13	il	_	_	_	_	_	_	_	_
+14	volto	_	_	_	_	_	_	_	TokenRange=6836:6841
+15	infocato	_	_	_	_	_	_	_	TokenRange=6842:6850
+16	sotto	_	_	_	_	_	_	_	TokenRange=6851:6856
+17	il	_	_	_	_	_	_	_	TokenRange=6857:6859
+18	cappellaccio	_	_	_	_	_	_	_	TokenRange=6860:6872
+19	di	_	_	_	_	_	_	_	TokenRange=6873:6875
+20	paglia	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6876:6882
+21	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6882:6883
+
+# newpar
+# sent_id = 58
+# text = — C’entra, don Eligio.
+1	—	_	_	_	_	_	_	_	TokenRange=6887:6888
+2	C’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6889:6891
+3	entra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6891:6896
+4	,	_	_	_	_	_	_	_	TokenRange=6896:6897
+5	don	_	_	_	_	_	_	_	TokenRange=6898:6901
+6	Eligio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6902:6908
+7	.	_	_	_	_	_	_	_	TokenRange=6908:6909
+
+# sent_id = 59
+# text = Perché, quando la Terra non girava…
+1	Perché	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6910:6916
+2	,	_	_	_	_	_	_	_	TokenRange=6916:6917
+3	quando	_	_	_	_	_	_	_	TokenRange=6918:6924
+4	la	_	_	_	_	_	_	_	TokenRange=6925:6927
+5	Terra	_	_	_	_	_	_	_	TokenRange=6928:6933
+6	non	_	_	_	_	_	_	_	TokenRange=6934:6937
+7	girava…	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6938:6945
+
+# newpar
+# sent_id = 60
+# text = — E dàlli!
+1	—	_	_	_	_	_	_	_	TokenRange=6949:6950
+2	E	_	_	_	_	_	_	_	TokenRange=6951:6952
+3	dàlli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6953:6958
+4	!	_	_	_	_	_	_	_	TokenRange=6958:6959
+
+# sent_id = 61
+# text = Ma se ha sempre girato!
+1	Ma	_	_	_	_	_	_	_	TokenRange=6960:6962
+2	se	_	_	_	_	_	_	_	TokenRange=6963:6965
+3	ha	_	_	_	_	_	_	_	TokenRange=6966:6968
+4	sempre	_	_	_	_	_	_	_	TokenRange=6969:6975
+5	girato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6976:6982
+6	!	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=6982:6983
+
+# newpar
+# sent_id = 62
+# text = — Non è vero.
+1	—	_	_	_	_	_	_	_	TokenRange=6987:6988
+2	Non	_	_	_	_	_	_	_	TokenRange=6989:6992
+3	è	_	_	_	_	_	_	_	TokenRange=6993:6994
+4	vero	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=6995:6999
+5	.	_	_	_	_	_	_	_	TokenRange=6999:7000
+
+# sent_id = 63
+# text = L’uomo non lo sapeva, e dunque era come se non girasse.
+1	L’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7001:7003
+2	uomo	_	_	_	_	_	_	_	TokenRange=7003:7007
+3	non	_	_	_	_	_	_	_	TokenRange=7008:7011
+4	lo	_	_	_	_	_	_	_	TokenRange=7012:7014
+5	sapeva	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7015:7021
+6	,	_	_	_	_	_	_	_	TokenRange=7021:7022
+7	e	_	_	_	_	_	_	_	TokenRange=7023:7024
+8	dunque	_	_	_	_	_	_	_	TokenRange=7025:7031
+9	era	_	_	_	_	_	_	_	TokenRange=7032:7035
+10	come	_	_	_	_	_	_	_	TokenRange=7036:7040
+11	se	_	_	_	_	_	_	_	TokenRange=7041:7043
+12	non	_	_	_	_	_	_	_	TokenRange=7044:7047
+13	girasse	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7048:7055
+14	.	_	_	_	_	_	_	_	TokenRange=7055:7056
+
+# sent_id = 64
+# text = Per tanti, anche adesso, non gira.
+1	Per	_	_	_	_	_	_	_	TokenRange=7057:7060
+2	tanti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7061:7066
+3	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7066:7067
+4	anche	_	_	_	_	_	_	_	TokenRange=7069:7074
+5	adesso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7075:7081
+6	,	_	_	_	_	_	_	_	TokenRange=7081:7082
+7	non	_	_	_	_	_	_	_	TokenRange=7083:7086
+8	gira	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7087:7091
+9	.	_	_	_	_	_	_	_	TokenRange=7091:7092
+
+# sent_id = 65
+# text = L’ho detto l’altro giorno a un vecchio contadino, e sapete come m’ha risposto?
+1	L’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7093:7095
+2	ho	_	_	_	_	_	_	_	TokenRange=7095:7097
+3	detto	_	_	_	_	_	_	_	TokenRange=7098:7103
+4	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7104:7106
+5	altro	_	_	_	_	_	_	_	TokenRange=7106:7111
+6	giorno	_	_	_	_	_	_	_	TokenRange=7112:7118
+7	a	_	_	_	_	_	_	_	TokenRange=7119:7120
+8	un	_	_	_	_	_	_	_	TokenRange=7121:7123
+9	vecchio	_	_	_	_	_	_	_	TokenRange=7124:7131
+10	contadino	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7132:7141
+11	,	_	_	_	_	_	_	_	TokenRange=7141:7142
+12	e	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7143:7144
+13	sapete	_	_	_	_	_	_	_	TokenRange=7146:7152
+14	come	_	_	_	_	_	_	_	TokenRange=7153:7157
+15	m’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7158:7160
+16	ha	_	_	_	_	_	_	_	TokenRange=7160:7162
+17	risposto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7163:7171
+18	?	_	_	_	_	_	_	_	TokenRange=7171:7172
+
+# sent_id = 66
+# text = ch’era una buona scusa per gli ubriachi.
+1	ch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7173:7176
+2	era	_	_	_	_	_	_	_	TokenRange=7176:7179
+3	una	_	_	_	_	_	_	_	TokenRange=7180:7183
+4	buona	_	_	_	_	_	_	_	TokenRange=7184:7189
+5	scusa	_	_	_	_	_	_	_	TokenRange=7190:7195
+6	per	_	_	_	_	_	_	_	TokenRange=7196:7199
+7	gli	_	_	_	_	_	_	_	TokenRange=7200:7203
+8	ubriachi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7204:7212
+9	.	_	_	_	_	_	_	_	TokenRange=7212:7213
+
+# sent_id = 67
+# text = Del resto, anche voi, scusate, non potete mettere in dubbio che Giosuè fermò il Sole.
+1-2	Del	_	_	_	_	_	_	_	TokenRange=7214:7217
+1	Di	_	_	_	_	_	_	_	_
+2	il	_	_	_	_	_	_	_	_
+3	resto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7218:7223
+4	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7223:7224
+5	anche	_	_	_	_	_	_	_	TokenRange=7226:7231
+6	voi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7232:7235
+7	,	_	_	_	_	_	_	_	TokenRange=7235:7236
+8	scusate	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7237:7244
+9	,	_	_	_	_	_	_	_	TokenRange=7244:7245
+10	non	_	_	_	_	_	_	_	TokenRange=7246:7249
+11	potete	_	_	_	_	_	_	_	TokenRange=7250:7256
+12	mettere	_	_	_	_	_	_	_	TokenRange=7257:7264
+13	in	_	_	_	_	_	_	_	TokenRange=7265:7267
+14	dubbio	_	_	_	_	_	_	_	TokenRange=7268:7274
+15	che	_	_	_	_	_	_	_	TokenRange=7275:7278
+16	Giosuè	_	_	_	_	_	_	_	TokenRange=7279:7285
+17	fermò	_	_	_	_	_	_	_	TokenRange=7286:7291
+18	il	_	_	_	_	_	_	_	TokenRange=7292:7294
+19	Sole	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7295:7299
+20	.	_	_	_	_	_	_	_	TokenRange=7299:7300
+
+# sent_id = 68
+# text = Ma lasciamo star questo.
+1	Ma	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7301:7303
+2	lasciamo	_	_	_	_	_	_	_	TokenRange=7305:7313
+3	star	_	_	_	_	_	_	_	TokenRange=7314:7318
+4	questo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7319:7325
+5	.	_	_	_	_	_	_	_	TokenRange=7325:7326
+
+# sent_id = 69
+# text = Io dico che quando la Terra non girava, e l’uomo, vestito da greco o da romano, vi faceva così bella figura e così altamente sentiva di sé e tanto si compiaceva della propria dignità, credo bene che potesse riuscire accetta una narrazione minuta e piena d’oziosi particolari.
+1	Io	_	_	_	_	_	_	_	TokenRange=7327:7329
+2	dico	_	_	_	_	_	_	_	TokenRange=7330:7334
+3	che	_	_	_	_	_	_	_	TokenRange=7335:7338
+4	quando	_	_	_	_	_	_	_	TokenRange=7339:7345
+5	la	_	_	_	_	_	_	_	TokenRange=7346:7348
+6	Terra	_	_	_	_	_	_	_	TokenRange=7349:7354
+7	non	_	_	_	_	_	_	_	TokenRange=7355:7358
+8	girava	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7359:7365
+9	,	_	_	_	_	_	_	_	TokenRange=7365:7366
+10	e	_	_	_	_	_	_	_	TokenRange=7367:7368
+11	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7369:7371
+12	uomo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7371:7375
+13	,	_	_	_	_	_	_	_	TokenRange=7375:7376
+14	vestito	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7377:7384
+15	da	_	_	_	_	_	_	_	TokenRange=7386:7388
+16	greco	_	_	_	_	_	_	_	TokenRange=7389:7394
+17	o	_	_	_	_	_	_	_	TokenRange=7395:7396
+18	da	_	_	_	_	_	_	_	TokenRange=7397:7399
+19	romano	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7400:7406
+20	,	_	_	_	_	_	_	_	TokenRange=7406:7407
+21	vi	_	_	_	_	_	_	_	TokenRange=7408:7410
+22	faceva	_	_	_	_	_	_	_	TokenRange=7411:7417
+23	così	_	_	_	_	_	_	_	TokenRange=7418:7422
+24	bella	_	_	_	_	_	_	_	TokenRange=7423:7428
+25	figura	_	_	_	_	_	_	_	TokenRange=7429:7435
+26	e	_	_	_	_	_	_	_	TokenRange=7436:7437
+27	così	_	_	_	_	_	_	_	TokenRange=7438:7442
+28	altamente	_	_	_	_	_	_	_	TokenRange=7443:7452
+29	sentiva	_	_	_	_	_	_	_	TokenRange=7453:7460
+30	di	_	_	_	_	_	_	_	TokenRange=7461:7463
+31	sé	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7464:7466
+32	e	_	_	_	_	_	_	_	TokenRange=7468:7469
+33	tanto	_	_	_	_	_	_	_	TokenRange=7470:7475
+34	si	_	_	_	_	_	_	_	TokenRange=7476:7478
+35	compiaceva	_	_	_	_	_	_	_	TokenRange=7479:7489
+36-37	della	_	_	_	_	_	_	_	TokenRange=7490:7495
+36	di	_	_	_	_	_	_	_	_
+37	la	_	_	_	_	_	_	_	_
+38	propria	_	_	_	_	_	_	_	TokenRange=7496:7503
+39	dignità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7504:7511
+40	,	_	_	_	_	_	_	_	TokenRange=7511:7512
+41	credo	_	_	_	_	_	_	_	TokenRange=7513:7518
+42	bene	_	_	_	_	_	_	_	TokenRange=7519:7523
+43	che	_	_	_	_	_	_	_	TokenRange=7524:7527
+44	potesse	_	_	_	_	_	_	_	TokenRange=7528:7535
+45	riuscire	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7536:7544
+46	accetta	_	_	_	_	_	_	_	TokenRange=7546:7553
+47	una	_	_	_	_	_	_	_	TokenRange=7554:7557
+48	narrazione	_	_	_	_	_	_	_	TokenRange=7558:7568
+49	minuta	_	_	_	_	_	_	_	TokenRange=7569:7575
+50	e	_	_	_	_	_	_	_	TokenRange=7576:7577
+51	piena	_	_	_	_	_	_	_	TokenRange=7578:7583
+52	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7584:7586
+53	oziosi	_	_	_	_	_	_	_	TokenRange=7586:7592
+54	particolari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7593:7604
+55	.	_	_	_	_	_	_	_	TokenRange=7604:7605
+
+# sent_id = 70
+# text = Si legge o non si legge in Quintiliano, come voi m’avete insegnato, che la storia doveva esser fatta per raccontare e non per provare?
+1	Si	_	_	_	_	_	_	_	TokenRange=7606:7608
+2	legge	_	_	_	_	_	_	_	TokenRange=7609:7614
+3	o	_	_	_	_	_	_	_	TokenRange=7615:7616
+4	non	_	_	_	_	_	_	_	TokenRange=7617:7620
+5	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7621:7623
+6	legge	_	_	_	_	_	_	_	TokenRange=7625:7630
+7	in	_	_	_	_	_	_	_	TokenRange=7631:7633
+8	Quintiliano	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7634:7645
+9	,	_	_	_	_	_	_	_	TokenRange=7645:7646
+10	come	_	_	_	_	_	_	_	TokenRange=7647:7651
+11	voi	_	_	_	_	_	_	_	TokenRange=7652:7655
+12	m’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7656:7658
+13	avete	_	_	_	_	_	_	_	TokenRange=7658:7663
+14	insegnato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7664:7673
+15	,	_	_	_	_	_	_	_	TokenRange=7673:7674
+16	che	_	_	_	_	_	_	_	TokenRange=7675:7678
+17	la	_	_	_	_	_	_	_	TokenRange=7679:7681
+18	storia	_	_	_	_	_	_	_	TokenRange=7682:7688
+19	doveva	_	_	_	_	_	_	_	TokenRange=7689:7695
+20	esser	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7696:7701
+21	fatta	_	_	_	_	_	_	_	TokenRange=7703:7708
+22	per	_	_	_	_	_	_	_	TokenRange=7709:7712
+23	raccontare	_	_	_	_	_	_	_	TokenRange=7713:7723
+24	e	_	_	_	_	_	_	_	TokenRange=7724:7725
+25	non	_	_	_	_	_	_	_	TokenRange=7726:7729
+26	per	_	_	_	_	_	_	_	TokenRange=7730:7733
+27	provare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7734:7741
+28	?	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=7741:7742
+
+# newpar
+# sent_id = 71
+# text = — Non nego, — risponde don Eligio, — ma è vero altresì che non si sono mai scritti libri così minuti, anzi minuziosi in tutti i più riposti particolari, come dacché, a vostro dire, la Terra s’è messa a girare.
+1	—	_	_	_	_	_	_	_	TokenRange=7746:7747
+2	Non	_	_	_	_	_	_	_	TokenRange=7748:7751
+3	nego	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7752:7756
+4	,	_	_	_	_	_	_	_	TokenRange=7756:7757
+5	—	_	_	_	_	_	_	_	TokenRange=7758:7759
+6	risponde	_	_	_	_	_	_	_	TokenRange=7760:7768
+7	don	_	_	_	_	_	_	_	TokenRange=7769:7772
+8	Eligio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7773:7779
+9	,	_	_	_	_	_	_	_	TokenRange=7779:7780
+10	—	_	_	_	_	_	_	_	TokenRange=7781:7782
+11	ma	_	_	_	_	_	_	_	TokenRange=7783:7785
+12	è	_	_	_	_	_	_	_	TokenRange=7786:7787
+13	vero	_	_	_	_	_	_	_	TokenRange=7788:7792
+14	altresì	_	_	_	_	_	_	_	TokenRange=7793:7800
+15	che	_	_	_	_	_	_	_	TokenRange=7801:7804
+16	non	_	_	_	_	_	_	_	TokenRange=7805:7808
+17	si	_	_	_	_	_	_	_	TokenRange=7809:7811
+18	sono	_	_	_	_	_	_	_	TokenRange=7812:7816
+19	mai	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7817:7820
+20	scritti	_	_	_	_	_	_	_	TokenRange=7822:7829
+21	libri	_	_	_	_	_	_	_	TokenRange=7830:7835
+22	così	_	_	_	_	_	_	_	TokenRange=7836:7840
+23	minuti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7841:7847
+24	,	_	_	_	_	_	_	_	TokenRange=7847:7848
+25	anzi	_	_	_	_	_	_	_	TokenRange=7849:7853
+26	minuziosi	_	_	_	_	_	_	_	TokenRange=7854:7863
+27	in	_	_	_	_	_	_	_	TokenRange=7864:7866
+28	tutti	_	_	_	_	_	_	_	TokenRange=7867:7872
+29	i	_	_	_	_	_	_	_	TokenRange=7873:7874
+30	più	_	_	_	_	_	_	_	TokenRange=7875:7878
+31	riposti	_	_	_	_	_	_	_	TokenRange=7879:7886
+32	particolari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7887:7898
+33	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=7898:7899
+34	come	_	_	_	_	_	_	_	TokenRange=7901:7905
+35	dacché	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7906:7912
+36	,	_	_	_	_	_	_	_	TokenRange=7912:7913
+37	a	_	_	_	_	_	_	_	TokenRange=7914:7915
+38	vostro	_	_	_	_	_	_	_	TokenRange=7916:7922
+39	dire	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7923:7927
+40	,	_	_	_	_	_	_	_	TokenRange=7927:7928
+41	la	_	_	_	_	_	_	_	TokenRange=7929:7931
+42	Terra	_	_	_	_	_	_	_	TokenRange=7932:7937
+43	s’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7938:7940
+44	è	_	_	_	_	_	_	_	TokenRange=7940:7941
+45	messa	_	_	_	_	_	_	_	TokenRange=7942:7947
+46	a	_	_	_	_	_	_	_	TokenRange=7948:7949
+47	girare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7950:7956
+48	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=7956:7957
+
+# newpar
+# sent_id = 72
+# text = — E va bene!
+1	—	_	_	_	_	_	_	_	TokenRange=7961:7962
+2	E	_	_	_	_	_	_	_	TokenRange=7963:7964
+3	va	_	_	_	_	_	_	_	TokenRange=7965:7967
+4	bene	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=7968:7972
+5	!	_	_	_	_	_	_	_	TokenRange=7972:7973
+
+# sent_id = 73
+# text = Il signor conte si levò per tempo, alle ore otto e mezzo precise… La signora contessa indossò un abito lilla con una ricca fioritura di merletti alla gola… Teresina si moriva di fame… Lucrezia spasimava d’amore… Oh, santo Dio!
+1	Il	_	_	_	_	_	_	_	TokenRange=7974:7976
+2	signor	_	_	_	_	_	_	_	TokenRange=7977:7983
+3	conte	_	_	_	_	_	_	_	TokenRange=7984:7989
+4	si	_	_	_	_	_	_	_	TokenRange=7990:7992
+5	levò	_	_	_	_	_	_	_	TokenRange=7993:7997
+6	per	_	_	_	_	_	_	_	TokenRange=7998:8001
+7	tempo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8002:8007
+8	,	_	_	_	_	_	_	_	TokenRange=8007:8008
+9-10	alle	_	_	_	_	_	_	_	TokenRange=8009:8013
+9	a	_	_	_	_	_	_	_	_
+10	le	_	_	_	_	_	_	_	_
+11	ore	_	_	_	_	_	_	_	TokenRange=8014:8017
+12	otto	_	_	_	_	_	_	_	TokenRange=8018:8022
+13	e	_	_	_	_	_	_	_	TokenRange=8023:8024
+14	mezzo	_	_	_	_	_	_	_	TokenRange=8025:8030
+15	precise	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8031:8038
+16	…	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8038:8039
+17	La	_	_	_	_	_	_	_	TokenRange=8041:8043
+18	signora	_	_	_	_	_	_	_	TokenRange=8044:8051
+19	contessa	_	_	_	_	_	_	_	TokenRange=8052:8060
+20	indossò	_	_	_	_	_	_	_	TokenRange=8061:8068
+21	un	_	_	_	_	_	_	_	TokenRange=8069:8071
+22	abito	_	_	_	_	_	_	_	TokenRange=8072:8077
+23	lilla	_	_	_	_	_	_	_	TokenRange=8078:8083
+24	con	_	_	_	_	_	_	_	TokenRange=8084:8087
+25	una	_	_	_	_	_	_	_	TokenRange=8088:8091
+26	ricca	_	_	_	_	_	_	_	TokenRange=8092:8097
+27	fioritura	_	_	_	_	_	_	_	TokenRange=8098:8107
+28	di	_	_	_	_	_	_	_	TokenRange=8108:8110
+29	merletti	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8111:8119
+30-31	alla	_	_	_	_	_	_	_	TokenRange=8121:8125
+30	a	_	_	_	_	_	_	_	_
+31	la	_	_	_	_	_	_	_	_
+32	gola	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8126:8130
+33	…	_	_	_	_	_	_	_	TokenRange=8130:8131
+34	Teresina	_	_	_	_	_	_	_	TokenRange=8132:8140
+35	si	_	_	_	_	_	_	_	TokenRange=8141:8143
+36	moriva	_	_	_	_	_	_	_	TokenRange=8144:8150
+37	di	_	_	_	_	_	_	_	TokenRange=8151:8153
+38	fame…	_	_	_	_	_	_	_	TokenRange=8154:8159
+39	Lucrezia	_	_	_	_	_	_	_	TokenRange=8160:8168
+40	spasimava	_	_	_	_	_	_	_	TokenRange=8169:8178
+41	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8179:8181
+42	amore…	_	_	_	_	_	_	_	TokenRange=8181:8187
+43	Oh	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8188:8190
+44	,	_	_	_	_	_	_	_	TokenRange=8190:8191
+45	santo	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8192:8197
+46	Dio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8199:8202
+47	!	_	_	_	_	_	_	_	TokenRange=8202:8203
+
+# sent_id = 74
+# text = e che volete che me n’importi?
+1	e	_	_	_	_	_	_	_	TokenRange=8204:8205
+2	che	_	_	_	_	_	_	_	TokenRange=8206:8209
+3	volete	_	_	_	_	_	_	_	TokenRange=8210:8216
+4	che	_	_	_	_	_	_	_	TokenRange=8217:8220
+5	me	_	_	_	_	_	_	_	TokenRange=8221:8223
+6	n’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8224:8226
+7	importi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8226:8233
+8	?	_	_	_	_	_	_	_	TokenRange=8233:8234
+
+# sent_id = 75
+# text = Siamo o non siamo su un’invisibile trottolina, cui fa da ferza un fil di sole, su un granellino di sabbia impazzito che gira e gira e gira, senza saper perché, senza pervenir mai a destino, come se ci provasse gusto a girar così, per farci sentire ora un po’ più di caldo, ora un po’ più di freddo, e per farci morire – spesso con la coscienza d’aver commesso una sequela di piccole sciocchezze – dopo cinquanta o sessanta giri?
+1	Siamo	_	_	_	_	_	_	_	TokenRange=8235:8240
+2	o	_	_	_	_	_	_	_	TokenRange=8241:8242
+3	non	_	_	_	_	_	_	_	TokenRange=8243:8246
+4	siamo	_	_	_	_	_	_	_	TokenRange=8247:8252
+5	su	_	_	_	_	_	_	_	TokenRange=8253:8255
+6	un’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8256:8259
+7	invisibile	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8259:8269
+8	trottolina	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8271:8281
+9	,	_	_	_	_	_	_	_	TokenRange=8281:8282
+10	cui	_	_	_	_	_	_	_	TokenRange=8283:8286
+11	fa	_	_	_	_	_	_	_	TokenRange=8287:8289
+12	da	_	_	_	_	_	_	_	TokenRange=8290:8292
+13	ferza	_	_	_	_	_	_	_	TokenRange=8293:8298
+14	un	_	_	_	_	_	_	_	TokenRange=8299:8301
+15	fil	_	_	_	_	_	_	_	TokenRange=8302:8305
+16	di	_	_	_	_	_	_	_	TokenRange=8306:8308
+17	sole	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8309:8313
+18	,	_	_	_	_	_	_	_	TokenRange=8313:8314
+19	su	_	_	_	_	_	_	_	TokenRange=8315:8317
+20	un	_	_	_	_	_	_	_	TokenRange=8318:8320
+21	granellino	_	_	_	_	_	_	_	TokenRange=8321:8331
+22	di	_	_	_	_	_	_	_	TokenRange=8332:8334
+23	sabbia	_	_	_	_	_	_	_	TokenRange=8335:8341
+24	impazzito	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8342:8351
+25	che	_	_	_	_	_	_	_	TokenRange=8353:8356
+26	gira	_	_	_	_	_	_	_	TokenRange=8357:8361
+27	e	_	_	_	_	_	_	_	TokenRange=8362:8363
+28	gira	_	_	_	_	_	_	_	TokenRange=8364:8368
+29	e	_	_	_	_	_	_	_	TokenRange=8369:8370
+30	gira	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8371:8375
+31	,	_	_	_	_	_	_	_	TokenRange=8375:8376
+32	senza	_	_	_	_	_	_	_	TokenRange=8377:8382
+33	saper	_	_	_	_	_	_	_	TokenRange=8383:8388
+34	perché	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8389:8395
+35	,	_	_	_	_	_	_	_	TokenRange=8395:8396
+36	senza	_	_	_	_	_	_	_	TokenRange=8397:8402
+37	pervenir	_	_	_	_	_	_	_	TokenRange=8403:8411
+38	mai	_	_	_	_	_	_	_	TokenRange=8412:8415
+39	a	_	_	_	_	_	_	_	TokenRange=8416:8417
+40	destino	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8418:8425
+41	,	_	_	_	_	_	_	_	TokenRange=8425:8426
+42	come	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8427:8431
+43	se	_	_	_	_	_	_	_	TokenRange=8433:8435
+44	ci	_	_	_	_	_	_	_	TokenRange=8436:8438
+45	provasse	_	_	_	_	_	_	_	TokenRange=8439:8447
+46	gusto	_	_	_	_	_	_	_	TokenRange=8448:8453
+47	a	_	_	_	_	_	_	_	TokenRange=8454:8455
+48	girar	_	_	_	_	_	_	_	TokenRange=8456:8461
+49	così	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8462:8466
+50	,	_	_	_	_	_	_	_	TokenRange=8466:8467
+51	per	_	_	_	_	_	_	_	TokenRange=8468:8471
+52-53	farci	_	_	_	_	_	_	_	TokenRange=8472:8477
+52	far	_	_	_	_	_	_	_	_
+53	ci	_	_	_	_	_	_	_	_
+54	sentire	_	_	_	_	_	_	_	TokenRange=8478:8485
+55	ora	_	_	_	_	_	_	_	TokenRange=8486:8489
+56	un	_	_	_	_	_	_	_	TokenRange=8490:8492
+57	po’	_	_	_	_	_	_	_	TokenRange=8493:8496
+58	più	_	_	_	_	_	_	_	TokenRange=8497:8500
+59	di	_	_	_	_	_	_	_	TokenRange=8501:8503
+60	caldo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8504:8509
+61	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8509:8510
+62	ora	_	_	_	_	_	_	_	TokenRange=8512:8515
+63	un	_	_	_	_	_	_	_	TokenRange=8516:8518
+64	po’	_	_	_	_	_	_	_	TokenRange=8519:8522
+65	più	_	_	_	_	_	_	_	TokenRange=8523:8526
+66	di	_	_	_	_	_	_	_	TokenRange=8527:8529
+67	freddo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8530:8536
+68	,	_	_	_	_	_	_	_	TokenRange=8536:8537
+69	e	_	_	_	_	_	_	_	TokenRange=8538:8539
+70	per	_	_	_	_	_	_	_	TokenRange=8540:8543
+71-72	farci	_	_	_	_	_	_	_	TokenRange=8544:8549
+71	far	_	_	_	_	_	_	_	_
+72	ci	_	_	_	_	_	_	_	_
+73	morire	_	_	_	_	_	_	_	TokenRange=8550:8556
+74	–	_	_	_	_	_	_	_	TokenRange=8557:8558
+75	spesso	_	_	_	_	_	_	_	TokenRange=8559:8565
+76	con	_	_	_	_	_	_	_	TokenRange=8566:8569
+77	la	_	_	_	_	_	_	_	TokenRange=8570:8572
+78	coscienza	_	_	_	_	_	_	_	TokenRange=8573:8582
+79	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8583:8585
+80	aver	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8585:8589
+81	commesso	_	_	_	_	_	_	_	TokenRange=8591:8599
+82	una	_	_	_	_	_	_	_	TokenRange=8600:8603
+83	sequela	_	_	_	_	_	_	_	TokenRange=8604:8611
+84	di	_	_	_	_	_	_	_	TokenRange=8612:8614
+85	piccole	_	_	_	_	_	_	_	TokenRange=8615:8622
+86	sciocchezze	_	_	_	_	_	_	_	TokenRange=8623:8634
+87	–	_	_	_	_	_	_	_	TokenRange=8635:8636
+88	dopo	_	_	_	_	_	_	_	TokenRange=8637:8641
+89	cinquanta	_	_	_	_	_	_	_	TokenRange=8642:8651
+90	o	_	_	_	_	_	_	_	TokenRange=8652:8653
+91	sessanta	_	_	_	_	_	_	_	TokenRange=8654:8662
+92	giri	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8663:8667
+93	?	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8667:8668
+
+# sent_id = 76
+# text = Copernico, Copernico, don Eligio mio, ha rovinato l’umanità, irrimediabilmente.
+1	Copernico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8670:8679
+2	,	_	_	_	_	_	_	_	TokenRange=8679:8680
+3	Copernico	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8681:8690
+4	,	_	_	_	_	_	_	_	TokenRange=8690:8691
+5	don	_	_	_	_	_	_	_	TokenRange=8692:8695
+6	Eligio	_	_	_	_	_	_	_	TokenRange=8696:8702
+7	mio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8703:8706
+8	,	_	_	_	_	_	_	_	TokenRange=8706:8707
+9	ha	_	_	_	_	_	_	_	TokenRange=8708:8710
+10	rovinato	_	_	_	_	_	_	_	TokenRange=8711:8719
+11	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8720:8722
+12	umanità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8722:8729
+13	,	_	_	_	_	_	_	_	TokenRange=8729:8730
+14	irrimediabilmente	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8731:8748
+15	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8748:8749
+
+# sent_id = 77
+# text = Ormai noi tutti ci siamo a poco a poco adattati alla nuova concezione dell’infinita nostra piccolezza, a considerarci anzi men che niente nell’Universo, con tutte le nostre belle scoperte e invenzioni;
+1	Ormai	_	_	_	_	_	_	_	TokenRange=8751:8756
+2	noi	_	_	_	_	_	_	_	TokenRange=8757:8760
+3	tutti	_	_	_	_	_	_	_	TokenRange=8761:8766
+4	ci	_	_	_	_	_	_	_	TokenRange=8767:8769
+5	siamo	_	_	_	_	_	_	_	TokenRange=8770:8775
+6	a	_	_	_	_	_	_	_	TokenRange=8776:8777
+7	poco	_	_	_	_	_	_	_	TokenRange=8778:8782
+8	a	_	_	_	_	_	_	_	TokenRange=8783:8784
+9	poco	_	_	_	_	_	_	_	TokenRange=8785:8789
+10	adattati	_	_	_	_	_	_	_	TokenRange=8790:8798
+11-12	alla	_	_	_	_	_	_	_	TokenRange=8799:8803
+11	a	_	_	_	_	_	_	_	_
+12	la	_	_	_	_	_	_	_	_
+13	nuova	_	_	_	_	_	_	_	TokenRange=8804:8809
+14	concezione	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8810:8820
+15-16	dell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8822:8827
+15	di	_	_	_	_	_	_	_	_
+16	l’	_	_	_	_	_	_	_	_
+17	infinita	_	_	_	_	_	_	_	TokenRange=8827:8835
+18	nostra	_	_	_	_	_	_	_	TokenRange=8836:8842
+19	piccolezza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8843:8853
+20	,	_	_	_	_	_	_	_	TokenRange=8853:8854
+21	a	_	_	_	_	_	_	_	TokenRange=8855:8856
+22-23	considerarci	_	_	_	_	_	_	_	TokenRange=8857:8869
+22	considerar	_	_	_	_	_	_	_	_
+23	ci	_	_	_	_	_	_	_	_
+24	anzi	_	_	_	_	_	_	_	TokenRange=8870:8874
+25	men	_	_	_	_	_	_	_	TokenRange=8875:8878
+26	che	_	_	_	_	_	_	_	TokenRange=8879:8882
+27	niente	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8883:8889
+28-29	nell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8891:8896
+28	in	_	_	_	_	_	_	_	_
+29	l’	_	_	_	_	_	_	_	_
+30	Universo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8896:8904
+31	,	_	_	_	_	_	_	_	TokenRange=8904:8905
+32	con	_	_	_	_	_	_	_	TokenRange=8906:8909
+33	tutte	_	_	_	_	_	_	_	TokenRange=8910:8915
+34	le	_	_	_	_	_	_	_	TokenRange=8916:8918
+35	nostre	_	_	_	_	_	_	_	TokenRange=8919:8925
+36	belle	_	_	_	_	_	_	_	TokenRange=8926:8931
+37	scoperte	_	_	_	_	_	_	_	TokenRange=8932:8940
+38	e	_	_	_	_	_	_	_	TokenRange=8941:8942
+39	invenzioni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8943:8953
+40	;	_	_	_	_	_	_	_	TokenRange=8953:8954
+
+# sent_id = 78
+# text = e che valore dunque volete che abbiano le notizie, non dico delle nostre miserie particolari, ma anche delle generali calamità?
+1	e	_	_	_	_	_	_	_	TokenRange=8955:8956
+2	che	_	_	_	_	_	_	_	TokenRange=8957:8960
+3	valore	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=8961:8967
+4	dunque	_	_	_	_	_	_	_	TokenRange=8969:8975
+5	volete	_	_	_	_	_	_	_	TokenRange=8976:8982
+6	che	_	_	_	_	_	_	_	TokenRange=8983:8986
+7	abbiano	_	_	_	_	_	_	_	TokenRange=8987:8994
+8	le	_	_	_	_	_	_	_	TokenRange=8995:8997
+9	notizie	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=8998:9005
+10	,	_	_	_	_	_	_	_	TokenRange=9005:9006
+11	non	_	_	_	_	_	_	_	TokenRange=9007:9010
+12	dico	_	_	_	_	_	_	_	TokenRange=9011:9015
+13-14	delle	_	_	_	_	_	_	_	TokenRange=9016:9021
+13	di	_	_	_	_	_	_	_	_
+14	le	_	_	_	_	_	_	_	_
+15	nostre	_	_	_	_	_	_	_	TokenRange=9022:9028
+16	miserie	_	_	_	_	_	_	_	TokenRange=9029:9036
+17	particolari	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9037:9048
+18	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9048:9049
+19	ma	_	_	_	_	_	_	_	TokenRange=9051:9053
+20	anche	_	_	_	_	_	_	_	TokenRange=9054:9059
+21-22	delle	_	_	_	_	_	_	_	TokenRange=9060:9065
+21	di	_	_	_	_	_	_	_	_
+22	le	_	_	_	_	_	_	_	_
+23	generali	_	_	_	_	_	_	_	TokenRange=9066:9074
+24	calamità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9075:9083
+25	?	_	_	_	_	_	_	_	TokenRange=9083:9084
+
+# sent_id = 79
+# text = Storie di vermucci ormai, le nostre.
+1	Storie	_	_	_	_	_	_	_	TokenRange=9085:9091
+2	di	_	_	_	_	_	_	_	TokenRange=9092:9094
+3	vermucci	_	_	_	_	_	_	_	TokenRange=9095:9103
+4	ormai	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9104:9109
+5	,	_	_	_	_	_	_	_	TokenRange=9109:9110
+6	le	_	_	_	_	_	_	_	TokenRange=9111:9113
+7	nostre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9114:9120
+8	.	_	_	_	_	_	_	_	TokenRange=9120:9121
+
+# sent_id = 80
+# text = Avete letto di quel piccolo disastro delle Antille?
+1	Avete	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9122:9127
+2	letto	_	_	_	_	_	_	_	TokenRange=9129:9134
+3	di	_	_	_	_	_	_	_	TokenRange=9135:9137
+4	quel	_	_	_	_	_	_	_	TokenRange=9138:9142
+5	piccolo	_	_	_	_	_	_	_	TokenRange=9143:9150
+6	disastro	_	_	_	_	_	_	_	TokenRange=9151:9159
+7-8	delle	_	_	_	_	_	_	_	TokenRange=9160:9165
+7	di	_	_	_	_	_	_	_	_
+8	le	_	_	_	_	_	_	_	_
+9	Antille	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9166:9173
+10	?	_	_	_	_	_	_	_	TokenRange=9173:9174
+
+# sent_id = 81
+# text = Niente.
+1	Niente	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9175:9181
+2	.	_	_	_	_	_	_	_	TokenRange=9181:9182
+
+# sent_id = 82
+# text = La Terra, poverina, stanca di girare, come vuole quel canonico polacco, senza scopo, ha avuto un piccolo moto d’impazienza, e ha sbuffato un po’ di fuoco per una delle tante sue bocche.
+1	La	_	_	_	_	_	_	_	TokenRange=9183:9185
+2	Terra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9186:9191
+3	,	_	_	_	_	_	_	_	TokenRange=9191:9192
+4	poverina	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9193:9201
+5	,	_	_	_	_	_	_	_	TokenRange=9201:9202
+6	stanca	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9203:9209
+7	di	_	_	_	_	_	_	_	TokenRange=9211:9213
+8	girare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9214:9220
+9	,	_	_	_	_	_	_	_	TokenRange=9220:9221
+10	come	_	_	_	_	_	_	_	TokenRange=9222:9226
+11	vuole	_	_	_	_	_	_	_	TokenRange=9227:9232
+12	quel	_	_	_	_	_	_	_	TokenRange=9233:9237
+13	canonico	_	_	_	_	_	_	_	TokenRange=9238:9246
+14	polacco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9247:9254
+15	,	_	_	_	_	_	_	_	TokenRange=9254:9255
+16	senza	_	_	_	_	_	_	_	TokenRange=9256:9261
+17	scopo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9262:9267
+18	,	_	_	_	_	_	_	_	TokenRange=9267:9268
+19	ha	_	_	_	_	_	_	_	TokenRange=9269:9271
+20	avuto	_	_	_	_	_	_	_	TokenRange=9272:9277
+21	un	_	_	_	_	_	_	_	TokenRange=9278:9280
+22	piccolo	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9281:9288
+23	moto	_	_	_	_	_	_	_	TokenRange=9290:9294
+24	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9295:9297
+25	impazienza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9297:9307
+26	,	_	_	_	_	_	_	_	TokenRange=9307:9308
+27	e	_	_	_	_	_	_	_	TokenRange=9309:9310
+28	ha	_	_	_	_	_	_	_	TokenRange=9311:9313
+29	sbuffato	_	_	_	_	_	_	_	TokenRange=9314:9322
+30	un	_	_	_	_	_	_	_	TokenRange=9323:9325
+31	po’	_	_	_	_	_	_	_	TokenRange=9326:9329
+32	di	_	_	_	_	_	_	_	TokenRange=9330:9332
+33	fuoco	_	_	_	_	_	_	_	TokenRange=9333:9338
+34	per	_	_	_	_	_	_	_	TokenRange=9339:9342
+35	una	_	_	_	_	_	_	_	TokenRange=9343:9346
+36-37	delle	_	_	_	_	_	_	_	TokenRange=9347:9352
+36	di	_	_	_	_	_	_	_	_
+37	le	_	_	_	_	_	_	_	_
+38	tante	_	_	_	_	_	_	_	TokenRange=9353:9358
+39	sue	_	_	_	_	_	_	_	TokenRange=9359:9362
+40	bocche	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9363:9369
+41	.	_	_	_	_	_	_	_	SpacesAfter=\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s\s|TokenRange=9369:9370
+
+# sent_id = 83
+# text = 2% Chi sa che cosa le aveva mosso quella specie di bile.
+1	2	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9422:9423
+2	%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9423:9424
+3	Chi	_	_	_	_	_	_	_	TokenRange=9426:9429
+4	sa	_	_	_	_	_	_	_	TokenRange=9430:9432
+5	che	_	_	_	_	_	_	_	TokenRange=9433:9436
+6	cosa	_	_	_	_	_	_	_	TokenRange=9437:9441
+7	le	_	_	_	_	_	_	_	TokenRange=9442:9444
+8	aveva	_	_	_	_	_	_	_	TokenRange=9445:9450
+9	mosso	_	_	_	_	_	_	_	TokenRange=9451:9456
+10	quella	_	_	_	_	_	_	_	TokenRange=9457:9463
+11	specie	_	_	_	_	_	_	_	TokenRange=9464:9470
+12	di	_	_	_	_	_	_	_	TokenRange=9471:9473
+13	bile	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9474:9478
+14	.	_	_	_	_	_	_	_	TokenRange=9478:9479
+
+# sent_id = 84
+# text = Forse la stupidità degli uomini che non sono stati mai così nojosi come adesso.
+1	Forse	_	_	_	_	_	_	_	TokenRange=9480:9485
+2	la	_	_	_	_	_	_	_	TokenRange=9486:9488
+3	stupidità	_	_	_	_	_	_	_	TokenRange=9489:9498
+4-5	degli	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9499:9504
+4	di	_	_	_	_	_	_	_	_
+5	gli	_	_	_	_	_	_	_	_
+6	uomini	_	_	_	_	_	_	_	TokenRange=9506:9512
+7	che	_	_	_	_	_	_	_	TokenRange=9513:9516
+8	non	_	_	_	_	_	_	_	TokenRange=9517:9520
+9	sono	_	_	_	_	_	_	_	TokenRange=9521:9525
+10	stati	_	_	_	_	_	_	_	TokenRange=9526:9531
+11	mai	_	_	_	_	_	_	_	TokenRange=9532:9535
+12	così	_	_	_	_	_	_	_	TokenRange=9536:9540
+13	nojosi	_	_	_	_	_	_	_	TokenRange=9541:9547
+14	come	_	_	_	_	_	_	_	TokenRange=9548:9552
+15	adesso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9553:9559
+16	.	_	_	_	_	_	_	_	TokenRange=9559:9560
+
+# sent_id = 85
+# text = Basta.
+1	Basta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9561:9566
+2	.	_	_	_	_	_	_	_	TokenRange=9566:9567
+
+# sent_id = 86
+# text = Parecchie migliaja di vermucci abbrustoliti.
+1	Parecchie	_	_	_	_	_	_	_	TokenRange=9568:9577
+2	migliaja	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9578:9586
+3	di	_	_	_	_	_	_	_	TokenRange=9588:9590
+4	vermucci	_	_	_	_	_	_	_	TokenRange=9591:9599
+5	abbrustoliti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9600:9612
+6	.	_	_	_	_	_	_	_	TokenRange=9612:9613
+
+# sent_id = 87
+# text = E tiriamo innanzi.
+1	E	_	_	_	_	_	_	_	TokenRange=9614:9615
+2	tiriamo	_	_	_	_	_	_	_	TokenRange=9616:9623
+3	innanzi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9624:9631
+4	.	_	_	_	_	_	_	_	TokenRange=9631:9632
+
+# sent_id = 88
+# text = Chi ne parla più?
+1	Chi	_	_	_	_	_	_	_	TokenRange=9633:9636
+2	ne	_	_	_	_	_	_	_	TokenRange=9637:9639
+3	parla	_	_	_	_	_	_	_	TokenRange=9640:9645
+4	più	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9646:9649
+5	?	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=9649:9650
+
+# newpar
+# sent_id = 89
+# text = Don Eligio Pellegrinotto mi fa però osservare che, per quanti sforzi facciamo nel crudele intento di strappare, di distruggere le illusioni che la provvida natura ci aveva create a fin di bene, non ci riusciamo.
+1	Don	_	_	_	_	_	_	_	TokenRange=9654:9657
+2	Eligio	_	_	_	_	_	_	_	TokenRange=9658:9664
+3	Pellegrinotto	_	_	_	_	_	_	_	TokenRange=9665:9678
+4	mi	_	_	_	_	_	_	_	TokenRange=9679:9681
+5	fa	_	_	_	_	_	_	_	TokenRange=9682:9684
+6	però	_	_	_	_	_	_	_	TokenRange=9685:9689
+7	osservare	_	_	_	_	_	_	_	TokenRange=9690:9699
+8	che	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9700:9703
+9	,	_	_	_	_	_	_	_	TokenRange=9703:9704
+10	per	_	_	_	_	_	_	_	TokenRange=9705:9708
+11	quanti	_	_	_	_	_	_	_	TokenRange=9709:9715
+12	sforzi	_	_	_	_	_	_	_	TokenRange=9716:9722
+13	facciamo	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9723:9731
+14-15	nel	_	_	_	_	_	_	_	TokenRange=9733:9736
+14	in	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	crudele	_	_	_	_	_	_	_	TokenRange=9737:9744
+17	intento	_	_	_	_	_	_	_	TokenRange=9745:9752
+18	di	_	_	_	_	_	_	_	TokenRange=9753:9755
+19	strappare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9756:9765
+20	,	_	_	_	_	_	_	_	TokenRange=9765:9766
+21	di	_	_	_	_	_	_	_	TokenRange=9767:9769
+22	distruggere	_	_	_	_	_	_	_	TokenRange=9770:9781
+23	le	_	_	_	_	_	_	_	TokenRange=9782:9784
+24	illusioni	_	_	_	_	_	_	_	TokenRange=9785:9794
+25	che	_	_	_	_	_	_	_	TokenRange=9795:9798
+26	la	_	_	_	_	_	_	_	TokenRange=9799:9801
+27	provvida	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9802:9810
+28	natura	_	_	_	_	_	_	_	TokenRange=9812:9818
+29	ci	_	_	_	_	_	_	_	TokenRange=9819:9821
+30	aveva	_	_	_	_	_	_	_	TokenRange=9822:9827
+31	create	_	_	_	_	_	_	_	TokenRange=9828:9834
+32	a	_	_	_	_	_	_	_	TokenRange=9835:9836
+33	fin	_	_	_	_	_	_	_	TokenRange=9837:9840
+34	di	_	_	_	_	_	_	_	TokenRange=9841:9843
+35	bene	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9844:9848
+36	,	_	_	_	_	_	_	_	TokenRange=9848:9849
+37	non	_	_	_	_	_	_	_	TokenRange=9850:9853
+38	ci	_	_	_	_	_	_	_	TokenRange=9854:9856
+39	riusciamo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9857:9866
+40	.	_	_	_	_	_	_	_	TokenRange=9866:9867
+
+# sent_id = 90
+# text = Per fortuna, l’uomo si distrae facilmente.
+1	Per	_	_	_	_	_	_	_	TokenRange=9868:9871
+2	fortuna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9872:9879
+3	,	_	_	_	_	_	_	_	TokenRange=9879:9880
+4	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9881:9883
+5	uomo	_	_	_	_	_	_	_	TokenRange=9883:9887
+6	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9888:9890
+7	distrae	_	_	_	_	_	_	_	TokenRange=9892:9899
+8	facilmente	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9900:9910
+9	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=9910:9911
+
+# newpar
+# sent_id = 91
+# text = Questo è vero.
+1	Questo	_	_	_	_	_	_	_	TokenRange=9915:9921
+2	è	_	_	_	_	_	_	_	TokenRange=9922:9923
+3	vero	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9924:9928
+4	.	_	_	_	_	_	_	_	TokenRange=9928:9929
+
+# sent_id = 92
+# text = Il nostro Comune, in certe notti segnate nel calendario, non fa accendere i lampioni, e spesso – se è nuvolo – ci lascia al bujo.
+1	Il	_	_	_	_	_	_	_	TokenRange=9930:9932
+2	nostro	_	_	_	_	_	_	_	TokenRange=9933:9939
+3	Comune	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9940:9946
+4	,	_	_	_	_	_	_	_	TokenRange=9946:9947
+5	in	_	_	_	_	_	_	_	TokenRange=9948:9950
+6	certe	_	_	_	_	_	_	_	TokenRange=9951:9956
+7	notti	_	_	_	_	_	_	_	TokenRange=9957:9962
+8	segnate	_	_	_	_	_	_	_	TokenRange=9963:9970
+9-10	nel	_	_	_	_	_	_	_	TokenRange=9971:9974
+9	in	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	calendario	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=9975:9985
+12	,	_	_	_	_	_	_	_	TokenRange=9985:9986
+13	non	_	_	_	_	_	_	_	TokenRange=9987:9990
+14	fa	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=9991:9993
+15	accendere	_	_	_	_	_	_	_	TokenRange=9995:10004
+16	i	_	_	_	_	_	_	_	TokenRange=10005:10006
+17	lampioni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10007:10015
+18	,	_	_	_	_	_	_	_	TokenRange=10015:10016
+19	e	_	_	_	_	_	_	_	TokenRange=10017:10018
+20	spesso	_	_	_	_	_	_	_	TokenRange=10019:10025
+21	–	_	_	_	_	_	_	_	TokenRange=10026:10027
+22	se	_	_	_	_	_	_	_	TokenRange=10028:10030
+23	è	_	_	_	_	_	_	_	TokenRange=10031:10032
+24	nuvolo	_	_	_	_	_	_	_	TokenRange=10033:10039
+25	–	_	_	_	_	_	_	_	TokenRange=10040:10041
+26	ci	_	_	_	_	_	_	_	TokenRange=10042:10044
+27	lascia	_	_	_	_	_	_	_	TokenRange=10045:10051
+28-29	al	_	_	_	_	_	_	_	TokenRange=10052:10054
+28	a	_	_	_	_	_	_	_	_
+29	il	_	_	_	_	_	_	_	_
+30	bujo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10055:10059
+31	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10059:10060
+
+# newpar
+# sent_id = 93
+# text = Il che vuol dire, in fondo, che noi anche oggi crediamo che la luna non stia per altro nel cielo, che per farci lume di notte, come il sole di giorno, e le stelle per offrirci un magnifico spettacolo.
+1	Il	_	_	_	_	_	_	_	TokenRange=10064:10066
+2	che	_	_	_	_	_	_	_	TokenRange=10067:10070
+3	vuol	_	_	_	_	_	_	_	TokenRange=10071:10075
+4	dire	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10076:10080
+5	,	_	_	_	_	_	_	_	TokenRange=10080:10081
+6	in	_	_	_	_	_	_	_	TokenRange=10082:10084
+7	fondo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10085:10090
+8	,	_	_	_	_	_	_	_	TokenRange=10090:10091
+9	che	_	_	_	_	_	_	_	TokenRange=10092:10095
+10	noi	_	_	_	_	_	_	_	TokenRange=10096:10099
+11	anche	_	_	_	_	_	_	_	TokenRange=10100:10105
+12	oggi	_	_	_	_	_	_	_	TokenRange=10106:10110
+13	crediamo	_	_	_	_	_	_	_	TokenRange=10111:10119
+14	che	_	_	_	_	_	_	_	TokenRange=10120:10123
+15	la	_	_	_	_	_	_	_	TokenRange=10124:10126
+16	luna	_	_	_	_	_	_	_	TokenRange=10127:10131
+17	non	_	_	_	_	_	_	_	TokenRange=10132:10135
+18	stia	_	_	_	_	_	_	_	TokenRange=10136:10140
+19	per	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10141:10144
+20	altro	_	_	_	_	_	_	_	TokenRange=10146:10151
+21-22	nel	_	_	_	_	_	_	_	TokenRange=10152:10155
+21	in	_	_	_	_	_	_	_	_
+22	il	_	_	_	_	_	_	_	_
+23	cielo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10156:10161
+24	,	_	_	_	_	_	_	_	TokenRange=10161:10162
+25	che	_	_	_	_	_	_	_	TokenRange=10163:10166
+26	per	_	_	_	_	_	_	_	TokenRange=10167:10170
+27-28	farci	_	_	_	_	_	_	_	TokenRange=10171:10176
+27	far	_	_	_	_	_	_	_	_
+28	ci	_	_	_	_	_	_	_	_
+29	lume	_	_	_	_	_	_	_	TokenRange=10177:10181
+30	di	_	_	_	_	_	_	_	TokenRange=10182:10184
+31	notte	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10185:10190
+32	,	_	_	_	_	_	_	_	TokenRange=10190:10191
+33	come	_	_	_	_	_	_	_	TokenRange=10192:10196
+34	il	_	_	_	_	_	_	_	TokenRange=10197:10199
+35	sole	_	_	_	_	_	_	_	TokenRange=10200:10204
+36	di	_	_	_	_	_	_	_	TokenRange=10205:10207
+37	giorno	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10208:10214
+38	,	_	_	_	_	_	_	_	TokenRange=10214:10215
+39	e	_	_	_	_	_	_	_	TokenRange=10216:10217
+40	le	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10218:10220
+41	stelle	_	_	_	_	_	_	_	TokenRange=10222:10228
+42	per	_	_	_	_	_	_	_	TokenRange=10229:10232
+43-44	offrirci	_	_	_	_	_	_	_	TokenRange=10233:10241
+43	offrir	_	_	_	_	_	_	_	_
+44	ci	_	_	_	_	_	_	_	_
+45	un	_	_	_	_	_	_	_	TokenRange=10242:10244
+46	magnifico	_	_	_	_	_	_	_	TokenRange=10245:10254
+47	spettacolo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10255:10265
+48	.	_	_	_	_	_	_	_	TokenRange=10265:10266
+
+# sent_id = 94
+# text = Sicuro.
+1	Sicuro	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10267:10273
+2	.	_	_	_	_	_	_	_	TokenRange=10273:10274
+
+# sent_id = 95
+# text = E dimentichiamo spesso e volentieri di essere atomi infinitesimali per rispettarci e ammirarci a vicenda, e siamo capaci di azzuffarci per un pezzettino di terra o di dolerci di certe cose, che, ove fossimo veramente compenetrati di quello che siamo, dovrebbero parerci miserie incalcolabili.
+1	E	_	_	_	_	_	_	_	TokenRange=10275:10276
+2	dimentichiamo	_	_	_	_	_	_	_	TokenRange=10277:10290
+3	spesso	_	_	_	_	_	_	_	TokenRange=10291:10297
+4	e	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10298:10299
+5	volentieri	_	_	_	_	_	_	_	TokenRange=10301:10311
+6	di	_	_	_	_	_	_	_	TokenRange=10312:10314
+7	essere	_	_	_	_	_	_	_	TokenRange=10315:10321
+8	atomi	_	_	_	_	_	_	_	TokenRange=10322:10327
+9	infinitesimali	_	_	_	_	_	_	_	TokenRange=10328:10342
+10	per	_	_	_	_	_	_	_	TokenRange=10343:10346
+11-12	rispettarci	_	_	_	_	_	_	_	TokenRange=10347:10358
+11	rispettar	_	_	_	_	_	_	_	_
+12	ci	_	_	_	_	_	_	_	_
+13	e	_	_	_	_	_	_	_	TokenRange=10359:10360
+14-15	ammirarci	_	_	_	_	_	_	_	TokenRange=10361:10370
+14	ammirar	_	_	_	_	_	_	_	_
+15	ci	_	_	_	_	_	_	_	_
+16	a	_	_	_	_	_	_	_	TokenRange=10371:10372
+17	vicenda	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10373:10380
+18	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10380:10381
+19	e	_	_	_	_	_	_	_	TokenRange=10383:10384
+20	siamo	_	_	_	_	_	_	_	TokenRange=10385:10390
+21	capaci	_	_	_	_	_	_	_	TokenRange=10391:10397
+22	di	_	_	_	_	_	_	_	TokenRange=10398:10400
+23-24	azzuffarci	_	_	_	_	_	_	_	TokenRange=10401:10411
+23	azzuffar	_	_	_	_	_	_	_	_
+24	ci	_	_	_	_	_	_	_	_
+25	per	_	_	_	_	_	_	_	TokenRange=10412:10415
+26	un	_	_	_	_	_	_	_	TokenRange=10416:10418
+27	pezzettino	_	_	_	_	_	_	_	TokenRange=10419:10429
+28	di	_	_	_	_	_	_	_	TokenRange=10430:10432
+29	terra	_	_	_	_	_	_	_	TokenRange=10433:10438
+30	o	_	_	_	_	_	_	_	TokenRange=10439:10440
+31	di	_	_	_	_	_	_	_	TokenRange=10441:10443
+32	dolerci	_	_	_	_	_	_	_	TokenRange=10444:10451
+33	di	_	_	_	_	_	_	_	TokenRange=10452:10454
+34	certe	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10455:10460
+35	cose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10462:10466
+36	,	_	_	_	_	_	_	_	TokenRange=10466:10467
+37	che	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10468:10471
+38	,	_	_	_	_	_	_	_	TokenRange=10471:10472
+39	ove	_	_	_	_	_	_	_	TokenRange=10473:10476
+40	fossimo	_	_	_	_	_	_	_	TokenRange=10477:10484
+41	veramente	_	_	_	_	_	_	_	TokenRange=10485:10494
+42	compenetrati	_	_	_	_	_	_	_	TokenRange=10495:10507
+43	di	_	_	_	_	_	_	_	TokenRange=10508:10510
+44	quello	_	_	_	_	_	_	_	TokenRange=10511:10517
+45	che	_	_	_	_	_	_	_	TokenRange=10518:10521
+46	siamo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10522:10527
+47	,	_	_	_	_	_	_	_	TokenRange=10527:10528
+48	dovrebbero	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10529:10539
+49	parerci	_	_	_	_	_	_	_	TokenRange=10541:10548
+50	miserie	_	_	_	_	_	_	_	TokenRange=10549:10556
+51	incalcolabili	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10557:10570
+52	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10570:10571
+
+# newpar
+# sent_id = 96
+# text = Ebbene, in grazia di questa distrazione provvidenziale, oltre che per la stranezza del mio caso, io parlerò di me, ma quanto più brevemente mi sarà possibile, dando cioè soltanto quelle notizie che stimerò necessarie.
+1	Ebbene	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10575:10581
+2	,	_	_	_	_	_	_	_	TokenRange=10581:10582
+3	in	_	_	_	_	_	_	_	TokenRange=10583:10585
+4	grazia	_	_	_	_	_	_	_	TokenRange=10586:10592
+5	di	_	_	_	_	_	_	_	TokenRange=10593:10595
+6	questa	_	_	_	_	_	_	_	TokenRange=10596:10602
+7	distrazione	_	_	_	_	_	_	_	TokenRange=10603:10614
+8	provvidenziale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10615:10629
+9	,	_	_	_	_	_	_	_	TokenRange=10629:10630
+10	oltre	_	_	_	_	_	_	_	TokenRange=10631:10636
+11	che	_	_	_	_	_	_	_	TokenRange=10637:10640
+12	per	_	_	_	_	_	_	_	TokenRange=10641:10644
+13	la	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10645:10647
+14	stranezza	_	_	_	_	_	_	_	TokenRange=10649:10658
+15-16	del	_	_	_	_	_	_	_	TokenRange=10659:10662
+15	di	_	_	_	_	_	_	_	_
+16	il	_	_	_	_	_	_	_	_
+17	mio	_	_	_	_	_	_	_	TokenRange=10663:10666
+18	caso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10667:10671
+19	,	_	_	_	_	_	_	_	TokenRange=10671:10672
+20	io	_	_	_	_	_	_	_	TokenRange=10673:10675
+21	parlerò	_	_	_	_	_	_	_	TokenRange=10676:10683
+22	di	_	_	_	_	_	_	_	TokenRange=10684:10686
+23	me	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10687:10689
+24	,	_	_	_	_	_	_	_	TokenRange=10689:10690
+25	ma	_	_	_	_	_	_	_	TokenRange=10691:10693
+26	quanto	_	_	_	_	_	_	_	TokenRange=10694:10700
+27	più	_	_	_	_	_	_	_	TokenRange=10701:10704
+28	brevemente	_	_	_	_	_	_	_	TokenRange=10705:10715
+29	mi	_	_	_	_	_	_	_	TokenRange=10716:10718
+30	sarà	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10719:10723
+31	possibile	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10725:10734
+32	,	_	_	_	_	_	_	_	TokenRange=10734:10735
+33	dando	_	_	_	_	_	_	_	TokenRange=10736:10741
+34	cioè	_	_	_	_	_	_	_	TokenRange=10742:10746
+35	soltanto	_	_	_	_	_	_	_	TokenRange=10747:10755
+36	quelle	_	_	_	_	_	_	_	TokenRange=10756:10762
+37	notizie	_	_	_	_	_	_	_	TokenRange=10763:10770
+38	che	_	_	_	_	_	_	_	TokenRange=10771:10774
+39	stimerò	_	_	_	_	_	_	_	TokenRange=10775:10782
+40	necessarie	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10783:10793
+41	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=10793:10794
+
+# newpar
+# sent_id = 97
+# text = Alcune di esse, certo, non mi faranno molto onore; ma io mi trovo ora in una condizione così eccezionale, che posso considerarmi come già fuori della vita, e dunque senza obblighi e senza scrupoli di sorta.
+1	Alcune	_	_	_	_	_	_	_	TokenRange=10798:10804
+2	di	_	_	_	_	_	_	_	TokenRange=10805:10807
+3	esse	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10808:10812
+4	,	_	_	_	_	_	_	_	TokenRange=10812:10813
+5	certo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10814:10819
+6	,	_	_	_	_	_	_	_	TokenRange=10819:10820
+7	non	_	_	_	_	_	_	_	TokenRange=10821:10824
+8	mi	_	_	_	_	_	_	_	TokenRange=10825:10827
+9	faranno	_	_	_	_	_	_	_	TokenRange=10828:10835
+10	molto	_	_	_	_	_	_	_	TokenRange=10836:10841
+11	onore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10842:10847
+12	;	_	_	_	_	_	_	_	TokenRange=10847:10848
+13	ma	_	_	_	_	_	_	_	TokenRange=10849:10851
+14	io	_	_	_	_	_	_	_	TokenRange=10852:10854
+15	mi	_	_	_	_	_	_	_	TokenRange=10855:10857
+16	trovo	_	_	_	_	_	_	_	TokenRange=10858:10863
+17	ora	_	_	_	_	_	_	_	TokenRange=10864:10867
+18	in	_	_	_	_	_	_	_	TokenRange=10868:10870
+19	una	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10871:10874
+20	condizione	_	_	_	_	_	_	_	TokenRange=10876:10886
+21	così	_	_	_	_	_	_	_	TokenRange=10887:10891
+22	eccezionale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10892:10903
+23	,	_	_	_	_	_	_	_	TokenRange=10903:10904
+24	che	_	_	_	_	_	_	_	TokenRange=10905:10908
+25	posso	_	_	_	_	_	_	_	TokenRange=10909:10914
+26	considerarmi	_	_	_	_	_	_	_	TokenRange=10915:10927
+27	come	_	_	_	_	_	_	_	TokenRange=10928:10932
+28	già	_	_	_	_	_	_	_	TokenRange=10933:10936
+29	fuori	_	_	_	_	_	_	_	TokenRange=10937:10942
+30-31	della	_	_	_	_	_	_	_	TokenRange=10943:10948
+30	di	_	_	_	_	_	_	_	_
+31	la	_	_	_	_	_	_	_	_
+32	vita	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=10949:10953
+33	,	_	_	_	_	_	_	_	TokenRange=10953:10954
+34	e	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=10955:10956
+35	dunque	_	_	_	_	_	_	_	TokenRange=10958:10964
+36	senza	_	_	_	_	_	_	_	TokenRange=10965:10970
+37	obblighi	_	_	_	_	_	_	_	TokenRange=10971:10979
+38	e	_	_	_	_	_	_	_	TokenRange=10980:10981
+39	senza	_	_	_	_	_	_	_	TokenRange=10982:10987
+40	scrupoli	_	_	_	_	_	_	_	TokenRange=10988:10996
+41	di	_	_	_	_	_	_	_	TokenRange=10997:10999
+42	sorta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11000:11005
+43	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11005:11006
+
+# newpar
+# sent_id = 98
+# text = Cominciamo.
+1	Cominciamo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11010:11020
+2	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11020:11021
+
+# newpar
+# sent_id = 99
+# text = Ho detto troppo presto, in principio, che ho conosciuto mio padre.
+1	Ho	_	_	_	_	_	_	_	TokenRange=11025:11027
+2	detto	_	_	_	_	_	_	_	TokenRange=11028:11033
+3	troppo	_	_	_	_	_	_	_	TokenRange=11034:11040
+4	presto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11041:11047
+5	,	_	_	_	_	_	_	_	TokenRange=11047:11048
+6	in	_	_	_	_	_	_	_	TokenRange=11049:11051
+7	principio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11052:11061
+8	,	_	_	_	_	_	_	_	TokenRange=11061:11062
+9	che	_	_	_	_	_	_	_	TokenRange=11063:11066
+10	ho	_	_	_	_	_	_	_	TokenRange=11067:11069
+11	conosciuto	_	_	_	_	_	_	_	TokenRange=11070:11080
+12	mio	_	_	_	_	_	_	_	TokenRange=11081:11084
+13	padre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11085:11090
+14	.	_	_	_	_	_	_	_	TokenRange=11090:11091
+
+# sent_id = 100
+# text = Non l’ho conosciuto.
+1	Non	_	_	_	_	_	_	_	TokenRange=11092:11095
+2	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11096:11098
+3	ho	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11098:11100
+4	conosciuto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11102:11112
+5	.	_	_	_	_	_	_	_	TokenRange=11112:11113
+
+# sent_id = 101
+# text = Avevo quattr’anni e mezzo quand’egli morì.
+1	Avevo	_	_	_	_	_	_	_	TokenRange=11114:11119
+2	quattr’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11120:11127
+3	anni	_	_	_	_	_	_	_	TokenRange=11127:11131
+4	e	_	_	_	_	_	_	_	TokenRange=11132:11133
+5	mezzo	_	_	_	_	_	_	_	TokenRange=11134:11139
+6	quand’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11140:11146
+7	egli	_	_	_	_	_	_	_	TokenRange=11146:11150
+8	morì	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11151:11155
+9	.	_	_	_	_	_	_	_	TokenRange=11155:11156
+
+# sent_id = 102
+# text = Andato con un suo trabaccolo in Corsica, per certi negozii che vi faceva, non tornò più, ucciso da una perniciosa, in tre giorni, a trentotto anni.
+1	Andato	_	_	_	_	_	_	_	TokenRange=11157:11163
+2	con	_	_	_	_	_	_	_	TokenRange=11164:11167
+3	un	_	_	_	_	_	_	_	TokenRange=11168:11170
+4	suo	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11171:11174
+5	trabaccolo	_	_	_	_	_	_	_	TokenRange=11176:11186
+6	in	_	_	_	_	_	_	_	TokenRange=11187:11189
+7	Corsica	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11190:11197
+8	,	_	_	_	_	_	_	_	TokenRange=11197:11198
+9	per	_	_	_	_	_	_	_	TokenRange=11199:11202
+10	certi	_	_	_	_	_	_	_	TokenRange=11203:11208
+11	negozii	_	_	_	_	_	_	_	TokenRange=11209:11216
+12	che	_	_	_	_	_	_	_	TokenRange=11217:11220
+13	vi	_	_	_	_	_	_	_	TokenRange=11221:11223
+14	faceva	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11224:11230
+15	,	_	_	_	_	_	_	_	TokenRange=11230:11231
+16	non	_	_	_	_	_	_	_	TokenRange=11232:11235
+17	tornò	_	_	_	_	_	_	_	TokenRange=11236:11241
+18	più	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11242:11245
+19	,	_	_	_	_	_	_	_	TokenRange=11245:11246
+20	ucciso	_	_	_	_	_	_	_	TokenRange=11247:11253
+21	da	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11254:11256
+22	una	_	_	_	_	_	_	_	TokenRange=11258:11261
+23	perniciosa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11262:11272
+24	,	_	_	_	_	_	_	_	TokenRange=11272:11273
+25	in	_	_	_	_	_	_	_	TokenRange=11274:11276
+26	tre	_	_	_	_	_	_	_	TokenRange=11277:11280
+27	giorni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11281:11287
+28	,	_	_	_	_	_	_	_	TokenRange=11287:11288
+29	a	_	_	_	_	_	_	_	TokenRange=11289:11290
+30	trentotto	_	_	_	_	_	_	_	TokenRange=11291:11300
+31	anni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11301:11305
+32	.	_	_	_	_	_	_	_	TokenRange=11305:11306
+
+# sent_id = 103
+# text = Lasciò tuttavia nell’agiatezza la moglie e i due figli:
+1	Lasciò	_	_	_	_	_	_	_	TokenRange=11307:11313
+2	tuttavia	_	_	_	_	_	_	_	TokenRange=11314:11322
+3-4	nell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11323:11328
+3	in	_	_	_	_	_	_	_	_
+4	l’	_	_	_	_	_	_	_	_
+5	agiatezza	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11328:11337
+6	la	_	_	_	_	_	_	_	TokenRange=11339:11341
+7	moglie	_	_	_	_	_	_	_	TokenRange=11342:11348
+8	e	_	_	_	_	_	_	_	TokenRange=11349:11350
+9	i	_	_	_	_	_	_	_	TokenRange=11351:11352
+10	due	_	_	_	_	_	_	_	TokenRange=11353:11356
+11	figli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11357:11362
+12	:	_	_	_	_	_	_	_	TokenRange=11362:11363
+
+# sent_id = 104
+# text = Mattia (che sarei io, e fui) e Roberto, maggiore di me di due anni.
+1	Mattia	_	_	_	_	_	_	_	TokenRange=11364:11370
+2	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11371:11372
+3	che	_	_	_	_	_	_	_	TokenRange=11372:11375
+4	sarei	_	_	_	_	_	_	_	TokenRange=11376:11381
+5	io	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11382:11384
+6	,	_	_	_	_	_	_	_	TokenRange=11384:11385
+7	e	_	_	_	_	_	_	_	TokenRange=11386:11387
+8	fui	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11388:11391
+9	)	_	_	_	_	_	_	_	TokenRange=11391:11392
+10	e	_	_	_	_	_	_	_	TokenRange=11393:11394
+11	Roberto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11395:11402
+12	,	_	_	_	_	_	_	_	TokenRange=11402:11403
+13	maggiore	_	_	_	_	_	_	_	TokenRange=11404:11412
+14	di	_	_	_	_	_	_	_	TokenRange=11413:11415
+15	me	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11416:11418
+16	di	_	_	_	_	_	_	_	TokenRange=11420:11422
+17	due	_	_	_	_	_	_	_	TokenRange=11423:11426
+18	anni	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11427:11431
+19	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11431:11432
+
+# newpar
+# sent_id = 105
+# text = Qualche vecchio del paese si compiace ancora di dare a credere che la ricchezza di mio padre (la quale pure non gli dovrebbe più dar ombra, passata com’è da un pezzo in altre mani) avesse origini – diciamo così – misteriose.
+1	Qualche	_	_	_	_	_	_	_	TokenRange=11436:11443
+2	vecchio	_	_	_	_	_	_	_	TokenRange=11444:11451
+3-4	del	_	_	_	_	_	_	_	TokenRange=11452:11455
+3	di	_	_	_	_	_	_	_	_
+4	il	_	_	_	_	_	_	_	_
+5	paese	_	_	_	_	_	_	_	TokenRange=11456:11461
+6	si	_	_	_	_	_	_	_	TokenRange=11462:11464
+7	compiace	_	_	_	_	_	_	_	TokenRange=11465:11473
+8	ancora	_	_	_	_	_	_	_	TokenRange=11474:11480
+9	di	_	_	_	_	_	_	_	TokenRange=11481:11483
+10	dare	_	_	_	_	_	_	_	TokenRange=11484:11488
+11	a	_	_	_	_	_	_	_	TokenRange=11489:11490
+12	credere	_	_	_	_	_	_	_	TokenRange=11491:11498
+13	che	_	_	_	_	_	_	_	TokenRange=11499:11502
+14	la	_	_	_	_	_	_	_	TokenRange=11503:11505
+15	ricchezza	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11506:11515
+16	di	_	_	_	_	_	_	_	TokenRange=11517:11519
+17	mio	_	_	_	_	_	_	_	TokenRange=11520:11523
+18	padre	_	_	_	_	_	_	_	TokenRange=11524:11529
+19	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11530:11531
+20	la	_	_	_	_	_	_	_	TokenRange=11531:11533
+21	quale	_	_	_	_	_	_	_	TokenRange=11534:11539
+22	pure	_	_	_	_	_	_	_	TokenRange=11540:11544
+23	non	_	_	_	_	_	_	_	TokenRange=11545:11548
+24	gli	_	_	_	_	_	_	_	TokenRange=11549:11552
+25	dovrebbe	_	_	_	_	_	_	_	TokenRange=11553:11561
+26	più	_	_	_	_	_	_	_	TokenRange=11562:11565
+27	dar	_	_	_	_	_	_	_	TokenRange=11566:11569
+28	ombra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11570:11575
+29	,	_	_	_	_	_	_	_	TokenRange=11575:11576
+30	passata	_	_	_	_	_	_	_	TokenRange=11577:11584
+31	com’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11585:11589
+32	è	_	_	_	_	_	_	_	TokenRange=11589:11590
+33	da	_	_	_	_	_	_	_	TokenRange=11591:11593
+34	un	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11594:11596
+35	pezzo	_	_	_	_	_	_	_	TokenRange=11598:11603
+36	in	_	_	_	_	_	_	_	TokenRange=11604:11606
+37	altre	_	_	_	_	_	_	_	TokenRange=11607:11612
+38	mani	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11613:11617
+39	)	_	_	_	_	_	_	_	TokenRange=11617:11618
+40	avesse	_	_	_	_	_	_	_	TokenRange=11619:11625
+41	origini	_	_	_	_	_	_	_	TokenRange=11626:11633
+42	–	_	_	_	_	_	_	_	TokenRange=11634:11635
+43	diciamo	_	_	_	_	_	_	_	TokenRange=11636:11643
+44	così	_	_	_	_	_	_	_	TokenRange=11644:11648
+45	–	_	_	_	_	_	_	_	TokenRange=11649:11650
+46	misteriose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11651:11661
+47	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=11661:11662
+
+# newpar
+# sent_id = 106
+# text = Vogliono che se la fosse procacciata giocando a carte, a Marsiglia, col capitano d’un vapore mercantile inglese, il quale, dopo aver perduto tutto il denaro che aveva seco, e non doveva esser poco, si era anche giocato un grosso carico di zolfo imbarcato nella lontana Sicilia per conto d’un negoziante di Liverpool (sanno anche questo!
+1	Vogliono	_	_	_	_	_	_	_	TokenRange=11666:11674
+2	che	_	_	_	_	_	_	_	TokenRange=11675:11678
+3	se	_	_	_	_	_	_	_	TokenRange=11679:11681
+4	la	_	_	_	_	_	_	_	TokenRange=11682:11684
+5	fosse	_	_	_	_	_	_	_	TokenRange=11685:11690
+6	procacciata	_	_	_	_	_	_	_	TokenRange=11691:11702
+7	giocando	_	_	_	_	_	_	_	TokenRange=11703:11711
+8	a	_	_	_	_	_	_	_	TokenRange=11712:11713
+9	carte	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11714:11719
+10	,	_	_	_	_	_	_	_	TokenRange=11719:11720
+11	a	_	_	_	_	_	_	_	TokenRange=11721:11722
+12	Marsiglia	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11723:11732
+13	,	_	_	_	_	_	_	_	TokenRange=11732:11733
+14-15	col	_	_	_	_	_	_	_	TokenRange=11734:11737
+14	con	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	capitano	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11738:11746
+17	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11748:11750
+18	un	_	_	_	_	_	_	_	TokenRange=11750:11752
+19	vapore	_	_	_	_	_	_	_	TokenRange=11753:11759
+20	mercantile	_	_	_	_	_	_	_	TokenRange=11760:11770
+21	inglese	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11771:11778
+22	,	_	_	_	_	_	_	_	TokenRange=11778:11779
+23	il	_	_	_	_	_	_	_	TokenRange=11780:11782
+24	quale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11783:11788
+25	,	_	_	_	_	_	_	_	TokenRange=11788:11789
+26	dopo	_	_	_	_	_	_	_	TokenRange=11790:11794
+27	aver	_	_	_	_	_	_	_	TokenRange=11795:11799
+28	perduto	_	_	_	_	_	_	_	TokenRange=11800:11807
+29	tutto	_	_	_	_	_	_	_	TokenRange=11808:11813
+30	il	_	_	_	_	_	_	_	TokenRange=11814:11816
+31	denaro	_	_	_	_	_	_	_	TokenRange=11817:11823
+32	che	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11824:11827
+33	aveva	_	_	_	_	_	_	_	TokenRange=11829:11834
+34	seco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11835:11839
+35	,	_	_	_	_	_	_	_	TokenRange=11839:11840
+36	e	_	_	_	_	_	_	_	TokenRange=11841:11842
+37	non	_	_	_	_	_	_	_	TokenRange=11843:11846
+38	doveva	_	_	_	_	_	_	_	TokenRange=11847:11853
+39	esser	_	_	_	_	_	_	_	TokenRange=11854:11859
+40	poco	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11860:11864
+41	,	_	_	_	_	_	_	_	TokenRange=11864:11865
+42	si	_	_	_	_	_	_	_	TokenRange=11866:11868
+43	era	_	_	_	_	_	_	_	TokenRange=11869:11872
+44	anche	_	_	_	_	_	_	_	TokenRange=11873:11878
+45	giocato	_	_	_	_	_	_	_	TokenRange=11879:11886
+46	un	_	_	_	_	_	_	_	TokenRange=11887:11889
+47	grosso	_	_	_	_	_	_	_	TokenRange=11890:11896
+48	carico	_	_	_	_	_	_	_	TokenRange=11897:11903
+49	di	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11904:11906
+50	zolfo	_	_	_	_	_	_	_	TokenRange=11908:11913
+51	imbarcato	_	_	_	_	_	_	_	TokenRange=11914:11923
+52-53	nella	_	_	_	_	_	_	_	TokenRange=11924:11929
+52	in	_	_	_	_	_	_	_	_
+53	la	_	_	_	_	_	_	_	_
+54	lontana	_	_	_	_	_	_	_	TokenRange=11930:11937
+55	Sicilia	_	_	_	_	_	_	_	TokenRange=11938:11945
+56	per	_	_	_	_	_	_	_	TokenRange=11946:11949
+57	conto	_	_	_	_	_	_	_	TokenRange=11950:11955
+58	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11956:11958
+59	un	_	_	_	_	_	_	_	TokenRange=11958:11960
+60	negoziante	_	_	_	_	_	_	_	TokenRange=11961:11971
+61	di	_	_	_	_	_	_	_	TokenRange=11972:11974
+62	Liverpool	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=11975:11984
+63	(	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11986:11987
+64	sanno	_	_	_	_	_	_	_	TokenRange=11987:11992
+65	anche	_	_	_	_	_	_	_	TokenRange=11993:11998
+66	questo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=11999:12005
+67	!	_	_	_	_	_	_	_	TokenRange=12005:12006
+
+# sent_id = 107
+# text = e il nome?), d’un negoziante di Liverpool, che aveva noleggiato il vapore;
+1	e	_	_	_	_	_	_	_	TokenRange=12007:12008
+2	il	_	_	_	_	_	_	_	TokenRange=12009:12011
+3	nome	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12012:12016
+4	?	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12016:12017
+5	)	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12017:12018
+6	,	_	_	_	_	_	_	_	TokenRange=12018:12019
+7	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12020:12022
+8	un	_	_	_	_	_	_	_	TokenRange=12022:12024
+9	negoziante	_	_	_	_	_	_	_	TokenRange=12025:12035
+10	di	_	_	_	_	_	_	_	TokenRange=12036:12038
+11	Liverpool	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12039:12048
+12	,	_	_	_	_	_	_	_	TokenRange=12048:12049
+13	che	_	_	_	_	_	_	_	TokenRange=12050:12053
+14	aveva	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12054:12059
+15	noleggiato	_	_	_	_	_	_	_	TokenRange=12061:12071
+16	il	_	_	_	_	_	_	_	TokenRange=12072:12074
+17	vapore	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12075:12081
+18	;	_	_	_	_	_	_	_	TokenRange=12081:12082
+
+# sent_id = 108
+# text = quindi, per disperazione, salpando, s’era annegato in alto mare.
+1	quindi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12083:12089
+2	,	_	_	_	_	_	_	_	TokenRange=12089:12090
+3	per	_	_	_	_	_	_	_	TokenRange=12091:12094
+4	disperazione	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12095:12107
+5	,	_	_	_	_	_	_	_	TokenRange=12107:12108
+6	salpando	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12109:12117
+7	,	_	_	_	_	_	_	_	TokenRange=12117:12118
+8	s’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12119:12121
+9	era	_	_	_	_	_	_	_	TokenRange=12121:12124
+10	annegato	_	_	_	_	_	_	_	TokenRange=12125:12133
+11	in	_	_	_	_	_	_	_	TokenRange=12134:12136
+12	alto	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12137:12141
+13	mare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12143:12147
+14	.	_	_	_	_	_	_	_	TokenRange=12147:12148
+
+# sent_id = 109
+# text = Così il vapore era approdato a Liverpool, alleggerito anche del peso del capitano.
+1	Così	_	_	_	_	_	_	_	TokenRange=12149:12153
+2	il	_	_	_	_	_	_	_	TokenRange=12154:12156
+3	vapore	_	_	_	_	_	_	_	TokenRange=12157:12163
+4	era	_	_	_	_	_	_	_	TokenRange=12164:12167
+5	approdato	_	_	_	_	_	_	_	TokenRange=12168:12177
+6	a	_	_	_	_	_	_	_	TokenRange=12178:12179
+7	Liverpool	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12180:12189
+8	,	_	_	_	_	_	_	_	TokenRange=12189:12190
+9	alleggerito	_	_	_	_	_	_	_	TokenRange=12191:12202
+10	anche	_	_	_	_	_	_	_	TokenRange=12203:12208
+11-12	del	_	_	_	_	_	_	_	TokenRange=12209:12212
+11	di	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	peso	_	_	_	_	_	_	_	TokenRange=12213:12217
+14-15	del	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12218:12221
+14	di	_	_	_	_	_	_	_	_
+15	il	_	_	_	_	_	_	_	_
+16	capitano	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12223:12231
+17	.	_	_	_	_	_	_	_	TokenRange=12231:12232
+
+# sent_id = 110
+# text = Fortuna che aveva per zavorra la malignità de’ miei compaesani.
+1	Fortuna	_	_	_	_	_	_	_	TokenRange=12233:12240
+2	che	_	_	_	_	_	_	_	TokenRange=12241:12244
+3	aveva	_	_	_	_	_	_	_	TokenRange=12245:12250
+4	per	_	_	_	_	_	_	_	TokenRange=12251:12254
+5	zavorra	_	_	_	_	_	_	_	TokenRange=12255:12262
+6	la	_	_	_	_	_	_	_	TokenRange=12263:12265
+7	malignità	_	_	_	_	_	_	_	TokenRange=12266:12275
+8	de’	_	_	_	_	_	_	_	TokenRange=12276:12279
+9	miei	_	_	_	_	_	_	_	TokenRange=12280:12284
+10	compaesani	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12285:12295
+11	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=12295:12296
+
+# newpar
+# sent_id = 111
+# text = Possedevamo terre e case.
+1	Possedevamo	_	_	_	_	_	_	_	TokenRange=12300:12311
+2	terre	_	_	_	_	_	_	_	TokenRange=12312:12317
+3	e	_	_	_	_	_	_	_	TokenRange=12318:12319
+4	case	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12320:12324
+5	.	_	_	_	_	_	_	_	TokenRange=12324:12325
+
+# sent_id = 112
+# text = Sagace e avventuroso, mio padre non ebbe mai pe’ suoi commerci stabile sede:
+1	Sagace	_	_	_	_	_	_	_	TokenRange=12326:12332
+2	e	_	_	_	_	_	_	_	TokenRange=12333:12334
+3	avventuroso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12335:12346
+4	,	_	_	_	_	_	_	_	TokenRange=12346:12347
+5	mio	_	_	_	_	_	_	_	TokenRange=12348:12351
+6	padre	_	_	_	_	_	_	_	TokenRange=12352:12357
+7	non	_	_	_	_	_	_	_	TokenRange=12358:12361
+8	ebbe	_	_	_	_	_	_	_	TokenRange=12362:12366
+9	mai	_	_	_	_	_	_	_	TokenRange=12367:12370
+10	pe’	_	_	_	_	_	_	_	TokenRange=12371:12374
+11	suoi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12375:12379
+12	commerci	_	_	_	_	_	_	_	TokenRange=12381:12389
+13	stabile	_	_	_	_	_	_	_	TokenRange=12390:12397
+14	sede	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12398:12402
+15	:	_	_	_	_	_	_	_	TokenRange=12402:12403
+
+# sent_id = 113
+# text = sempre in giro con quel suo trabaccolo, dove trovava meglio e più opportunamente comprava e subito rivendeva mercanzie d’ogni genere;
+1	sempre	_	_	_	_	_	_	_	TokenRange=12404:12410
+2	in	_	_	_	_	_	_	_	TokenRange=12411:12413
+3	giro	_	_	_	_	_	_	_	TokenRange=12414:12418
+4	con	_	_	_	_	_	_	_	TokenRange=12419:12422
+5	quel	_	_	_	_	_	_	_	TokenRange=12423:12427
+6	suo	_	_	_	_	_	_	_	TokenRange=12428:12431
+7	trabaccolo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12432:12442
+8	,	_	_	_	_	_	_	_	TokenRange=12442:12443
+9	dove	_	_	_	_	_	_	_	TokenRange=12444:12448
+10	trovava	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12449:12456
+11	meglio	_	_	_	_	_	_	_	TokenRange=12458:12464
+12	e	_	_	_	_	_	_	_	TokenRange=12465:12466
+13	più	_	_	_	_	_	_	_	TokenRange=12467:12470
+14	opportunamente	_	_	_	_	_	_	_	TokenRange=12471:12485
+15	comprava	_	_	_	_	_	_	_	TokenRange=12486:12494
+16	e	_	_	_	_	_	_	_	TokenRange=12495:12496
+17	subito	_	_	_	_	_	_	_	TokenRange=12497:12503
+18	rivendeva	_	_	_	_	_	_	_	TokenRange=12504:12513
+19	mercanzie	_	_	_	_	_	_	_	TokenRange=12514:12523
+20	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12524:12526
+21	ogni	_	_	_	_	_	_	_	TokenRange=12526:12530
+22	genere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12531:12537
+23	;	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12537:12538
+
+# sent_id = 114
+# text = e perché non fosse tentato a imprese troppo grandi e rischiose, investiva a mano a mano i guadagni in terre e case, qui, nel proprio paesello, dove presto forse contava di riposarsi negli agi faticosamente acquistati, contento e in pace tra la moglie e i figliuoli.
+1	e	_	_	_	_	_	_	_	TokenRange=12540:12541
+2	perché	_	_	_	_	_	_	_	TokenRange=12542:12548
+3	non	_	_	_	_	_	_	_	TokenRange=12549:12552
+4	fosse	_	_	_	_	_	_	_	TokenRange=12553:12558
+5	tentato	_	_	_	_	_	_	_	TokenRange=12559:12566
+6	a	_	_	_	_	_	_	_	TokenRange=12567:12568
+7	imprese	_	_	_	_	_	_	_	TokenRange=12569:12576
+8	troppo	_	_	_	_	_	_	_	TokenRange=12577:12583
+9	grandi	_	_	_	_	_	_	_	TokenRange=12584:12590
+10	e	_	_	_	_	_	_	_	TokenRange=12591:12592
+11	rischiose	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12593:12602
+12	,	_	_	_	_	_	_	_	TokenRange=12602:12603
+13	investiva	_	_	_	_	_	_	_	TokenRange=12604:12613
+14	a	_	_	_	_	_	_	_	TokenRange=12614:12615
+15	mano	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12616:12620
+16	a	_	_	_	_	_	_	_	TokenRange=12622:12623
+17	mano	_	_	_	_	_	_	_	TokenRange=12624:12628
+18	i	_	_	_	_	_	_	_	TokenRange=12629:12630
+19	guadagni	_	_	_	_	_	_	_	TokenRange=12631:12639
+20	in	_	_	_	_	_	_	_	TokenRange=12640:12642
+21	terre	_	_	_	_	_	_	_	TokenRange=12643:12648
+22	e	_	_	_	_	_	_	_	TokenRange=12649:12650
+23	case	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12651:12655
+24	,	_	_	_	_	_	_	_	TokenRange=12655:12656
+25	qui	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12657:12660
+26	,	_	_	_	_	_	_	_	TokenRange=12660:12661
+27-28	nel	_	_	_	_	_	_	_	TokenRange=12662:12665
+27	in	_	_	_	_	_	_	_	_
+28	il	_	_	_	_	_	_	_	_
+29	proprio	_	_	_	_	_	_	_	TokenRange=12666:12673
+30	paesello	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12674:12682
+31	,	_	_	_	_	_	_	_	TokenRange=12682:12683
+32	dove	_	_	_	_	_	_	_	TokenRange=12684:12688
+33	presto	_	_	_	_	_	_	_	TokenRange=12689:12695
+34	forse	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12696:12701
+35	contava	_	_	_	_	_	_	_	TokenRange=12703:12710
+36	di	_	_	_	_	_	_	_	TokenRange=12711:12713
+37-38	riposarsi	_	_	_	_	_	_	_	TokenRange=12714:12723
+37	riposar	_	_	_	_	_	_	_	_
+38	si	_	_	_	_	_	_	_	_
+39-40	negli	_	_	_	_	_	_	_	TokenRange=12724:12729
+39	in	_	_	_	_	_	_	_	_
+40	gli	_	_	_	_	_	_	_	_
+41	agi	_	_	_	_	_	_	_	TokenRange=12730:12733
+42	faticosamente	_	_	_	_	_	_	_	TokenRange=12734:12747
+43	acquistati	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12748:12758
+44	,	_	_	_	_	_	_	_	TokenRange=12758:12759
+45	contento	_	_	_	_	_	_	_	TokenRange=12760:12768
+46	e	_	_	_	_	_	_	_	TokenRange=12769:12770
+47	in	_	_	_	_	_	_	_	TokenRange=12771:12773
+48	pace	_	_	_	_	_	_	_	TokenRange=12774:12778
+49	tra	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12779:12782
+50	la	_	_	_	_	_	_	_	TokenRange=12784:12786
+51	moglie	_	_	_	_	_	_	_	TokenRange=12787:12793
+52	e	_	_	_	_	_	_	_	TokenRange=12794:12795
+53	i	_	_	_	_	_	_	_	TokenRange=12796:12797
+54	figliuoli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12798:12807
+55	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=12807:12808
+
+# newpar
+# sent_id = 115
+# text = Così acquistò prima la terra delle Due Riviere, ricca di olivi e di gelsi, poi il podere della Stìa, anch’esso riccamente beneficato e con una bella sorgiva d’acqua, che fu presa quindi per il molino;
+1	Così	_	_	_	_	_	_	_	TokenRange=12812:12816
+2	acquistò	_	_	_	_	_	_	_	TokenRange=12817:12825
+3	prima	_	_	_	_	_	_	_	TokenRange=12826:12831
+4	la	_	_	_	_	_	_	_	TokenRange=12832:12834
+5	terra	_	_	_	_	_	_	_	TokenRange=12835:12840
+6-7	delle	_	_	_	_	_	_	_	TokenRange=12841:12846
+6	di	_	_	_	_	_	_	_	_
+7	le	_	_	_	_	_	_	_	_
+8	Due	_	_	_	_	_	_	_	TokenRange=12847:12850
+9	Riviere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12851:12858
+10	,	_	_	_	_	_	_	_	TokenRange=12858:12859
+11	ricca	_	_	_	_	_	_	_	TokenRange=12860:12865
+12	di	_	_	_	_	_	_	_	TokenRange=12866:12868
+13	olivi	_	_	_	_	_	_	_	TokenRange=12869:12874
+14	e	_	_	_	_	_	_	_	TokenRange=12875:12876
+15	di	_	_	_	_	_	_	_	TokenRange=12877:12879
+16	gelsi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12880:12885
+17	,	_	_	_	_	_	_	_	TokenRange=12885:12886
+18	poi	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12887:12890
+19	il	_	_	_	_	_	_	_	TokenRange=12892:12894
+20	podere	_	_	_	_	_	_	_	TokenRange=12895:12901
+21-22	della	_	_	_	_	_	_	_	TokenRange=12902:12907
+21	di	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	Stìa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12908:12912
+24	,	_	_	_	_	_	_	_	TokenRange=12912:12913
+25	anch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12914:12919
+26	esso	_	_	_	_	_	_	_	TokenRange=12919:12923
+27	riccamente	_	_	_	_	_	_	_	TokenRange=12924:12934
+28	beneficato	_	_	_	_	_	_	_	TokenRange=12935:12945
+29	e	_	_	_	_	_	_	_	TokenRange=12946:12947
+30	con	_	_	_	_	_	_	_	TokenRange=12948:12951
+31	una	_	_	_	_	_	_	_	TokenRange=12952:12955
+32	bella	_	_	_	_	_	_	_	TokenRange=12956:12961
+33	sorgiva	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=12962:12969
+34	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12971:12973
+35	acqua	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=12973:12978
+36	,	_	_	_	_	_	_	_	TokenRange=12978:12979
+37	che	_	_	_	_	_	_	_	TokenRange=12980:12983
+38	fu	_	_	_	_	_	_	_	TokenRange=12984:12986
+39	presa	_	_	_	_	_	_	_	TokenRange=12987:12992
+40	quindi	_	_	_	_	_	_	_	TokenRange=12993:12999
+41	per	_	_	_	_	_	_	_	TokenRange=13000:13003
+42	il	_	_	_	_	_	_	_	TokenRange=13004:13006
+43	molino	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13007:13013
+44	;	_	_	_	_	_	_	_	TokenRange=13013:13014
+
+# sent_id = 116
+# text = poi tutta la poggiata dello Sperone, ch’era il miglior vigneto della nostra contrada, e infine San Rocchino, ove edificò una villa deliziosa.
+1	poi	_	_	_	_	_	_	_	TokenRange=13015:13018
+2	tutta	_	_	_	_	_	_	_	TokenRange=13019:13024
+3	la	_	_	_	_	_	_	_	TokenRange=13025:13027
+4	poggiata	_	_	_	_	_	_	_	TokenRange=13028:13036
+5-6	dello	_	_	_	_	_	_	_	TokenRange=13037:13042
+5	di	_	_	_	_	_	_	_	_
+6	lo	_	_	_	_	_	_	_	_
+7	Sperone	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13043:13050
+8	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13050:13051
+9	ch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13053:13056
+10	era	_	_	_	_	_	_	_	TokenRange=13056:13059
+11	il	_	_	_	_	_	_	_	TokenRange=13060:13062
+12	miglior	_	_	_	_	_	_	_	TokenRange=13063:13070
+13	vigneto	_	_	_	_	_	_	_	TokenRange=13071:13078
+14-15	della	_	_	_	_	_	_	_	TokenRange=13079:13084
+14	di	_	_	_	_	_	_	_	_
+15	la	_	_	_	_	_	_	_	_
+16	nostra	_	_	_	_	_	_	_	TokenRange=13085:13091
+17	contrada	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13092:13100
+18	,	_	_	_	_	_	_	_	TokenRange=13100:13101
+19	e	_	_	_	_	_	_	_	TokenRange=13102:13103
+20	infine	_	_	_	_	_	_	_	TokenRange=13104:13110
+21	San	_	_	_	_	_	_	_	TokenRange=13111:13114
+22	Rocchino	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13115:13123
+23	,	_	_	_	_	_	_	_	TokenRange=13123:13124
+24	ove	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13125:13128
+25	edificò	_	_	_	_	_	_	_	TokenRange=13130:13137
+26	una	_	_	_	_	_	_	_	TokenRange=13138:13141
+27	villa	_	_	_	_	_	_	_	TokenRange=13142:13147
+28	deliziosa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13148:13157
+29	.	_	_	_	_	_	_	_	TokenRange=13157:13158
+
+# sent_id = 117
+# text = In paese, oltre alla casa in cui abitavamo, acquistò due altre case e tutto quell’isolato, ora ridotto e acconciato ad arsenale.
+1	In	_	_	_	_	_	_	_	TokenRange=13159:13161
+2	paese	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13162:13167
+3	,	_	_	_	_	_	_	_	TokenRange=13167:13168
+4	oltre	_	_	_	_	_	_	_	TokenRange=13169:13174
+5-6	alla	_	_	_	_	_	_	_	TokenRange=13175:13179
+5	a	_	_	_	_	_	_	_	_
+6	la	_	_	_	_	_	_	_	_
+7	casa	_	_	_	_	_	_	_	TokenRange=13180:13184
+8	in	_	_	_	_	_	_	_	TokenRange=13185:13187
+9	cui	_	_	_	_	_	_	_	TokenRange=13188:13191
+10	abitavamo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13192:13201
+11	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13201:13202
+12	acquistò	_	_	_	_	_	_	_	TokenRange=13204:13212
+13	due	_	_	_	_	_	_	_	TokenRange=13213:13216
+14	altre	_	_	_	_	_	_	_	TokenRange=13217:13222
+15	case	_	_	_	_	_	_	_	TokenRange=13223:13227
+16	e	_	_	_	_	_	_	_	TokenRange=13228:13229
+17	tutto	_	_	_	_	_	_	_	TokenRange=13230:13235
+18-19	quell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13236:13242
+18	qui	_	_	_	_	_	_	_	_
+19	l’	_	_	_	_	_	_	_	_
+20	isolato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13242:13249
+21	,	_	_	_	_	_	_	_	TokenRange=13249:13250
+22	ora	_	_	_	_	_	_	_	TokenRange=13251:13254
+23	ridotto	_	_	_	_	_	_	_	TokenRange=13255:13262
+24	e	_	_	_	_	_	_	_	TokenRange=13263:13264
+25	acconciato	_	_	_	_	_	_	_	TokenRange=13265:13275
+26	ad	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13276:13278
+27	arsenale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13280:13288
+28	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=13288:13289
+
+# newpar
+# sent_id = 118
+# text = La sua morte quasi improvvisa fu la nostra rovina.
+1	La	_	_	_	_	_	_	_	TokenRange=13293:13295
+2	sua	_	_	_	_	_	_	_	TokenRange=13296:13299
+3	morte	_	_	_	_	_	_	_	TokenRange=13300:13305
+4	quasi	_	_	_	_	_	_	_	TokenRange=13306:13311
+5	improvvisa	_	_	_	_	_	_	_	TokenRange=13312:13322
+6	fu	_	_	_	_	_	_	_	TokenRange=13323:13325
+7	la	_	_	_	_	_	_	_	TokenRange=13326:13328
+8	nostra	_	_	_	_	_	_	_	TokenRange=13329:13335
+9	rovina	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13336:13342
+10	.	_	_	_	_	_	_	_	TokenRange=13342:13343
+
+# sent_id = 119
+# text = Mia madre, inetta al governo dell’eredità, dovette affidarlo a uno che, per aver ricevuto tanti beneficii da mio padre fino a cangiar di stato, stimò dovesse sentir l’obbligo di almeno un po’ di gratitudine, la quale, oltre lo zelo e l’onestà, non gli sarebbe costata sacrifizii d’alcuna sorta, poiché era lautamente remunerato.
+1	Mia	_	_	_	_	_	_	_	TokenRange=13344:13347
+2	madre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13348:13353
+3	,	_	_	_	_	_	_	_	TokenRange=13353:13354
+4	inetta	_	_	_	_	_	_	_	TokenRange=13355:13361
+5-6	al	_	_	_	_	_	_	_	TokenRange=13362:13364
+5	a	_	_	_	_	_	_	_	_
+6	il	_	_	_	_	_	_	_	_
+7	governo	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13365:13372
+8-9	dell’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13374:13379
+8	di	_	_	_	_	_	_	_	_
+9	l’	_	_	_	_	_	_	_	_
+10	eredità	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13379:13386
+11	,	_	_	_	_	_	_	_	TokenRange=13386:13387
+12	dovette	_	_	_	_	_	_	_	TokenRange=13388:13395
+13-14	affidarlo	_	_	_	_	_	_	_	TokenRange=13396:13405
+13	affidar	_	_	_	_	_	_	_	_
+14	lo	_	_	_	_	_	_	_	_
+15	a	_	_	_	_	_	_	_	TokenRange=13406:13407
+16	uno	_	_	_	_	_	_	_	TokenRange=13408:13411
+17	che	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13412:13415
+18	,	_	_	_	_	_	_	_	TokenRange=13415:13416
+19	per	_	_	_	_	_	_	_	TokenRange=13417:13420
+20	aver	_	_	_	_	_	_	_	TokenRange=13421:13425
+21	ricevuto	_	_	_	_	_	_	_	TokenRange=13426:13434
+22	tanti	_	_	_	_	_	_	_	TokenRange=13435:13440
+23	beneficii	_	_	_	_	_	_	_	TokenRange=13441:13450
+24	da	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13451:13453
+25	mio	_	_	_	_	_	_	_	TokenRange=13455:13458
+26	padre	_	_	_	_	_	_	_	TokenRange=13459:13464
+27	fino	_	_	_	_	_	_	_	TokenRange=13465:13469
+28	a	_	_	_	_	_	_	_	TokenRange=13470:13471
+29	cangiar	_	_	_	_	_	_	_	TokenRange=13472:13479
+30	di	_	_	_	_	_	_	_	TokenRange=13480:13482
+31	stato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13483:13488
+32	,	_	_	_	_	_	_	_	TokenRange=13488:13489
+33	stimò	_	_	_	_	_	_	_	TokenRange=13490:13495
+34	dovesse	_	_	_	_	_	_	_	TokenRange=13496:13503
+35	sentir	_	_	_	_	_	_	_	TokenRange=13504:13510
+36	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13511:13513
+37	obbligo	_	_	_	_	_	_	_	TokenRange=13513:13520
+38	di	_	_	_	_	_	_	_	TokenRange=13521:13523
+39	almeno	_	_	_	_	_	_	_	TokenRange=13524:13530
+40	un	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13531:13533
+41	po’	_	_	_	_	_	_	_	TokenRange=13535:13538
+42	di	_	_	_	_	_	_	_	TokenRange=13539:13541
+43	gratitudine	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13542:13553
+44	,	_	_	_	_	_	_	_	TokenRange=13553:13554
+45	la	_	_	_	_	_	_	_	TokenRange=13555:13557
+46	quale	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13558:13563
+47	,	_	_	_	_	_	_	_	TokenRange=13563:13564
+48	oltre	_	_	_	_	_	_	_	TokenRange=13565:13570
+49	lo	_	_	_	_	_	_	_	TokenRange=13571:13573
+50	zelo	_	_	_	_	_	_	_	TokenRange=13574:13578
+51	e	_	_	_	_	_	_	_	TokenRange=13579:13580
+52	l’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13581:13583
+53	onestà	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13583:13589
+54	,	_	_	_	_	_	_	_	TokenRange=13589:13590
+55	non	_	_	_	_	_	_	_	TokenRange=13591:13594
+56	gli	_	_	_	_	_	_	_	TokenRange=13595:13598
+57	sarebbe	_	_	_	_	_	_	_	TokenRange=13599:13606
+58	costata	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13607:13614
+59	sacrifizii	_	_	_	_	_	_	_	TokenRange=13616:13626
+60	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13627:13629
+61	alcuna	_	_	_	_	_	_	_	TokenRange=13629:13635
+62	sorta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13636:13641
+63	,	_	_	_	_	_	_	_	TokenRange=13641:13642
+64	poiché	_	_	_	_	_	_	_	TokenRange=13643:13649
+65	era	_	_	_	_	_	_	_	TokenRange=13650:13653
+66	lautamente	_	_	_	_	_	_	_	TokenRange=13654:13664
+67	remunerato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13665:13675
+68	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=13675:13676
+
+# newpar
+# sent_id = 120
+# text = Santa donna, mia madre!
+1	Santa	_	_	_	_	_	_	_	TokenRange=13680:13685
+2	donna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13686:13691
+3	,	_	_	_	_	_	_	_	TokenRange=13691:13692
+4	mia	_	_	_	_	_	_	_	TokenRange=13693:13696
+5	madre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13697:13702
+6	!	_	_	_	_	_	_	_	TokenRange=13702:13703
+
+# sent_id = 121
+# text = D’indole schiva e placidissima, aveva così scarsa 4% esperienza della vita e degli uomini!
+1	D’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13704:13706
+2	indole	_	_	_	_	_	_	_	TokenRange=13706:13712
+3	schiva	_	_	_	_	_	_	_	TokenRange=13713:13719
+4	e	_	_	_	_	_	_	_	TokenRange=13720:13721
+5	placidissima	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13722:13734
+6	,	_	_	_	_	_	_	_	TokenRange=13734:13735
+7	aveva	_	_	_	_	_	_	_	TokenRange=13736:13741
+8	così	_	_	_	_	_	_	_	TokenRange=13742:13746
+9	scarsa	_	_	_	_	_	_	_	SpacesAfter=\s\s\s|TokenRange=13747:13753
+10	4	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13756:13757
+11	%	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13757:13758
+12	esperienza	_	_	_	_	_	_	_	TokenRange=13760:13770
+13-14	della	_	_	_	_	_	_	_	TokenRange=13771:13776
+13	di	_	_	_	_	_	_	_	_
+14	la	_	_	_	_	_	_	_	_
+15	vita	_	_	_	_	_	_	_	TokenRange=13777:13781
+16	e	_	_	_	_	_	_	_	TokenRange=13782:13783
+17-18	degli	_	_	_	_	_	_	_	TokenRange=13784:13789
+17	di	_	_	_	_	_	_	_	_
+18	gli	_	_	_	_	_	_	_	_
+19	uomini	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13790:13796
+20	!	_	_	_	_	_	_	_	TokenRange=13796:13797
+
+# sent_id = 122
+# text = A sentirla parlare, pareva una bambina.
+1	A	_	_	_	_	_	_	_	TokenRange=13798:13799
+2-3	sentirla	_	_	_	_	_	_	_	TokenRange=13800:13808
+2	sentir	_	_	_	_	_	_	_	_
+3	la	_	_	_	_	_	_	_	_
+4	parlare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13809:13816
+5	,	_	_	_	_	_	_	_	TokenRange=13816:13817
+6	pareva	_	_	_	_	_	_	_	TokenRange=13818:13824
+7	una	_	_	_	_	_	_	_	TokenRange=13825:13828
+8	bambina	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13829:13836
+9	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13836:13837
+
+# sent_id = 123
+# text = Parlava con accento nasale e rideva anche col naso, giacché ogni volta, come si vergognasse di ridere, stringeva le labbra.
+1	Parlava	_	_	_	_	_	_	_	TokenRange=13839:13846
+2	con	_	_	_	_	_	_	_	TokenRange=13847:13850
+3	accento	_	_	_	_	_	_	_	TokenRange=13851:13858
+4	nasale	_	_	_	_	_	_	_	TokenRange=13859:13865
+5	e	_	_	_	_	_	_	_	TokenRange=13866:13867
+6	rideva	_	_	_	_	_	_	_	TokenRange=13868:13874
+7	anche	_	_	_	_	_	_	_	TokenRange=13875:13880
+8-9	col	_	_	_	_	_	_	_	TokenRange=13881:13884
+8	con	_	_	_	_	_	_	_	_
+9	il	_	_	_	_	_	_	_	_
+10	naso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13885:13889
+11	,	_	_	_	_	_	_	_	TokenRange=13889:13890
+12	giacché	_	_	_	_	_	_	_	TokenRange=13891:13898
+13	ogni	_	_	_	_	_	_	_	TokenRange=13899:13903
+14	volta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13904:13909
+15	,	_	_	_	_	_	_	_	TokenRange=13909:13910
+16	come	_	_	_	_	_	_	_	TokenRange=13911:13915
+17	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13916:13918
+18	vergognasse	_	_	_	_	_	_	_	TokenRange=13920:13931
+19	di	_	_	_	_	_	_	_	TokenRange=13932:13934
+20	ridere	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13935:13941
+21	,	_	_	_	_	_	_	_	TokenRange=13941:13942
+22	stringeva	_	_	_	_	_	_	_	TokenRange=13943:13952
+23	le	_	_	_	_	_	_	_	TokenRange=13953:13955
+24	labbra	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13956:13962
+25	.	_	_	_	_	_	_	_	TokenRange=13962:13963
+
+# sent_id = 124
+# text = Gracilissima di complessione, fu, dopo la morte di mio padre, sempre malferma in salute;
+1	Gracilissima	_	_	_	_	_	_	_	TokenRange=13964:13976
+2	di	_	_	_	_	_	_	_	TokenRange=13977:13979
+3	complessione	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13980:13992
+4	,	_	_	_	_	_	_	_	TokenRange=13992:13993
+5	fu	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=13994:13996
+6	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=13996:13997
+7	dopo	_	_	_	_	_	_	_	TokenRange=13999:14003
+8	la	_	_	_	_	_	_	_	TokenRange=14004:14006
+9	morte	_	_	_	_	_	_	_	TokenRange=14007:14012
+10	di	_	_	_	_	_	_	_	TokenRange=14013:14015
+11	mio	_	_	_	_	_	_	_	TokenRange=14016:14019
+12	padre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14020:14025
+13	,	_	_	_	_	_	_	_	TokenRange=14025:14026
+14	sempre	_	_	_	_	_	_	_	TokenRange=14027:14033
+15	malferma	_	_	_	_	_	_	_	TokenRange=14034:14042
+16	in	_	_	_	_	_	_	_	TokenRange=14043:14045
+17	salute	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14046:14052
+18	;	_	_	_	_	_	_	_	TokenRange=14052:14053
+
+# sent_id = 125
+# text = ma non si lagnò mai de’ suoi mali, né credo se ne infastidisse neppure con se stessa, accettandoli, rassegnata, come una conseguenza naturale della sua sciagura.
+1	ma	_	_	_	_	_	_	_	TokenRange=14054:14056
+2	non	_	_	_	_	_	_	_	TokenRange=14057:14060
+3	si	_	_	_	_	_	_	_	TokenRange=14061:14063
+4	lagnò	_	_	_	_	_	_	_	TokenRange=14064:14069
+5	mai	_	_	_	_	_	_	_	TokenRange=14070:14073
+6	de’	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14074:14077
+7	suoi	_	_	_	_	_	_	_	TokenRange=14079:14083
+8	mali	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14084:14088
+9	,	_	_	_	_	_	_	_	TokenRange=14088:14089
+10	né	_	_	_	_	_	_	_	TokenRange=14090:14092
+11	credo	_	_	_	_	_	_	_	TokenRange=14093:14098
+12	se	_	_	_	_	_	_	_	TokenRange=14099:14101
+13	ne	_	_	_	_	_	_	_	TokenRange=14102:14104
+14	infastidisse	_	_	_	_	_	_	_	TokenRange=14105:14117
+15	neppure	_	_	_	_	_	_	_	TokenRange=14118:14125
+16	con	_	_	_	_	_	_	_	TokenRange=14126:14129
+17	se	_	_	_	_	_	_	_	TokenRange=14130:14132
+18	stessa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14133:14139
+19	,	_	_	_	_	_	_	_	TokenRange=14139:14140
+20-21	accettandoli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14141:14153
+20	accettando	_	_	_	_	_	_	_	_
+21	li	_	_	_	_	_	_	_	_
+22	,	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14153:14154
+23	rassegnata	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14156:14166
+24	,	_	_	_	_	_	_	_	TokenRange=14166:14167
+25	come	_	_	_	_	_	_	_	TokenRange=14168:14172
+26	una	_	_	_	_	_	_	_	TokenRange=14173:14176
+27	conseguenza	_	_	_	_	_	_	_	TokenRange=14177:14188
+28	naturale	_	_	_	_	_	_	_	TokenRange=14189:14197
+29-30	della	_	_	_	_	_	_	_	TokenRange=14198:14203
+29	di	_	_	_	_	_	_	_	_
+30	la	_	_	_	_	_	_	_	_
+31	sua	_	_	_	_	_	_	_	TokenRange=14204:14207
+32	sciagura	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14208:14216
+33	.	_	_	_	_	_	_	_	TokenRange=14216:14217
+
+# sent_id = 126
+# text = Forse si aspettava di morire anch’essa, dal cordoglio, e doveva dunque ringraziare Iddio che la teneva in vita, pur così tapina e tribolata, per il bene dei figliuoli.
+1	Forse	_	_	_	_	_	_	_	TokenRange=14218:14223
+2	si	_	_	_	_	_	_	_	TokenRange=14224:14226
+3	aspettava	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14227:14236
+4	di	_	_	_	_	_	_	_	TokenRange=14238:14240
+5	morire	_	_	_	_	_	_	_	TokenRange=14241:14247
+6	anch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14248:14253
+7	essa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14253:14257
+8	,	_	_	_	_	_	_	_	TokenRange=14257:14258
+9-10	dal	_	_	_	_	_	_	_	TokenRange=14259:14262
+9	da	_	_	_	_	_	_	_	_
+10	il	_	_	_	_	_	_	_	_
+11	cordoglio	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14263:14272
+12	,	_	_	_	_	_	_	_	TokenRange=14272:14273
+13	e	_	_	_	_	_	_	_	TokenRange=14274:14275
+14	doveva	_	_	_	_	_	_	_	TokenRange=14276:14282
+15	dunque	_	_	_	_	_	_	_	TokenRange=14283:14289
+16	ringraziare	_	_	_	_	_	_	_	TokenRange=14290:14301
+17	Iddio	_	_	_	_	_	_	_	TokenRange=14302:14307
+18	che	_	_	_	_	_	_	_	TokenRange=14308:14311
+19	la	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14312:14314
+20	teneva	_	_	_	_	_	_	_	TokenRange=14316:14322
+21	in	_	_	_	_	_	_	_	TokenRange=14323:14325
+22	vita	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14326:14330
+23	,	_	_	_	_	_	_	_	TokenRange=14330:14331
+24	pur	_	_	_	_	_	_	_	TokenRange=14332:14335
+25	così	_	_	_	_	_	_	_	TokenRange=14336:14340
+26	tapina	_	_	_	_	_	_	_	TokenRange=14341:14347
+27	e	_	_	_	_	_	_	_	TokenRange=14348:14349
+28	tribolata	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14350:14359
+29	,	_	_	_	_	_	_	_	TokenRange=14359:14360
+30	per	_	_	_	_	_	_	_	TokenRange=14361:14364
+31	il	_	_	_	_	_	_	_	TokenRange=14365:14367
+32	bene	_	_	_	_	_	_	_	TokenRange=14368:14372
+33-34	dei	_	_	_	_	_	_	_	TokenRange=14373:14376
+33	di	_	_	_	_	_	_	_	_
+34	i	_	_	_	_	_	_	_	_
+35	figliuoli	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14377:14386
+36	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=14386:14387
+
+# newpar
+# sent_id = 127
+# text = Aveva per noi una tenerezza addirittura morbosa, piena di palpiti e di sgomento:
+1	Aveva	_	_	_	_	_	_	_	TokenRange=14391:14396
+2	per	_	_	_	_	_	_	_	TokenRange=14397:14400
+3	noi	_	_	_	_	_	_	_	TokenRange=14401:14404
+4	una	_	_	_	_	_	_	_	TokenRange=14405:14408
+5	tenerezza	_	_	_	_	_	_	_	TokenRange=14409:14418
+6	addirittura	_	_	_	_	_	_	_	TokenRange=14419:14430
+7	morbosa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14431:14438
+8	,	_	_	_	_	_	_	_	TokenRange=14438:14439
+9	piena	_	_	_	_	_	_	_	TokenRange=14440:14445
+10	di	_	_	_	_	_	_	_	TokenRange=14446:14448
+11	palpiti	_	_	_	_	_	_	_	TokenRange=14449:14456
+12	e	_	_	_	_	_	_	_	TokenRange=14457:14458
+13	di	_	_	_	_	_	_	_	TokenRange=14459:14461
+14	sgomento	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14462:14470
+15	:	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14470:14471
+
+# sent_id = 128
+# text = ci voleva sempre vicini, quasi temesse di perderci, e spesso mandava in giro le serve per la vasta casa, appena qualcuno di noi si fosse un po’ allontanato.
+1	ci	_	_	_	_	_	_	_	TokenRange=14473:14475
+2	voleva	_	_	_	_	_	_	_	TokenRange=14476:14482
+3	sempre	_	_	_	_	_	_	_	TokenRange=14483:14489
+4	vicini	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14490:14496
+5	,	_	_	_	_	_	_	_	TokenRange=14496:14497
+6	quasi	_	_	_	_	_	_	_	TokenRange=14498:14503
+7	temesse	_	_	_	_	_	_	_	TokenRange=14504:14511
+8	di	_	_	_	_	_	_	_	TokenRange=14512:14514
+9-10	perderci	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14515:14523
+9	perder	_	_	_	_	_	_	_	_
+10	ci	_	_	_	_	_	_	_	_
+11	,	_	_	_	_	_	_	_	TokenRange=14523:14524
+12	e	_	_	_	_	_	_	_	TokenRange=14525:14526
+13	spesso	_	_	_	_	_	_	_	TokenRange=14527:14533
+14	mandava	_	_	_	_	_	_	_	TokenRange=14534:14541
+15	in	_	_	_	_	_	_	_	TokenRange=14542:14544
+16	giro	_	_	_	_	_	_	_	TokenRange=14545:14549
+17	le	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14550:14552
+18	serve	_	_	_	_	_	_	_	TokenRange=14554:14559
+19	per	_	_	_	_	_	_	_	TokenRange=14560:14563
+20	la	_	_	_	_	_	_	_	TokenRange=14564:14566
+21	vasta	_	_	_	_	_	_	_	TokenRange=14567:14572
+22	casa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14573:14577
+23	,	_	_	_	_	_	_	_	TokenRange=14577:14578
+24	appena	_	_	_	_	_	_	_	TokenRange=14579:14585
+25	qualcuno	_	_	_	_	_	_	_	TokenRange=14586:14594
+26	di	_	_	_	_	_	_	_	TokenRange=14595:14597
+27	noi	_	_	_	_	_	_	_	TokenRange=14598:14601
+28	si	_	_	_	_	_	_	_	TokenRange=14602:14604
+29	fosse	_	_	_	_	_	_	_	TokenRange=14605:14610
+30	un	_	_	_	_	_	_	_	TokenRange=14611:14613
+31	po’	_	_	_	_	_	_	_	TokenRange=14614:14617
+32	allontanato	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14618:14629
+33	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=14629:14630
+
+# newpar
+# sent_id = 129
+# text = Come una cieca, s’era abbandonata alla guida del marito;
+1	Come	_	_	_	_	_	_	_	TokenRange=14634:14638
+2	una	_	_	_	_	_	_	_	TokenRange=14639:14642
+3	cieca	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14643:14648
+4	,	_	_	_	_	_	_	_	TokenRange=14648:14649
+5	s’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14650:14652
+6	era	_	_	_	_	_	_	_	TokenRange=14652:14655
+7	abbandonata	_	_	_	_	_	_	_	TokenRange=14656:14667
+8-9	alla	_	_	_	_	_	_	_	TokenRange=14668:14672
+8	a	_	_	_	_	_	_	_	_
+9	la	_	_	_	_	_	_	_	_
+10	guida	_	_	_	_	_	_	_	TokenRange=14673:14678
+11-12	del	_	_	_	_	_	_	_	TokenRange=14679:14682
+11	di	_	_	_	_	_	_	_	_
+12	il	_	_	_	_	_	_	_	_
+13	marito	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14683:14689
+14	;	_	_	_	_	_	_	_	TokenRange=14689:14690
+
+# sent_id = 130
+# text = rimastane senza, si sentì sperduta nel mondo.
+1	rimastane	_	_	_	_	_	_	_	TokenRange=14691:14700
+2	senza	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14701:14706
+3	,	_	_	_	_	_	_	_	TokenRange=14706:14707
+4	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14708:14710
+5	sentì	_	_	_	_	_	_	_	TokenRange=14712:14717
+6	sperduta	_	_	_	_	_	_	_	TokenRange=14718:14726
+7-8	nel	_	_	_	_	_	_	_	TokenRange=14727:14730
+7	in	_	_	_	_	_	_	_	_
+8	il	_	_	_	_	_	_	_	_
+9	mondo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14731:14736
+10	.	_	_	_	_	_	_	_	TokenRange=14736:14737
+
+# sent_id = 131
+# text = E non uscì più di casa, tranne le domeniche, di mattina per tempo, per andare a messa nella prossima chiesa, accompagnata dalle due vecchie serve, ch’ella trattava come parenti.
+1	E	_	_	_	_	_	_	_	TokenRange=14738:14739
+2	non	_	_	_	_	_	_	_	TokenRange=14740:14743
+3	uscì	_	_	_	_	_	_	_	TokenRange=14744:14748
+4	più	_	_	_	_	_	_	_	TokenRange=14749:14752
+5	di	_	_	_	_	_	_	_	TokenRange=14753:14755
+6	casa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14756:14760
+7	,	_	_	_	_	_	_	_	TokenRange=14760:14761
+8	tranne	_	_	_	_	_	_	_	TokenRange=14762:14768
+9	le	_	_	_	_	_	_	_	TokenRange=14769:14771
+10	domeniche	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14772:14781
+11	,	_	_	_	_	_	_	_	TokenRange=14781:14782
+12	di	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14783:14785
+13	mattina	_	_	_	_	_	_	_	TokenRange=14787:14794
+14	per	_	_	_	_	_	_	_	TokenRange=14795:14798
+15	tempo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14799:14804
+16	,	_	_	_	_	_	_	_	TokenRange=14804:14805
+17	per	_	_	_	_	_	_	_	TokenRange=14806:14809
+18	andare	_	_	_	_	_	_	_	TokenRange=14810:14816
+19	a	_	_	_	_	_	_	_	TokenRange=14817:14818
+20	messa	_	_	_	_	_	_	_	TokenRange=14819:14824
+21-22	nella	_	_	_	_	_	_	_	TokenRange=14825:14830
+21	in	_	_	_	_	_	_	_	_
+22	la	_	_	_	_	_	_	_	_
+23	prossima	_	_	_	_	_	_	_	TokenRange=14831:14839
+24	chiesa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14840:14846
+25	,	_	_	_	_	_	_	_	TokenRange=14846:14847
+26	accompagnata	_	_	_	_	_	_	_	TokenRange=14848:14860
+27-28	dalle	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14861:14866
+27	da	_	_	_	_	_	_	_	_
+28	le	_	_	_	_	_	_	_	_
+29	due	_	_	_	_	_	_	_	TokenRange=14868:14871
+30	vecchie	_	_	_	_	_	_	_	TokenRange=14872:14879
+31	serve	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14880:14885
+32	,	_	_	_	_	_	_	_	TokenRange=14885:14886
+33	ch’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14887:14890
+34	ella	_	_	_	_	_	_	_	TokenRange=14890:14894
+35	trattava	_	_	_	_	_	_	_	TokenRange=14895:14903
+36	come	_	_	_	_	_	_	_	TokenRange=14904:14908
+37	parenti	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14909:14916
+38	.	_	_	_	_	_	_	_	TokenRange=14916:14917
+
+# sent_id = 132
+# text = Nella stessa casa, anzi, si restrinse a vivere in tre camere soltanto, abbandonando le molte altre alle scarse cure delle serve e alle nostre diavolerie.
+1-2	Nella	_	_	_	_	_	_	_	TokenRange=14918:14923
+1	In	_	_	_	_	_	_	_	_
+2	la	_	_	_	_	_	_	_	_
+3	stessa	_	_	_	_	_	_	_	TokenRange=14924:14930
+4	casa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14931:14935
+5	,	_	_	_	_	_	_	_	TokenRange=14935:14936
+6	anzi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14937:14941
+7	,	_	_	_	_	_	_	_	TokenRange=14941:14942
+8	si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=14943:14945
+9	restrinse	_	_	_	_	_	_	_	TokenRange=14947:14956
+10	a	_	_	_	_	_	_	_	TokenRange=14957:14958
+11	vivere	_	_	_	_	_	_	_	TokenRange=14959:14965
+12	in	_	_	_	_	_	_	_	TokenRange=14966:14968
+13	tre	_	_	_	_	_	_	_	TokenRange=14969:14972
+14	camere	_	_	_	_	_	_	_	TokenRange=14973:14979
+15	soltanto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=14980:14988
+16	,	_	_	_	_	_	_	_	TokenRange=14988:14989
+17	abbandonando	_	_	_	_	_	_	_	TokenRange=14990:15002
+18	le	_	_	_	_	_	_	_	TokenRange=15003:15005
+19	molte	_	_	_	_	_	_	_	TokenRange=15006:15011
+20	altre	_	_	_	_	_	_	_	TokenRange=15012:15017
+21-22	alle	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15018:15022
+21	a	_	_	_	_	_	_	_	_
+22	le	_	_	_	_	_	_	_	_
+23	scarse	_	_	_	_	_	_	_	TokenRange=15024:15030
+24	cure	_	_	_	_	_	_	_	TokenRange=15031:15035
+25-26	delle	_	_	_	_	_	_	_	TokenRange=15036:15041
+25	di	_	_	_	_	_	_	_	_
+26	le	_	_	_	_	_	_	_	_
+27	serve	_	_	_	_	_	_	_	TokenRange=15042:15047
+28	e	_	_	_	_	_	_	_	TokenRange=15048:15049
+29-30	alle	_	_	_	_	_	_	_	TokenRange=15050:15054
+29	a	_	_	_	_	_	_	_	_
+30	le	_	_	_	_	_	_	_	_
+31	nostre	_	_	_	_	_	_	_	TokenRange=15055:15061
+32	diavolerie	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15062:15072
+33	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=15072:15073
+
+# newpar
+# sent_id = 133
+# text = Spirava, in quelle stanze, da tutti i mobili d’antica foggia, dalle tende scolorite, quel tanfo speciale delle cose antiche, quasi il respiro d’un altro tempo;
+1	Spirava	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15077:15084
+2	,	_	_	_	_	_	_	_	TokenRange=15084:15085
+3	in	_	_	_	_	_	_	_	TokenRange=15086:15088
+4	quelle	_	_	_	_	_	_	_	TokenRange=15089:15095
+5	stanze	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15096:15102
+6	,	_	_	_	_	_	_	_	TokenRange=15102:15103
+7	da	_	_	_	_	_	_	_	TokenRange=15104:15106
+8	tutti	_	_	_	_	_	_	_	TokenRange=15107:15112
+9	i	_	_	_	_	_	_	_	TokenRange=15113:15114
+10	mobili	_	_	_	_	_	_	_	TokenRange=15115:15121
+11	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15122:15124
+12	antica	_	_	_	_	_	_	_	TokenRange=15124:15130
+13	foggia	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15131:15137
+14	,	_	_	_	_	_	_	_	TokenRange=15137:15138
+15-16	dalle	_	_	_	_	_	_	_	TokenRange=15139:15144
+15	da	_	_	_	_	_	_	_	_
+16	le	_	_	_	_	_	_	_	_
+17	tende	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15145:15150
+18	scolorite	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15152:15161
+19	,	_	_	_	_	_	_	_	TokenRange=15161:15162
+20	quel	_	_	_	_	_	_	_	TokenRange=15163:15167
+21	tanfo	_	_	_	_	_	_	_	TokenRange=15168:15173
+22	speciale	_	_	_	_	_	_	_	TokenRange=15174:15182
+23-24	delle	_	_	_	_	_	_	_	TokenRange=15183:15188
+23	di	_	_	_	_	_	_	_	_
+24	le	_	_	_	_	_	_	_	_
+25	cose	_	_	_	_	_	_	_	TokenRange=15189:15193
+26	antiche	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15194:15201
+27	,	_	_	_	_	_	_	_	TokenRange=15201:15202
+28	quasi	_	_	_	_	_	_	_	TokenRange=15203:15208
+29	il	_	_	_	_	_	_	_	TokenRange=15209:15211
+30	respiro	_	_	_	_	_	_	_	TokenRange=15212:15219
+31	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15220:15222
+32	un	_	_	_	_	_	_	_	TokenRange=15222:15224
+33	altro	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15225:15230
+34	tempo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15232:15237
+35	;	_	_	_	_	_	_	_	TokenRange=15237:15238
+
+# sent_id = 134
+# text = e ricordo che più d’una volta io mi guardai attorno con una strana costernazione che mi veniva dalla immobilità silenziosa di quei vecchi oggetti da tanti anni lì senz’uso, senza vita.
+1	e	_	_	_	_	_	_	_	TokenRange=15239:15240
+2	ricordo	_	_	_	_	_	_	_	TokenRange=15241:15248
+3	che	_	_	_	_	_	_	_	TokenRange=15249:15252
+4	più	_	_	_	_	_	_	_	TokenRange=15253:15256
+5	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15257:15259
+6	una	_	_	_	_	_	_	_	TokenRange=15259:15262
+7	volta	_	_	_	_	_	_	_	TokenRange=15263:15268
+8	io	_	_	_	_	_	_	_	TokenRange=15269:15271
+9	mi	_	_	_	_	_	_	_	TokenRange=15272:15274
+10	guardai	_	_	_	_	_	_	_	TokenRange=15275:15282
+11	attorno	_	_	_	_	_	_	_	TokenRange=15283:15290
+12	con	_	_	_	_	_	_	_	TokenRange=15291:15294
+13	una	_	_	_	_	_	_	_	TokenRange=15295:15298
+14	strana	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15299:15305
+15	costernazione	_	_	_	_	_	_	_	TokenRange=15307:15320
+16	che	_	_	_	_	_	_	_	TokenRange=15321:15324
+17	mi	_	_	_	_	_	_	_	TokenRange=15325:15327
+18	veniva	_	_	_	_	_	_	_	TokenRange=15328:15334
+19-20	dalla	_	_	_	_	_	_	_	TokenRange=15335:15340
+19	da	_	_	_	_	_	_	_	_
+20	la	_	_	_	_	_	_	_	_
+21	immobilità	_	_	_	_	_	_	_	TokenRange=15341:15351
+22	silenziosa	_	_	_	_	_	_	_	TokenRange=15352:15362
+23	di	_	_	_	_	_	_	_	TokenRange=15363:15365
+24	quei	_	_	_	_	_	_	_	TokenRange=15366:15370
+25	vecchi	_	_	_	_	_	_	_	TokenRange=15371:15377
+26	oggetti	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15378:15385
+27	da	_	_	_	_	_	_	_	TokenRange=15387:15389
+28	tanti	_	_	_	_	_	_	_	TokenRange=15390:15395
+29	anni	_	_	_	_	_	_	_	TokenRange=15396:15400
+30	lì	_	_	_	_	_	_	_	TokenRange=15401:15403
+31	senz’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15404:15409
+32	uso	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15409:15412
+33	,	_	_	_	_	_	_	_	TokenRange=15412:15413
+34	senza	_	_	_	_	_	_	_	TokenRange=15414:15419
+35	vita	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15420:15424
+36	.	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=15424:15425
+
+# newpar
+# sent_id = 135
+# text = Fra coloro che più spesso venivano a visitar la mamma era una sorella di mio padre, zitellona bisbetica, con un pajo d’occhi da furetto, bruna e fiera.
+1	Fra	_	_	_	_	_	_	_	TokenRange=15429:15432
+2	coloro	_	_	_	_	_	_	_	TokenRange=15433:15439
+3	che	_	_	_	_	_	_	_	TokenRange=15440:15443
+4	più	_	_	_	_	_	_	_	TokenRange=15444:15447
+5	spesso	_	_	_	_	_	_	_	TokenRange=15448:15454
+6	venivano	_	_	_	_	_	_	_	TokenRange=15455:15463
+7	a	_	_	_	_	_	_	_	TokenRange=15464:15465
+8	visitar	_	_	_	_	_	_	_	TokenRange=15466:15473
+9	la	_	_	_	_	_	_	_	TokenRange=15474:15476
+10	mamma	_	_	_	_	_	_	_	TokenRange=15477:15482
+11	era	_	_	_	_	_	_	_	TokenRange=15483:15486
+12	una	_	_	_	_	_	_	_	TokenRange=15487:15490
+13	sorella	_	_	_	_	_	_	_	TokenRange=15491:15498
+14	di	_	_	_	_	_	_	_	TokenRange=15499:15501
+15	mio	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15502:15505
+16	padre	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15507:15512
+17	,	_	_	_	_	_	_	_	TokenRange=15512:15513
+18	zitellona	_	_	_	_	_	_	_	TokenRange=15514:15523
+19	bisbetica	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15524:15533
+20	,	_	_	_	_	_	_	_	TokenRange=15533:15534
+21	con	_	_	_	_	_	_	_	TokenRange=15535:15538
+22	un	_	_	_	_	_	_	_	TokenRange=15539:15541
+23	pajo	_	_	_	_	_	_	_	TokenRange=15542:15546
+24	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15547:15549
+25	occhi	_	_	_	_	_	_	_	TokenRange=15549:15554
+26	da	_	_	_	_	_	_	_	TokenRange=15555:15557
+27	furetto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15558:15565
+28	,	_	_	_	_	_	_	_	TokenRange=15565:15566
+29	bruna	_	_	_	_	_	_	_	TokenRange=15567:15572
+30	e	_	_	_	_	_	_	_	TokenRange=15573:15574
+31	fiera	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15575:15580
+32	.	_	_	_	_	_	_	_	TokenRange=15580:15581
+
+# sent_id = 136
+# text = Si chiamava Scolastica.
+1	Si	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15582:15584
+2	chiamava	_	_	_	_	_	_	_	TokenRange=15586:15594
+3	Scolastica	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15595:15605
+4	.	_	_	_	_	_	_	_	TokenRange=15605:15606
+
+# sent_id = 137
+# text = Ma si tratteneva, ogni volta, pochissimo, perché tutt’a un tratto, discorrendo, s’infuriava, e scappava via senza salutare nessuno.
+1	Ma	_	_	_	_	_	_	_	TokenRange=15607:15609
+2	si	_	_	_	_	_	_	_	TokenRange=15610:15612
+3	tratteneva	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15613:15623
+4	,	_	_	_	_	_	_	_	TokenRange=15623:15624
+5	ogni	_	_	_	_	_	_	_	TokenRange=15625:15629
+6	volta	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15630:15635
+7	,	_	_	_	_	_	_	_	TokenRange=15635:15636
+8	pochissimo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15637:15647
+9	,	_	_	_	_	_	_	_	TokenRange=15647:15648
+10	perché	_	_	_	_	_	_	_	TokenRange=15649:15655
+11	tutt’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15656:15661
+12	a	_	_	_	_	_	_	_	TokenRange=15661:15662
+13	un	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15663:15665
+14	tratto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15667:15673
+15	,	_	_	_	_	_	_	_	TokenRange=15673:15674
+16	discorrendo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15675:15686
+17	,	_	_	_	_	_	_	_	TokenRange=15686:15687
+18	s’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15688:15690
+19	infuriava	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15690:15699
+20	,	_	_	_	_	_	_	_	TokenRange=15699:15700
+21	e	_	_	_	_	_	_	_	TokenRange=15701:15702
+22	scappava	_	_	_	_	_	_	_	TokenRange=15703:15711
+23	via	_	_	_	_	_	_	_	TokenRange=15712:15715
+24	senza	_	_	_	_	_	_	_	TokenRange=15716:15721
+25	salutare	_	_	_	_	_	_	_	TokenRange=15722:15730
+26	nessuno	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15731:15738
+27	.	_	_	_	_	_	_	_	TokenRange=15738:15739
+
+# sent_id = 138
+# text = Io, da ragazzo, ne avevo una gran paura.
+1	Io	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15740:15742
+2	,	_	_	_	_	_	_	_	TokenRange=15742:15743
+3	da	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15744:15746
+4	ragazzo	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15748:15755
+5	,	_	_	_	_	_	_	_	TokenRange=15755:15756
+6	ne	_	_	_	_	_	_	_	TokenRange=15757:15759
+7	avevo	_	_	_	_	_	_	_	TokenRange=15760:15765
+8	una	_	_	_	_	_	_	_	TokenRange=15766:15769
+9	gran	_	_	_	_	_	_	_	TokenRange=15770:15774
+10	paura	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15775:15780
+11	.	_	_	_	_	_	_	_	TokenRange=15780:15781
+
+# sent_id = 139
+# text = La guardavo con tanto d’occhi, specialmente quando la vedevo scattare in piedi su le furie e le sentivo gridare, rivolta a mia madre e pestando rabbiosamente un piede sul pavimento:
+1	La	_	_	_	_	_	_	_	TokenRange=15782:15784
+2	guardavo	_	_	_	_	_	_	_	TokenRange=15785:15793
+3	con	_	_	_	_	_	_	_	TokenRange=15794:15797
+4	tanto	_	_	_	_	_	_	_	TokenRange=15798:15803
+5	d’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15804:15806
+6	occhi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15806:15811
+7	,	_	_	_	_	_	_	_	TokenRange=15811:15812
+8	specialmente	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15813:15825
+9	quando	_	_	_	_	_	_	_	TokenRange=15827:15833
+10	la	_	_	_	_	_	_	_	TokenRange=15834:15836
+11	vedevo	_	_	_	_	_	_	_	TokenRange=15837:15843
+12	scattare	_	_	_	_	_	_	_	TokenRange=15844:15852
+13	in	_	_	_	_	_	_	_	TokenRange=15853:15855
+14	piedi	_	_	_	_	_	_	_	TokenRange=15856:15861
+15	su	_	_	_	_	_	_	_	TokenRange=15862:15864
+16	le	_	_	_	_	_	_	_	TokenRange=15865:15867
+17	furie	_	_	_	_	_	_	_	TokenRange=15868:15873
+18	e	_	_	_	_	_	_	_	TokenRange=15874:15875
+19	le	_	_	_	_	_	_	_	TokenRange=15876:15878
+20	sentivo	_	_	_	_	_	_	_	TokenRange=15879:15886
+21	gridare	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15887:15894
+22	,	_	_	_	_	_	_	_	TokenRange=15894:15895
+23	rivolta	_	_	_	_	_	_	_	TokenRange=15896:15903
+24	a	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=15904:15905
+25	mia	_	_	_	_	_	_	_	TokenRange=15907:15910
+26	madre	_	_	_	_	_	_	_	TokenRange=15911:15916
+27	e	_	_	_	_	_	_	_	TokenRange=15917:15918
+28	pestando	_	_	_	_	_	_	_	TokenRange=15919:15927
+29	rabbiosamente	_	_	_	_	_	_	_	TokenRange=15928:15941
+30	un	_	_	_	_	_	_	_	TokenRange=15942:15944
+31	piede	_	_	_	_	_	_	_	TokenRange=15945:15950
+32-33	sul	_	_	_	_	_	_	_	TokenRange=15951:15954
+32	su	_	_	_	_	_	_	_	_
+33	il	_	_	_	_	_	_	_	_
+34	pavimento	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15955:15964
+35	:	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=15964:15965
+
+# newpar
+# sent_id = 140
+# text = — Senti il vuoto?
+1	—	_	_	_	_	_	_	_	TokenRange=15969:15970
+2	Senti	_	_	_	_	_	_	_	TokenRange=15971:15976
+3	il	_	_	_	_	_	_	_	TokenRange=15977:15979
+4	vuoto	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15980:15985
+5	?	_	_	_	_	_	_	_	TokenRange=15985:15986
+
+# sent_id = 141
+# text = La talpa!
+1	La	_	_	_	_	_	_	_	TokenRange=15987:15989
+2	talpa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=15990:15995
+3	!	_	_	_	_	_	_	_	TokenRange=15995:15996
+
+# sent_id = 142
+# text = la talpa!
+1	la	_	_	_	_	_	_	_	TokenRange=15997:15999
+2	talpa	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16000:16005
+3	!	_	_	_	_	_	_	_	SpacesAfter=\r\n\r\n|TokenRange=16005:16006
+
+# newpar
+# sent_id = 143
+# text = Alludeva al Malagna, all’amministratore che ci scavava soppiatto la fossa sotto i piedi.
+1	Alludeva	_	_	_	_	_	_	_	TokenRange=16010:16018
+2-3	al	_	_	_	_	_	_	_	TokenRange=16019:16021
+2	a	_	_	_	_	_	_	_	_
+3	il	_	_	_	_	_	_	_	_
+4	Malagna	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16022:16029
+5	,	_	_	_	_	_	_	_	TokenRange=16029:16030
+6-7	all’	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16031:16035
+6	a	_	_	_	_	_	_	_	_
+7	l’	_	_	_	_	_	_	_	_
+8	amministratore	_	_	_	_	_	_	_	TokenRange=16035:16049
+9	che	_	_	_	_	_	_	_	TokenRange=16050:16053
+10	ci	_	_	_	_	_	_	_	TokenRange=16054:16056
+11	scavava	_	_	_	_	_	_	_	TokenRange=16057:16064
+12	soppiatto	_	_	_	_	_	_	_	TokenRange=16065:16074
+13	la	_	_	_	_	_	_	_	TokenRange=16075:16077
+14	fossa	_	_	_	_	_	_	_	TokenRange=16078:16083
+15	sotto	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16084:16089
+16	i	_	_	_	_	_	_	_	TokenRange=16091:16092
+17	piedi	_	_	_	_	_	_	_	SpaceAfter=No|TokenRange=16093:16098
+18	.	_	_	_	_	_	_	_	SpacesAfter=\r\n|TokenRange=16098:16099
+
