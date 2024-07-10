@@ -1,6 +1,6 @@
 # Course 2: MWE annotation
 
-## Lecture 1 
+## Lecture 1: basic concepts
 - [slides](https://docs.google.com/presentation/d/1pb83jk2FAvQko88mQ24POaF2oncr0UhcWOR9wXDwWKg/) (with interactively added multilingual examples)
 
 
@@ -35,3 +35,33 @@ MWE =
   - statistical
   - trad. ML-based
   - deep learning-based
+
+## Lecture 2: annotation
+- [full documentation](https://parsemefr.lis-lab.fr/parseme-st-guidelines/1.2/)
+- two-step process:
+  1. PIE (Potentially Idiomatic Expression) identification (based on native speaker intuition)
+  2. classification according to unified guidelines (using a decision tree, such as the one for [verbs](https://parsemefr.lis-lab.fr/parseme-st-guidelines/1.2/?page=040_Annotation_process_-_decision_tree)) 
+- multi-token words are not PIEs, but multi-word tokens can be (whatever that means)
+- distinguish lexicalized items vs. open slots (= parts of the MWE that can vary)
+- classification based on POS tag
+  - verbal
+    - `LVC` - Light Verb Constructions (_give a lecture_)
+    - `VID` - Verbal IDioms (_go bananas_)
+    - `IRV` - Inherently Reflexive Verbs (_find oneself in a difficult situation_)
+    - `VPC` - Verb-Particle Constructions (`.full`: _give up_ = surrender, `.semi`: _eat up_ (semi-compositional))
+  - nominal:
+    - `NID` - Nominal IDioms (_pecora nera_)
+    - `VMWENom` - Nominalizations of verbal VMWEs (_decision making_)
+  - modifier (ADJ, ADV) (WIP)
+  - functional (WIP)
+  - pronominal
+
+### Annotation exercise
+![annotation exercise](ex1_mwe.png)
+
+## Session 3: annotation
+Questions:
+
+- LVC vs VID? __LVCs are slightly more compositional and the meaning comes from the noun, which is the "semantic head"__
+- is the POS the POS of the phrase or the POS of the head constituent? __Of the phrase__
+- how to remove an annotation? __NotMWE or blank in dropdown menu__
